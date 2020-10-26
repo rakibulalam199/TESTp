@@ -133,8 +133,6 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/45.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/33.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="A3 Bikini Network" tvg-logo="https://oklivetv.com/wp-content/uploads/media/97fce9678a3eaf2df217ec5f40b7b9f4.jpeg" group-title="Lifestyle" tvg-shift="-24",A3 Bikini Network
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name=" Jasmin TV" tvg-logo="https://i.pinimg.com/originals/cd/d0/c8/cdd0c866d1891ef6d29df48762f5f370.gif" group-title="Lifestyle" tvg-shift="-24", Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Sonyaath(src07).in(m3u4u)" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/653px-Sony_Aath_logo.svg.png" group-title="Shows & Series" tvg-shift="-24",Sony Aath
 http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 #EXTINF:-1 tvg-id="StarJalsha(src07).in(m3u4u)" tvg-name="Star Jalsha HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png/revision/latest/top-crop/width/300/height/300?cb=20190224050939" group-title="Shows & Series" tvg-shift="-24",Star Jalsha HD
