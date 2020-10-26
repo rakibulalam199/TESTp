@@ -127,10 +127,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
 http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
 #EXTINF:-1 tvg-id="FoxLife.es(m3u4u)" tvg-name="Fox Life" tvg-logo="https://i.imgur.com/oi6c9gJ.png" group-title="Lifestyle" tvg-shift="-24",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="TLC(src07).in(m3u4u)" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle" tvg-shift="-24",TLC
-http://iptv.kitv.live:1935/live/Shari/MTV-P/45.m3u8
-#EXTINF:-1 tvg-id="HumMasala.us(m3u4u)" tvg-name="Hum Masala" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="Lifestyle" tvg-shift="-24",Hum Masala
-http://iptv.kitv.live:1935/live/Shari/MTV-P/33.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="A3 Bikini Network" tvg-logo="https://oklivetv.com/wp-content/uploads/media/97fce9678a3eaf2df217ec5f40b7b9f4.jpeg" group-title="Lifestyle" tvg-shift="-24",A3 Bikini Network
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 tvg-id="Sonyaath(src07).in(m3u4u)" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/653px-Sony_Aath_logo.svg.png" group-title="Shows & Series" tvg-shift="-24",Sony Aath
