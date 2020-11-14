@@ -9,14 +9,10 @@ http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/12.m3u8
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent FHD" tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="BANGLA",Independent FHD
 http://172.20.1.1:8081/live/independent/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies" tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA",Jalsha Movies
-http://otv.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV HD" tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="BANGLA",JAMUNA TV HD
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/8.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy TV FHD" tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="BANGLA",Somoy TV FHD
 http://172.20.1.1:8081/live/somoy/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA",Sony Aath
-http://otv.ftpbd.net/streams/127/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA",Star Jalsha HD
 http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA",Zee Bangla
@@ -67,14 +63,10 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9XM" tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="HINDI",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="HINDI",Cartoon Network
-http://otv.ftpbd.net/streams/123/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cheebies Asia" tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="HINDI",Cheebies Asia
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="HINDI",Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney HD" tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="HINDI",Disney HD
-http://otv.ftpbd.net/streams/122/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EBC Kids" tvg-logo="" group-title="HINDI",EBC Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w168363901.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="HINDI",MTV
@@ -137,8 +129,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNX HD" tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="ENGLISH",MNX HD
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8?@IPTVSoltuion
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH",Star Movies
-http://otv.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now" tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Romedy Now" tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="ENGLISH",Romedy Now
@@ -161,18 +151,12 @@ https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8?@IPTVSolution
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD ENGLISH" tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery HD ENGLISH
 https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8?@IPTVSolution
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO HD" tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD
-http://otv.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",ANIMAL PLANET HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Live" tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Sports",IPL Live
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports",Star Sports 1 HD
-http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports",Star Sports 1
 http://113.212.111.246:8080/hls/col2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD" tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
-http://otv.ftpbd.net/streams/113/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
 http://172.20.1.1:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD
@@ -195,8 +179,6 @@ http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
 http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM (90.4)" tvg-logo="" group-title="RADIO",Dhaka FM (90.4)
 http://118.179.219.244:8000/;stream.mp3?@IPTVSoltuion
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhoni FM (91.2)" tvg-logo="" group-title="RADIO",Dhoni FM (91.2)
-http://182.160.110.180:1020/;stream.mp3?@IPTVSoltuion
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Ekattor (98.4)" tvg-logo="" group-title="RADIO",Radio Ekattor (98.4)
 http://162.254.149.187:9302/;stream/1;
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Goongoon" tvg-logo="" group-title="RADIO",Radio Goongoon
@@ -335,8 +317,6 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/45.m3u8
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-id="RomedyNow(src07).in(m3u4u)" tvg-name="Romedy Now" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Logo_Romedy_Now.jpg/150px-Logo_Romedy_Now.jpg" group-title="Movies" tvg-shift="-24",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1 tvg-id="AXN(English).de(m3u4u)" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Movies" tvg-shift="-24",AXN
-http://136.243.177.164/AXN/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Sony Movies" tvg-logo="" group-title="Movies" tvg-shift="-24",Sony Movies
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MNX" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000045360000/PORTRAIT/qELkgspp.png" group-title="Movies" tvg-shift="-24",MNX
@@ -425,8 +405,6 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Skynet Sports 2" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="Sports" tvg-shift="-24",Skynet Sports 2
 http://iptv.kitv.live:1935/live/Shari/MTV-P/85.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bayern Munich TV" tvg-logo="https://fcbayern.com/fcb/images/fcbayerntv-live.jpg" group-title="Sports" tvg-shift="-24",Bayern Munich TV
-http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="Eurosport(src07).in(m3u4u)" tvg-name="Euro Sports 4K" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/eurosport-vector-logo.png" group-title="Sports" tvg-shift="-24",Euro Sports 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" group-title="Sports" tvg-shift="-24",PTV Sports
@@ -477,8 +455,6 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
 http://162.244.81.145:2215/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Iqraa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Iqraa_logo.gif/200px-Iqraa_logo.gif" group-title="Islamic" tvg-shift="-24",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ashrafi Channel" tvg-logo="https://teleon.tv/images/logos/ashrafi-channel-in.png" group-title="Islamic" tvg-shift="-24",Ashrafi Channel
-http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Al Istiqama TV" tvg-logo="https://img.iptvmate.net/5e933b41b3bdf92f6965c700.png" group-title="Islamic" tvg-shift="-24",Al Istiqama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTA World" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-mta-international-3683.jpg" group-title="Islamic" tvg-shift="-24",MTA World
@@ -535,8 +511,6 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="JagoBD",Jamuna TV
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x91288" group-title="JagoBD",MY TV
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="JagoBD",News 24
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x91288" group-title="JagoBD",RTV
@@ -755,14 +729,8 @@ http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/640
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/641
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="https://static.iptv-epg.com/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/642
-#EXTINF:-1 tvg-id="" tvg-name="Cinema World (Dual audio)" tvg-logo="https://img2.pngio.com/home-cinemaworld-world-cinema-png-3508_1128.png" group-title="Movies",Cinema World (Dual audio)
-http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/156
 #EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" group-title="Music",MTV Rocks
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/662
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Entertainment",AXN
-http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/92
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Entertainment",Blue Ant Entertainment
-http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/215
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="Documentary",Discovery Science
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/109
 #EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" group-title="Entertainment",Hits
@@ -771,8 +739,6 @@ http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/101
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/223
 #EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png" group-title="Hindi",B4U Movies
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/651
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Entertainment",Blue Ant Extreme
-http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/216
 #EXTINF:-1 tvg-id="" tvg-name="Music India" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" group-title="Hindi",Music India
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/653
 #EXTINF:-1 tvg-id="" tvg-name="Mastiii" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" group-title="Hindi",Mastiii
@@ -803,8 +769,6 @@ http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/823
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/152
 #EXTINF:-1 tvg-id="" tvg-name="UTV Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRT_CO6o2w1jrgfIi4TNYj3Qbr9ZZZ7GEc8Td8ySvzZBxI8xMWg&usqp=CAU" group-title="Hindi",UTV Movies
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/830
-#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Entertainment",Thrill
-http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/100
 #EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VIVA_Logo_blue-yellow.svg/779px-VIVA_Logo_blue-yellow.svg.png" group-title="Music",VIVA
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/166
 #EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" group-title="Entertainment",Warner
@@ -825,8 +789,6 @@ http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/111
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/202
 #EXTINF:-1 tvg-id="" tvg-name="Doma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Doma_tv.svg.png/800px-Doma_tv.svg.png" group-title="Entertainment",Doma
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/170
-#EXTINF:-1 tvg-id="" tvg-name="FC Bayern Tv" tvg-logo="https://img.favpng.com/20/5/7/fc-bayern-munich-bundesliga-logo-dream-league-soccer-png-favpng-80AGCcgHLt7tdg2xMpzrRnGmu.jpg" group-title="Sports",FC Bayern Tv
-http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/120
 #EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="Documentary",ID
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/115
 #EXTINF:-1 tvg-id="" tvg-name="Mtv Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MTV_Hits_2013_logo.svg/512px-MTV_Hits_2013_logo.svg.png" group-title="Music",Mtv Hits
@@ -957,8 +919,6 @@ http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/712
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/714
 #EXTINF:-1 tvg-id="" tvg-name="Islam Channel" tvg-logo="https://i.imgur.com/aYdi63B.jpg" group-title="Religious",Islam Channel
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/715
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="Kids",ANIMAX
-http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/716
 #EXTINF:-1 tvg-id="" tvg-name="Euro Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/220px-Eurosport_Logo_2015.svg.png" group-title="Sports",Euro Sports
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/718
 #EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Hindi",9xM
@@ -1055,8 +1015,6 @@ http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/778
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/779
 #EXTINF:-1 tvg-id="" tvg-name="MTV India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/MTV_Logo_2010.png" group-title="Hindi",MTV India
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/789
-#EXTINF:-1 tvg-id="" tvg-name="NHKWorld Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News",NHKWorld Japan
-http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/790
 #EXTINF:-1 tvg-id="" tvg-name="Voice of America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/VOA_logo.png" group-title="News",Voice of America
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/791
 #EXTINF:-1 tvg-id="" tvg-name="GEO news" tvg-logo="https://banner2.cleanpng.com/20180515/kxe/kisspng-pakistan-geo-news-geo-tv-geo-super-television-5afaba0d47fc47.8869878015263810692949.jpg" group-title="Urdu",GEO news
@@ -1138,8 +1096,6 @@ http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/860
 #EXTINF:-1 tvg-id="" tvg-name="California Music Channel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/California_Music_Channel_Logo.png/220px-California_Music_Channel_Logo.png" group-title="Music",California Music Channel TV
 http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/862
 #EXTINF:-1 tvg-id="" tvg-name="Australia Channel" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="News",Australia Channel
-http://bdvisioniptv.ddns.net:25461/sajeeb33/123456/680
-Airtel)" tvg-id="150" group-title="English Infotainment" tvg-logo="https://assets.wxca.cf/images/a/rZnJPAoUrC.png",Discovery Turbo(Airtel)
 https://load.airtelxstream.in/discoveryturbo/smil:common.smil/manifest.mpd
 #EXTINF:-1 tvg-name="History TV18(Airtel)" tvg-id="151" group-title="English Infotainment" tvg-logo="https://assets.wxca.cf/images/a/bLvtnstMdX.png",History TV18(Airtel)
 https://load.airtelxstream.in/historytv18/smil:common.smil/manifest.mpd
