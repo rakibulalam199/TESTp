@@ -885,9 +885,4 @@ https://load.airtelxstream.in/northeastlive/smil:common.smil/playlist.m3u8?DVR
 https://load.airtelxstream.in/ddurdu/smil:common.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-name="NEWS18 URDU(Airtel)" tvg-id="1052" group-title="Urdu Entertainment" tvg-logo="https://assets.wxca.cf/images/a/VsVWBSPjKT.png",NEWS18 URDU(Airtel)
 https://load.airtelxstream.in/news18urdu/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Channel WIN(Airtel)" tvg-id="1057" group-title="Urdu Religious" tvg-logo="https://assets.wxca.cf/images/a/CPjoFtIpVL.png",Channel WIN(Airtel)
-https://load.airtelxstream.in/channelwin/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="Tehzeeb TV(Airtel)" tvg-id="1058" group-title="Urdu Religious" tvg-logo="https://assets.wxca.cf/images/a/LZvEKkAZPI.png",Tehzeeb TV(Airtel)
-https://load.airtelxstream.in/tehzeebtv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="Zee Salaam(Airtel)" tvg-id="1059" group-title="Urdu Religious" tvg-logo="https://assets.wxca.cf/images/a/xAiTUstOXq.png",Zee Salaam(Airtel)
-https://load.airtelxstream.in/zeesalaam/smil:common.smil/manifest.mpd
+
