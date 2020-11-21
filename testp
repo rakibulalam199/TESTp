@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="Bangladesh",Asian TV
-https://rhridoy136.shortcm.li/asiantv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288" group-title="Bangladesh",ATN Bangla
-https://rhridoy136.shortcm.li/atnbangla.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x91288" group-title="Bangladesh",ATN Islamic
 https://rhridoy136.shortcm.li/atnislamic.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x91288" group-title="Bangladesh",ATN Music
@@ -11,8 +7,6 @@ https://rhridoy136.shortcm.li/atnmusic.m3u8
 https://rhridoy136.shortcm.li/atnnews.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/05/banglatvhd-1.jpg?x91288" group-title="Bangladesh",Bangla TV
 https://rhridoy136.shortcm.li/banglatv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x91288" group-title="Bangladesh",Banglavision
-https://rhridoy136.shortcm.li/banglavisiontv.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg" group-title="Bangladesh",Bijoy TV
 https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="Bangladesh",Boishakhi
@@ -61,10 +55,6 @@ https://rhridoy136.shortcm.li/makkahlive.m3u8
 https://rhridoy136.shortcm.li/madinalive.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="Islamic",Iqra Bangla TV
 https://rhridoy136.shortcm.li/iqrabangla.m3u8
-#EXTINF:-1 ,disney tv
-http://otv.ftpbd.net/streams/122/index.m3u8
-#EXTINF:-1 ,cartoon network
-http://otv.ftpbd.net/streams/123/index.m3u8
 #EXTINF:-1 ,discovery english
 https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
 #EXTINF:-1 ,discovery  sd bangla
@@ -87,18 +77,6 @@ http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts
 #EXTINF:-1 ,zee bangla hd {link 2}
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
-#EXTINF:-1 ,star sports 1 hd{link ta bikal 5 ta hote rat 12 ta obdi off thakbe}
-http://otv.ftpbd.net/streams/104/index.m3u8
-#EXTINF:-1 ,sony six{link ta bikal 5 ta hote rat 12 ta off}
-http://otv.ftpbd.net/streams/106/index.m3u8
-#EXTINF:-1 ,sony ten 2 hd {bikal 5 ta hote rat 12 ta obdi off thakbe ai link}
-http://otv.ftpbd.net/streams/112/index.m3u8
-#EXTINF:-1 ,star sports sellect 1 hd{bikal 5 ta hote rat 12 ta obdi off ai link}
-http://otv.ftpbd.net/streams/113/index.m3u8
-#EXTINF:-1 ,star sports sellect 2 hd{link off bikal 5 ta to rat 12 ta}
-http://otv.ftpbd.net/streams/114/index.m3u8
-#EXTINF:-1 ,star sports 2{link off bikal 5 ta rat 12 ta}
-http://otv.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1 ,massranga tv hd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
 #EXTINF:-1 ,71 tv hd
@@ -127,8 +105,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
 #EXTINF:-1 ,zee cinema
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
-#EXTINF:-1 ,colors
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
 #EXTINF:-1 ,sony max hd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 #EXTINF:-1 ,enter 10 movies
@@ -227,8 +203,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE", KI_Star Jalsha HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="KITV LIVE", KI_Sony Aath
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="KITV LIVE", KI_Jalsha Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="KITV LIVE", KI_Sangeet Bangla
@@ -271,8 +245,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="KITV LIVE", KI_Discovery HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="KITV LIVE", KI_TLC HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uofhcTE.jpg" group-title="KITV LIVE", KI_BBC Lifestyle
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwY3NXkCDkCBfaTMJfhirOv7qudK_V8-RU_C-uDdPGJ6KUtL2T&usqp=CAU" group-title="KITV LIVE", KI_History TV 18 HD
@@ -309,8 +281,6 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/News_Time_new_logo.png" group-title="BANGLA ENT.", News Time Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.", Jalsha Movies HD [IN]
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="BANGLA ENT.", Orange Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bk055soezukgi45/71120680.png" group-title="BANGLA ENT.", Ekhon Kolkata [IN]
@@ -323,10 +293,6 @@ http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzb
 http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/citytv.stream/live-orgin/citytv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zh2jknxug1snxno/Doyel-Tv.png" group-title="BANGLA ENT.", Doyel IPTV [BD]
 http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/iy8lbyrctvqc4vs/gbanglatv.png" group-title="BANGLA ENT.", G Bangla IPTV [BD]
-https://iptv8.raytahost.com/lite/gbangla_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k2evwjpp9oo64yr/onuvhuti-TV.png" group-title="BANGLA ENT.", Onubhuti IPTV [BD]
-http://149.28.147.59/live/onuvhuti/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6KsBwmAHtmufM3Yd7voJ7vq-5H_mgdWLcP4BGSnznamzn55wreYqbvCPD7dySpWqr7d-au-L2kuZEgTHm225Ovr58Eh7X892i5jFhUl-xpIPPsVaY96yHy9s" group-title="BANGLA ENT.", Deshi IPTV [BD]
 http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="BANGLA ENT.", Channel 23 IPTV [BD]
@@ -337,8 +303,6 @@ http://enaniptv.com/magicbanglatv/1080/index.m3u8
 https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="BANGLA ENT.", NANDAN IPTV [BD]
 http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="BANGLA ENT.", Alif IPTV [BD]
-http://128.199.212.160/alif/1080/index.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bYFH9ra.jpg" group-title="BANGLA ENT.", Bangla IPTV [BD]
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CCZdRgb.png" group-title="BANGLA ENT.", TBN 24 USA IPTV [BD]
@@ -495,8 +459,6 @@ http://live.radiogoongoon.com:8888/stream/1/
 http://as3.digitalsynapsebd.com:8263/;stream.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Maasranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="General Bangla" tvg-shift="-24",Maasranga TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Alif TV" tvg-logo="https://iptvbd.net/public/channel_logo/1589960023.png" group-title="IPTV Online" tvg-shift="-24",Alif TV
-http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AR TV Network" tvg-logo="https://www.dropbox.com/s/d2lmkcs762rq6yx/AR%20TV%20Network.png?raw=1" group-title="IPTV Online" tvg-shift="-24",AR TV Network
 https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ayna TV" tvg-logo="https://i.ytimg.com/vi/I7FEy13Menc/maxresdefault.jpg" group-title="IPTV Online" tvg-shift="-24",Ayna TV
@@ -577,8 +539,6 @@ http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
 #EXTINF:-1 tvg-id="FoxLife.es(m3u4u)" tvg-name="Fox Life" tvg-logo="https://i.imgur.com/oi6c9gJ.png" group-title="Lifestyle" tvg-shift="-24",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="A3 Bikini Network" tvg-logo="https://oklivetv.com/wp-content/uploads/media/97fce9678a3eaf2df217ec5f40b7b9f4.jpeg" group-title="Lifestyle" tvg-shift="-24",A3 Bikini Network
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 tvg-id="StarJalsha(src07).in(m3u4u)" tvg-name="Star Jalsha HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png/revision/latest/top-crop/width/300/height/300?cb=20190224050939" group-title="Shows & Series" tvg-shift="-24",Star Jalsha HD
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
 #EXTINF:-1 tvg-id="ZeeBangla(src07).in(m3u4u)" tvg-name="Zee Bangla HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="Shows & Series" tvg-shift="-24",Zee Bangla HD
