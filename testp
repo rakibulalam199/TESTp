@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x91288" group-title="Bangladesh",ATN Islamic
 https://rhridoy136.shortcm.li/atnislamic.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x91288" group-title="Bangladesh",ATN Music
@@ -154,12 +155,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
 #EXTINF:-1 ,massti
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
-#EXTINF:-1 ,history tv
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
 #EXTINF:-1 ,dw tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.ts
-#EXTINF:-1 ,bein sports 1 hd
-http://116.203.40.131/hls/bein1.m3u8
 #EXTINF:-1 ,bein sports 2
 http://116.203.40.131/hls/bein2.m3u8
 #EXTINF:-1 ,bein sports 3 hd
@@ -354,14 +351,8 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w168363901.m3
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="HINDI",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI",Sony Max
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="HINDI",Sony Max HD
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony MAX2" tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI",Sony MAX2
-http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY WAH" tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="HINDI",SONY WAH
-https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Action" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="HINDI",Zee Action
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Anmol Cinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png" group-title="HINDI",Zee Anmol Cinema
@@ -432,14 +423,6 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports",Star Sports 1
 http://113.212.111.246:8080/hls/col2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
-https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 HD" tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
-https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3
-https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3 HD" tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3 HD
-https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony SIX HD" tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony SIX HD
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Foorti (88.0)" tvg-logo="" group-title="RADIO",Radio Foorti (88.0)
@@ -454,8 +437,6 @@ http://118.179.219.244:8000/;stream.mp3?@IPTVSoltuion
 http://162.254.149.187:9302/;stream/1;
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Goongoon" tvg-logo="" group-title="RADIO",Radio Goongoon
 http://live.radiogoongoon.com:8888/stream/1/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangladesh Betar Dhaka" tvg-logo="" group-title="RADIO",Bangladesh Betar Dhaka
-http://as3.digitalsynapsebd.com:8263/;stream.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Maasranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="General Bangla" tvg-shift="-24",Maasranga TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AR TV Network" tvg-logo="https://www.dropbox.com/s/d2lmkcs762rq6yx/AR%20TV%20Network.png?raw=1" group-title="IPTV Online" tvg-shift="-24",AR TV Network
@@ -754,151 +735,6 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3g0xwB7" group-title="Mx Player",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ext" tvg-language="English" tvg-country="INDIA" tvg-url="" group-title="Ent",Sony Sab
-https://load.airtelxstream.in/sabhd/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Australia Channel" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="News",Australia Channel
-https://load.airtelxstream.in/discoveryturbo/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="History TV18(Airtel)" tvg-id="151" group-title="English Infotainment" tvg-logo="https://assets.wxca.cf/images/a/bLvtnstMdX.png",History TV18(Airtel)
-https://load.airtelxstream.in/historytv18/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="History TV18 HD(Airtel)" tvg-id="153" group-title="English Infotainment" tvg-logo="https://assets.wxca.cf/images/a/UZlaShWkQF.png",History TV18 HD(Airtel)
-https://load.airtelxstream.in/historytv18hd/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Sony BBC Earth HD English(Airtel)" tvg-id="157" group-title="English Infotainment" tvg-logo="https://assets.wxca.cf/images/a/CYMdBemQgE.png",Sony BBC Earth HD English(Airtel)
-https://load.airtelxstream.in/sonybbcearthhdenglish/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Cartoon Network(Airtel)" tvg-id="160" group-title="English Kids" tvg-logo="https://assets.wxca.cf/images/a/vPVNMZIDmo.png",Cartoon Network(Airtel)
-https://load.airtelxstream.in/cartoonnetwork/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Nick HD+(Airtel)" tvg-id="163" group-title="English Kids" tvg-logo="https://assets.wxca.cf/images/a/egNieRRBFm.png",Nick HD+(Airtel)
-https://load.airtelxstream.in/nickhdplus/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Nick Junior(Airtel)" tvg-id="164" group-title="English Kids" tvg-logo="https://assets.wxca.cf/images/a/atOEHBRRIa.png",Nick Junior(Airtel)
-https://load.airtelxstream.in/nickjr/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Pogo(Airtel)" tvg-id="167" group-title="English Kids" tvg-logo="https://assets.wxca.cf/images/a/rXGnHZruqn.png",Pogo(Airtel)
-https://load.airtelxstream.in/pogo/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Sonic(Airtel)" tvg-id="168" group-title="English Kids" tvg-logo="https://assets.wxca.cf/images/a/WwmcUfOwlT.png",Sonic(Airtel)
-https://load.airtelxstream.in/sonic/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="FTV(Airtel)" tvg-id="171" group-title="English Lifestyle" tvg-logo="https://assets.wxca.cf/images/a/WhKOMhZHWn.png",FTV(Airtel)
-https://load.airtelxstream.in/ftv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="NDTV Good Times(Airtel)" tvg-id="174" group-title="English Lifestyle" tvg-logo="https://assets.wxca.cf/images/a/AcmhwpmQjA.png",NDTV Good Times(Airtel)
-https://load.airtelxstream.in/ndtvgoodtimes/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="TLC(Airtel)" tvg-id="175" group-title="English Lifestyle" tvg-logo="https://assets.wxca.cf/images/a/aBgmGlAHht.png",TLC(Airtel)
-https://load.airtelxstream.in/tlc/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="TLC English(Airtel)" tvg-id="177" group-title="English Lifestyle" tvg-logo="https://assets.wxca.cf/images/a/DIlVeBhSRB.png",TLC English(Airtel)
-https://load.airtelxstream.in/tlcenglish/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="TLC HD World(Airtel)" tvg-id="179" group-title="English Lifestyle" tvg-logo="https://assets.wxca.cf/images/a/xqaKPIfenc.png",TLC HD World(Airtel)
-https://load.airtelxstream.in/tlchdworld/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="HBO(Airtel)" tvg-id="180" group-title="English Movies" tvg-logo="https://assets.wxca.cf/images/a/bQyOZqWedm.png",HBO(Airtel)
-https://load.airtelxstream.in/hbo/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="HBO HD(Airtel)" tvg-id="182" group-title="English Movies" tvg-logo="https://assets.wxca.cf/images/a/kYzURcJgLY.png",HBO HD(Airtel)
-https://load.airtelxstream.in/hbohd/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="SONY PIX HD(Airtel)" tvg-id="187" group-title="English Movies" tvg-logo="https://assets.wxca.cf/images/a/DDfIxcQCou.png",SONY PIX HD(Airtel)
-https://load.airtelxstream.in/pixhd/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="SONY PIX SD(Airtel)" tvg-id="189" group-title="English Movies" tvg-logo="https://assets.wxca.cf/images/a/uAUAmSsYou.png",SONY PIX SD(Airtel)
-https://load.airtelxstream.in/pix/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="WB(Airtel)" tvg-id="191" group-title="English Movies" tvg-logo="https://assets.wxca.cf/images/a/jgkfQkSszM.png",WB(Airtel)
-https://load.airtelxstream.in/wb/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Al Jazeera English(Airtel)" tvg-id="195" group-title="English News" tvg-logo="https://assets.wxca.cf/images/a/rGaPnqFVOx.png",Al Jazeera English(Airtel)
-https://load.airtelxstream.in/aljazeera/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="CNBC TV18(Airtel)" tvg-id="198" group-title="English News" tvg-logo="https://assets.wxca.cf/images/a/yHyLjIHDLm.png",CNBC TV18(Airtel)
-https://load.airtelxstream.in/cnbctv18/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="CNN(Airtel)" tvg-id="200" group-title="English News" tvg-logo="https://assets.wxca.cf/images/a/JDAmVbsXbU.png",CNN(Airtel)
-https://load.airtelxstream.in/cnninternational/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="CNN News18(Airtel)" tvg-id="202" group-title="English News" tvg-logo="https://assets.wxca.cf/images/a/RGTWUwUzFF.png",CNN News18(Airtel)
-https://load.airtelxstream.in/cnnnews18/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="DD India(Airtel)" tvg-id="205" group-title="English News" tvg-logo="https://assets.wxca.cf/images/a/YqYAJcCPpZ.png",DD India(Airtel)
-https://load.airtelxstream.in/ddindia/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="DD News(Airtel)" tvg-id="206" group-title="English News" tvg-logo="https://assets.wxca.cf/images/a/iWXNHYyjpr.png",DD News(Airtel)
-https://load.airtelxstream.in/ddnews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="ET Now(Airtel)" tvg-id="208" group-title="English News" tvg-logo="https://assets.wxca.cf/images/a/kZRDbytCVx.png",ET Now(Airtel)
-https://load.airtelxstream.in/etnow/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Mirror Now(Airtel)" tvg-id="216" group-title="English News" tvg-logo="https://assets.wxca.cf/images/a/jVhOkrDDeT.png",Mirror Now(Airtel)
-https://load.airtelxstream.in/mirrornow/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="NDTV 24x7(Airtel)" tvg-id="217" group-title="English News" tvg-logo="https://assets.wxca.cf/images/a/oAwfocSUxj.png",NDTV 24x7(Airtel)
-https://load.airtelxstream.in/ndtv24x7/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="NDTV Profit Prime(Airtel)" tvg-id="218" group-title="English News" tvg-logo="https://assets.wxca.cf/images/a/YLVonVjEKb.png",NDTV Profit Prime(Airtel)
-https://load.airtelxstream.in/ndtvprofitprime/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="RSTV(Airtel)" tvg-id="227" group-title="English News" tvg-logo="https://assets.wxca.cf/images/a/XIqidEGuSc.png",RSTV(Airtel)
-https://load.airtelxstream.in/rstv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="RT(Airtel)" tvg-id="228" group-title="English News" tvg-logo="https://assets.wxca.cf/images/a/LFNXTPuldk.png",RT(Airtel)
-https://load.airtelxstream.in/rt/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="Times Now(Airtel)" tvg-id="231" group-title="English News" tvg-logo="https://assets.wxca.cf/images/a/JxwrfNjWoi.png",Times Now(Airtel)
-https://load.airtelxstream.in/timesnow/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="Times Now World(Airtel)" tvg-id="232" group-title="English News" tvg-logo="https://assets.wxca.cf/images/a/YtnvLbgIGd.png",Times Now World(Airtel)
-https://load.airtelxstream.in/timesnowhd/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="WION(Airtel)" tvg-id="236" group-title="English News" tvg-logo="https://assets.wxca.cf/images/a/QMgGdDSXWx.png",WION(Airtel)
-https://load.airtelxstream.in/wion/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="God TV(Airtel)" tvg-id="237" group-title="English Religious" tvg-logo="https://assets.wxca.cf/images/a/HkeRvhOXvM.png",God TV(Airtel)
-https://load.airtelxstream.in/godtv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="Goodnews TV(Airtel)" tvg-id="238" group-title="English Religious" tvg-logo="https://assets.wxca.cf/images/a/CNMHhafiPM.png",Goodnews TV(Airtel)
-https://load.airtelxstream.in/goodnewstv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="EUROSPORT(Airtel)" tvg-id="241" group-title="English Sports" tvg-logo="https://assets.wxca.cf/images/a/WcicjOOAAH.png",EUROSPORT(Airtel)
-https://load.airtelxstream.in/dsport/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="SONY SIX(Airtel)" tvg-id="250" group-title="English Sports" tvg-logo="https://assets.wxca.cf/images/a/ShcSVTllXG.png",SONY SIX(Airtel)
-https://load.airtelxstream.in/sonysix/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="SONY SIX HD(Airtel)" tvg-id="253" group-title="English Sports" tvg-logo="https://assets.wxca.cf/images/a/nbaxgGMrJh.png",SONY SIX HD(Airtel)
-https://load.airtelxstream.in/sonysixhd/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Sony Ten 1(Airtel)" tvg-id="256" group-title="English Sports" tvg-logo="https://assets.wxca.cf/images/a/HazZtFdoOD.png",Sony Ten 1(Airtel)
-https://load.airtelxstream.in/sonyten1/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="Sony Ten 1 HD(Airtel)" tvg-id="258" group-title="English Sports" tvg-logo="https://assets.wxca.cf/images/a/CeQLgpYdgo.png",Sony Ten 1 HD(Airtel)
-https://load.airtelxstream.in/sonyten1hd/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="Sony Ten 2(Airtel)" tvg-id="260" group-title="English Sports" tvg-logo="https://assets.wxca.cf/images/a/vCEaSEjLYV.png",Sony Ten 2(Airtel)
-https://load.airtelxstream.in/sonyten2sd/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Sony Ten 2 HD(Airtel)" tvg-id="262" group-title="English Sports" tvg-logo="https://assets.wxca.cf/images/a/SeNaSdVGvD.png",Sony Ten 2 HD(Airtel)
-https://load.airtelxstream.in/sonyten2hd/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Sony Ten 3(Airtel)" tvg-id="264" group-title="English Sports" tvg-logo="https://assets.wxca.cf/images/a/iktBsBlUic.png",Sony Ten 3(Airtel)
-https://load.airtelxstream.in/sonyten3/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="& TV(Airtel)" tvg-id="366" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/PxBNQoDsHb.png",& TV(Airtel)
-https://load.airtelxstream.in/andtv/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="& TV HD(Airtel)" tvg-id="367" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/rLmDrcVbCj.png",& TV HD(Airtel)
-https://load.airtelxstream.in/tvhd/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="BIG Magic(Airtel)" tvg-id="373" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/CmkfBESixA.png",BIG Magic(Airtel)
-https://load.airtelxstream.in/bigmagic/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Colors(Airtel)" tvg-id="375" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/AffUAYRSUW.png",Colors(Airtel)
-https://load.airtelxstream.in/colors/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Colors HD(Airtel)" tvg-id="377" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/TrBvFgcdNb.png",Colors HD(Airtel)
-https://load.airtelxstream.in/colorshd/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Colors Rishtey(Airtel)" tvg-id="378" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/qIbSGufnjl.png",Colors Rishtey(Airtel)
-https://load.airtelxstream.in/colorsrishtey/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Dangal(Airtel)" tvg-id="380" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/NgVKFUvzxi.png",Dangal(Airtel)
-https://load.airtelxstream.in/dangal/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="DD Bharati(Airtel)" tvg-id="382" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/dMnlSqgsgV.png",DD Bharati(Airtel)
-https://load.airtelxstream.in/ddbharati/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="DD Bihar(Airtel)" tvg-id="385" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/zIHMGRvpEc.png",DD Bihar(Airtel)
-https://load.airtelxstream.in/ddbihar/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="DD Kashir(Airtel)" tvg-id="387" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/QvOJebhnqO.png",DD Kashir(Airtel)
-https://load.airtelxstream.in/ddkashir/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="DD Kisan(Airtel)" tvg-id="388" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/nigUeNttJJ.png",DD Kisan(Airtel)
-https://load.airtelxstream.in/ddkisan/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="DD Madhya Pradesh(Airtel)" tvg-id="391" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/mzhOaXYGlv.png",DD Madhya Pradesh(Airtel)
-https://load.airtelxstream.in/ddmp/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="DD National(Airtel)" tvg-id="393" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/fCcrLPehxS.png",DD National(Airtel)
-https://load.airtelxstream.in/dd1/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="DD UP(Airtel)" tvg-id="397" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/YqiOzJTanF.png",DD UP(Airtel)
-https://load.airtelxstream.in/ddup/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="E24(Airtel)" tvg-id="403" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/uxSyNSUSOC.png",E24(Airtel)
-https://load.airtelxstream.in/e24/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="Investigation Discovery(Airtel)" tvg-id="407" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/gzROmQecKc.png",Investigation Discovery(Airtel)
-https://load.airtelxstream.in/jeetprime/smil:common.smil/manifest.mpd?DVR
-#EXTINF:-1 tvg-name="Investigation Discovery HD(Airtel)" tvg-id="408" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/XHzIRsvqlX.png",Investigation Discovery HD(Airtel)
-https://load.airtelxstream.in/discoveryjeethd/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="SET(Airtel)" tvg-id="412" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/vFVrqEzUuQ.png",SET(Airtel)
-https://load.airtelxstream.in/set/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="SET HD(Airtel)" tvg-id="413" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/RZAQdkGdvY.png",SET HD(Airtel)
-https://load.airtelxstream.in/sethd/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="SONY PAL(Airtel)" tvg-id="416" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/VbMxRRkBur.png",SONY PAL(Airtel)
-https://load.airtelxstream.in/sonypal/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Sony SAB(Airtel)" tvg-id="418" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/cODuftgOvr.png",Sony SAB(Airtel)
-https://load.airtelxstream.in/sonysab/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Sony SAB HD(Airtel)" tvg-id="420" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/ztQEDLfmmj.png",Sony SAB HD(Airtel)
-https://load.airtelxstream.in/sabhd/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="The QYOU(Airtel)" tvg-id="427" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/LiZcpOCMSn.png",The QYOU(Airtel)
-https://load.airtelxstream.in/theqyou/smil:common.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Zee Anmol(Airtel)" tvg-id="430" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/duJHJxloFr.png",Zee Anmol(Airtel)
-https://load.airtelxstream.in/zeeanmol/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Zee TV(Airtel)" tvg-id="432" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/YTcZbapzBO.png",Zee TV(Airtel)
-https://load.airtelxstream.in/zeesd/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Zee TV HD(Airtel)" tvg-id="435" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/AWdDFhhpEF.png",Zee TV HD(Airtel)
-https://load.airtelxstream.in/zeetvhd/smil:common.smil/manifest.mpd
-#EXTINF:-1 tvg-name="Zoom(Airtel)" tvg-id="436" group-title="Hindi Entertainment" tvg-logo="https://assets.wxca.cf/images/a/IPhFLAmrNI.png",Zoom(Airtel)
-https://load.airtelxstream.in/zoom/smil:common.smil/manifest.mpd
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="BANGLA",EKUSHEY TV [BD]
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="BANGLA",Star Jalsha HD [IN] (1)
@@ -913,10 +749,6 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/EB.png" group-title="BANGLA",Enter 10 Bangla [IN]
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/enter10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6VL1Ke9.jpg" group-title="BANGLA",Akash Aath [IN]
-https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pQT1shs.jpg" group-title="BANGLA",DD Bangla [IN]
-https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="BANGLA",Khusboo Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA",Zee Bangla Cinema [IN]
@@ -1007,10 +839,6 @@ http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="HINDI",SONY MAX HD
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI",SONY MAX
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI",Sony MAX2
-http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="HINDI",WoW CINEMA
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S3lVg3i.jpg?1" group-title="HINDI",BOX CINEMA
@@ -1071,8 +899,6 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9whd4No.png" group-title="ENGLISH",HBO
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="ENGLISH",HBO [Chinese]
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="ENGLISH",HBO [India]
 http://ctgiptv.kitv.live:1935/live/test/test1/45.ts
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="ENGLISH",Cinemax
@@ -1231,20 +1057,6 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 http://210.210.155.35/dr9445/h/h02/01.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="SPORTS LIVE",IPL Live 5
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/180px-Sony_TEN_logo.png" group-title="SPORTS",Sony Ten 1
-https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/180px-Sony_TEN_logo.png" group-title="SPORTS",Sony Ten 1 HD
-https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/180px-Sony_TEN_logo.png" group-title="SPORTS",Sony Ten 2 HD
-https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/180px-Sony_TEN_logo.png" group-title="SPORTS",Sony Ten 3
-https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/180px-Sony_TEN_logo.png" group-title="SPORTS",Sony Ten 3 HD
-https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/180px-Sony_TEN_logo.png" group-title="SPORTS",Sony SIX
-https://load.airtelxstream.in/sonysix/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/180px-Sony_TEN_logo.png" group-title="SPORTS",Sony SIX HD
-https://load.airtelxstream.in/sonysixhd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS",Ten Sports
@@ -1423,8 +1235,6 @@ http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 http://162.254.149.146:9308/;stream/1/;stream/1
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Goongoon
 http://live.radiogoongoon.com:8888/stream/1/
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Amaar
-http://118.179.215.45:8000/;stream/1
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Colours FM
 http://45.64.135.88:8000/stream1
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Dhaka FM
@@ -1551,4 +1361,3 @@ http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
 http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Ujala Radio
 http://stream2.ujala.nl/stream/2/listen.mp3
-
