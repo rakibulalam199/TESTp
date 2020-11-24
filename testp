@@ -84,7 +84,7 @@ http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV HD" tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="BANGLA",JAMUNA TV HD
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/8.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA",Star Jalsha HD
-http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
+http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA",Zee Bangla
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/26.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA",Zee Bangla Cinema
