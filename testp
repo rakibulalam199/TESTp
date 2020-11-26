@@ -45,8 +45,6 @@ https://rhridoy136.shortcm.li/sangsadtv.m3u8
 https://rhridoy136.shortcm.li/satv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shomoy TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="Bangladesh",Shomoy TV
 https://rhridoy136.shortcm.li/shomoytv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports HD" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/titashsports1.jpg" group-title="Bangladesh",T Sports HD
-https://rhridoy136.shortcm.li/titashsports.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange Bangla [IN]" tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="BANGLA ENT.",Orange Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekhon Kolkata [IN]" tvg-logo="https://dl.dropbox.com/s/bk055soezukgi45/71120680.png" group-title="BANGLA ENT.",Ekhon Kolkata [IN]
@@ -217,158 +215,6 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TBN24 USA" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQE158A8SYFWWw/company-logo_200_200/0?e=2159024400&v=beta&t=5FmfI6ynqEqdIlnTmc3cUkRp5vmwV6RnC5kZLA_4LSw" group-title="IPTV Online",TBN24 USA
 http://fingerme.dg21bd.com/TBN24/index.m3u8
-
-#EXTM3U
-#EXTINF:-1, Channel 1
-http://103.135.208.14:8082/34/index.m3u8?token=6c843829731937802374813adf5c61d9410ceca5-3320342324422b2864df00b1ed85da6a-1606398915-1606388115
-#EXTINF:-1, Channel 2
-http://103.135.208.14:8082/57/index.m3u8?token=3ae6f0f27c848a42c402324f0031578019f7f591-8fcbb1c2eb553468d6580644d3cf13ca-1606398930-1606388130
-#EXTINF:-1, Channel 3
-http://103.135.208.14:8082/59/index.m3u8?token=5de8f735ecf14469d32f6352ce591cd49c949c17-a134de887411b840eb7d27a77e531135-1606398912-1606388112
-#EXTINF:-1, Channel 4
-http://103.135.208.14:8082/6/index.m3u8?token=e60c2dc1fe26ca68ebd1a9b511523306f0f42625-0c854603e027a6bf0fdee8e93508d678-1606398905-1606388105
-#EXTINF:-1, Channel 5
-http://103.135.208.14:8082/22/index.m3u8?token=f7994b76877c62059dd25a21dd434fa988fd61ab-9d3cbab28fe31bbb68b3a5353c7557cf-1606398926-1606388126
-#EXTINF:-1, Channel 6
-http://103.135.208.14:8082/36/index.m3u8?token=faf952a23144ba2acecf0a11c571c437b6e87474-7da3e79ffaaa0fc4e2a77834dce95cdd-1606398922-1606388122
-#EXTINF:-1, Channel 7
-http://103.135.208.14:8082/33/index.m3u8?token=f59e0ef60a4d9c5eb49fe07aeba0fd34f51c0b4f-608f0463a530c3c6b883bd5c2af37fb0-1606398915-1606388115
-#EXTINF:-1, Channel 8
-http://103.135.208.14:8082/25/index.m3u8?token=0a14196a38c7d56a849d7833ff2182237c1d7c94-68cab19370752bffa3dcceb60405363e-1606398924-1606388124
-#EXTINF:-1, Channel 9
-http://103.135.208.14:8082/1/index.m3u8?token=76f4975a4d6cd7f9088d55ffdc519b6e0975a6cf-b9d0e31f7c3a20afb197d14c891fc54e-1606398904-1606388104
-#EXTINF:-1, Channel 10
-http://103.135.208.14:8082/67/index.m3u8?token=a8a825a2d8b85bf533ffe6a3b0348ce2cd7e4db7-9c30059855ee04cfbd31c9b1eecd1513-1606398921-1606388121
-#EXTINF:-1, Channel 11
-http://103.135.208.14:8082/47/index.m3u8?token=bff715877384a1b08e2f14674bd52d3277dd4ae0-beeab3a7c78ce7fd2732774f332ee1ff-1606398920-1606388120
-#EXTINF:-1, Channel 12
-http://103.135.208.14:8082/53/index.m3u8?token=0594438a1e4b764e3b8c5962bb65cb8c2a1638d1-32dc467911bd8711484a62bdc230cc80-1606398907-1606388107
-#EXTINF:-1, Channel 13
-http://103.135.208.14:8082/78/index.m3u8?token=a15505a58d164892b79eb0a0e18a677771f74218-79002ba72e3aea80631d643b0ee6cf57-1606398918-1606388118
-#EXTINF:-1, Channel 14
-http://103.135.208.14:8082/5/index.m3u8?token=50249c82549e229ae773e6b7eb9af9c11877ac8a-0960a13a423882040e0137da1c8a0503-1606398906-1606388106
-#EXTINF:-1, Channel 15
-http://103.135.208.14:8082/58/index.m3u8?token=8eb2506d1d0e85e272e4d0fabac65bdb392b014d-845602044d032a326753fbc6d0ba45bd-1606398928-1606388128
-#EXTINF:-1, Channel 16
-http://103.135.208.14:8082/17/index.m3u8?token=a445a9e8c916837df07cbccf0f0c4d2088c8b743-ca3c832b5c8974be65503b325339100b-1606398904-1606388104
-#EXTINF:-1, Channel 17
-http://103.135.208.14:8082/2/index.m3u8?token=2c74e6819f751f3bab72783f6921985d66dd64f9-cd4222816d9c853cdf0718f64c274890-1606398909-1606388109
-#EXTINF:-1, Channel 18
-http://103.135.208.14:8082/56/index.m3u8?token=dc968c60205e145c488bdd7515761706ec7081cb-09f70a4b90f437d2a12fa3167b505895-1606398910-1606388110
-#EXTINF:-1, Channel 19
-http://103.135.208.14:8082/38/index.m3u8?token=6d84b888c3eae11943f6a398e2d4f418212286ab-a38fc52260c157a856e660b242b43614-1606398922-1606388122
-#EXTINF:-1, Channel 20
-http://103.135.208.14:8082/9/index.m3u8?token=ef98a651904ba7ff5bf84957e98ef745820fa810-1d7a3c7a970828e44770da2ec9542266-1606398914-1606388114
-#EXTINF:-1, Channel 21
-http://103.135.208.14:8082/8/index.m3u8?token=ba5a9d99d55a59637e109719e8e6001a123b322a-12d63cc955dccad3266311bfc4126b04-1606398910-1606388110
-#EXTINF:-1, Channel 22
-http://103.135.208.14:8082/35/index.m3u8?token=e1f2280dacf34ada1426cf33964d9c66bedaf7f6-98d9604d50596601a72761ce6d3b2842-1606398931-1606388131
-#EXTINF:-1, Channel 23
-http://103.135.208.14:8082/23/index.m3u8?token=b3b2542a451a1022f8e55d98c26ce9ed79e9cd1c-16c50382087eab258e4b9c15ccc9371e-1606398926-1606388126
-#EXTINF:-1, Channel 24
-http://103.135.208.14:8082/24/index.m3u8?token=ab7731112da0c2092b70b53bdaad6a17c87670ab-aacc4e2060efe4642ed35a33d0314227-1606398925-1606388125
-#EXTINF:-1, Channel 25
-http://103.135.208.14:8082/100/index.m3u8?token=6b7f07865f0f7955edaa84bd13fa0caa004ce8aa-cb118e52e7b99bd8a111f299bfbc336a-1606398924-1606388124
-#EXTINF:-1, Channel 26
-http://103.135.208.14:8082/96/index.m3u8?token=741e2885d4f3277d54808ca226e0c05d51185a00-dd874221a3f1bb03942accff32286e5f-1606398929-1606388129
-#EXTINF:-1, Channel 27
-http://103.135.208.14:8082/63/index.m3u8?token=1af5b6e1dc899696c781a8df4f8eb7364a7011fa-709af1b11cda3586485f60d32cf8977c-1606398913-1606388113
-#EXTINF:-1, Channel 28
-http://103.135.208.14:8082/44/index.m3u8?token=0a4db386fe3602eddb7983023f6f3b875f56df02-bef0e95f904ee3c112f8799cdc1f65ff-1606398919-1606388119
-#EXTINF:-1, Channel 29
-http://103.135.208.14:8082/10/index.m3u8?token=1231406e961f570ab9d9b5c47939872d15fb403f-026a9f3aea556d6136ae57f9d5da7447-1606398931-1606388131
-#EXTINF:-1, Channel 30
-http://103.135.208.14:8082/65/index.m3u8?token=2884b29e3107a284645260e66665081b2985172f-de64f3367c3bdd2e717463e2288d0613-1606398906-1606388106
-#EXTINF:-1, Channel 31
-http://103.135.208.14:8082/98/index.m3u8?token=76c494f65f9df27aca62878df38c6a7d9a933b25-d6dbe7f71c78cb1cc6b48975b6badccf-1606398929-1606388129
-#EXTINF:-1, Channel 32
-http://103.135.208.14:8082/4/index.m3u8?token=fee320ef7e20cc6c19559127de8b097f232d11bb-700028be50d469feb5f15c4d28bb2cc8-1606398909-1606388109
-#EXTINF:-1, Channel 33
-http://103.135.208.14:8082/28/index.m3u8?token=34562a6ede8d3dcb131d1cfc3c3d49ffa77665f3-71252ace2dbeac32f4eca7144ca376f8-1606398927-1606388127
-#EXTINF:-1, Channel 34
-http://103.135.208.14:8082/13/index.m3u8?token=92d3d69a9c9251f1b683a6da493cbdf8f2c8ddcd-4dfd5ea7705d625a4b9dcb2a497324ac-1606398904-1606388104
-#EXTINF:-1, Channel 35
-http://103.135.208.14:8082/30/index.m3u8?token=952dc6f838650903ec1a910663195b5627a3e80e-6685be98af824d0de1b76301712836ba-1606398916-1606388116
-#EXTINF:-1, Channel 36
-http://103.135.208.14:8082/55/index.m3u8?token=b30d9575ba8b2bb005c040cb8bdf335afd5b7958-efed54979e1c6c473eae0b63734583a2-1606398931-1606388131
-#EXTINF:-1, Channel 37
-http://103.135.208.14:8082/18/index.m3u8?token=96f18589dcb40da1974493560cd393329a45c9a2-8628165631d98b7097600c933fd546ff-1606398905-1606388105
-#EXTINF:-1, Channel 38
-http://103.135.208.14:8082/15/index.m3u8?token=0d06c35d7beea2a62d10a23aaa5d7391d274c413-535167d0731228863064c0dc7f0bd033-1606398910-1606388110
-#EXTINF:-1, Channel 39
-http://103.135.208.14:8082/51/index.m3u8?token=936819897dd6cdd6dabf19c5227cbd4882dd3b34-c0842cc2497e1fc061bc33ac5d7ba8db-1606398906-1606388106
-#EXTINF:-1, Channel 40
-http://103.135.208.14:8082/39/index.m3u8?token=02f48b77f1777aae8af0100f6f564d693408147f-4c35734c03abbe68245aa55aced1826f-1606398919-1606388119
-#EXTINF:-1, Channel 41
-http://103.135.208.14:8082/68/index.m3u8?token=b22a1b5b19d38dfd0e1781ba58535b2ddd52e8c9-65530657bae11bf7fdfb832efa33f1d1-1606398921-1606388121
-#EXTINF:-1, Channel 42
-http://103.135.208.14:8082/27/index.m3u8?token=c081f45f62ea5908ecb9a1f1d21a8d25f6a61f0e-002abd122ac283a07f4b00810ac4bd5a-1606398926-1606388126
-#EXTINF:-1, Channel 43
-http://103.135.208.14:8082/41/index.m3u8?token=4f463c63b870a3dca024a9bfdfae7a17f4014808-4c9e2be749f7bcf74dfeeb304f278a65-1606398918-1606388118
-#EXTINF:-1, Channel 44
-http://103.135.208.14:8082/32/index.m3u8?token=19f70715ad2fad7a2bc68ee739e78f579b557960-d3a4a0c4aade8bc8054665bd16a80005-1606398917-1606388117
-#EXTINF:-1, Channel 45
-http://103.135.208.14:8082/12/index.m3u8?token=b2d583e8e013350f25f6469e9a49d856ba1f59ab-c4191d923a9262ee52fb72ce7ef0ec54-1606398907-1606388107
-#EXTINF:-1, Channel 46
-http://103.135.208.14:8082/74/index.m3u8?token=0489c5af6c4aa53b23ff336bb5001326b06f5235-97bff1f93e88964e97d9e6872f3c9f25-1606398923-1606388123
-#EXTINF:-1, Channel 47
-http://103.135.208.14:8082/45/index.m3u8?token=c7e4a002e4745c493384fb9526f35f39b8f86dda-2d570adc3d91d7e07b32f93a81b1fa09-1606398919-1606388119
-#EXTINF:-1, Channel 48
-http://103.135.208.14:8082/3/index.m3u8?token=e69199de0c4bff3ffae1fdb7132459073152d484-619996f217977e4986c99a02e0f7ecc2-1606398908-1606388108
-#EXTINF:-1, Channel 49
-http://103.135.208.14:8082/75/index.m3u8?token=9a54977606f53d7ba2cecc305ab547083a8f031c-c4203f0e957b76879fe5f78553761594-1606398920-1606388120
-#EXTINF:-1, Channel 50
-http://103.135.208.14:8082/11/index.m3u8?token=6bda52f20cfb2999e5f47455f9eaadba0abea69d-fe2268c8d227be03902d945dc6879ea4-1606398911-1606388111
-#EXTINF:-1, Channel 51
-http://103.135.208.14:8082/79/index.m3u8?token=d83f05b0c257df47332022eae043e1847e21977d-2bda17b4c9484bfe51075837e3711edd-1606398932-1606388132
-#EXTINF:-1, Channel 52
-http://103.135.208.14:8082/50/index.m3u8?token=c9c79f717d709bc517d97ef28f0dcb0d98c5ff2b-28dbe6ac078adf338a5cbcabafeb2285-1606398912-1606388112
-#EXTINF:-1, Channel 53
-http://103.135.208.14:8082/20/index.m3u8?token=f8253af2c1c1887dc38324d7f765db43a2c9e0a2-0b342439b89eddc9c5a09714472566ef-1606398925-1606388125
-#EXTINF:-1, Channel 54
-http://103.135.208.14:8082/14/index.m3u8?token=d62ae8e7fb043c356b748995a089716705cc36cd-51179cb22178fab339dac049f025841c-1606398907-1606388107
-#EXTINF:-1, Channel 55
-http://103.135.208.14:8082/49/index.m3u8?token=90f6e13953dcae8b58dc9f409efd4f63231039fe-0799f1f2a5741f6e2cbf52123dd6af74-1606398914-1606388114
-#EXTINF:-1, Channel 56
-http://103.135.208.14:8082/54/index.m3u8?token=2369f849c77612911389bc1a8896efe5e456d308-440bd657c59ef73a2073f0950a1bca04-1606398908-1606388108
-#EXTINF:-1, Channel 57
-http://103.135.208.14:8082/43/index.m3u8?token=3e625c792dec7c98077c8c12d406536794971f45-a7e6574b2797d5fbf209efab4064c4ee-1606398930-1606388130
-#EXTINF:-1, Channel 58
-http://103.135.208.14:8082/19/index.m3u8?token=c5081ee88c086ac112f3f1385f6a47e26310b63b-87ce36765722a9b8a735e72866255c47-1606398913-1606388113
-#EXTINF:-1, Channel 59
-http://103.135.208.14:8082/62/index.m3u8?token=bc5df53aedd7afcf0074ea31a79ed36f59ea0431-36844fabb7d3315d804355676a58b99c-1606398911-1606388111
-#EXTINF:-1, Channel 60
-http://103.135.208.14:8082/73/index.m3u8?token=d3c49eec304cd4c84c071abe294095014b5e3a04-726765f5eb4fb50888874eb164baa417-1606398927-1606388127
-#EXTINF:-1, Channel 61
-http://103.135.208.14:8082/31/index.m3u8?token=d88e745043301fd0c6a1248a4bf6993790ae7099-81a14a9cdc55af8e9691c2cf4ef86da7-1606398917-1606388117
-#EXTINF:-1, Channel 62
-http://103.135.208.14:8082/76/index.m3u8?token=2ae7766e65b2845589cf02b07ebc2f098f77a092-35c9b80a01da3e86855aa940a8e7d107-1606398923-1606388123
-#EXTINF:-1, Channel 63
-http://103.135.208.14:8082/69/index.m3u8?token=a29b4d8dd6fb1c96679186e661cb9818f5035f6a-d92e57ace50d8b318d9e5fd8379b0062-1606398920-1606388120
-#EXTINF:-1, Channel 64
-http://103.135.208.14:8082/29/index.m3u8?token=28d9f6139c32ea20ebcd7060bb4cfd695632de13-4725469f8def0ec243f064cd795f5dd8-1606398916-1606388116
-#EXTINF:-1, Channel 65
-http://103.135.208.14:8082/48/index.m3u8?token=a1aba63d5b98272ba3096a8ae6ff93c8fa63cf03-6f992f8667ead2f2728ce6dd59641d51-1606398928-1606388128
-#EXTINF:-1, Channel 66
-http://103.135.208.14:8082/42/index.m3u8?token=bae5cba6b6246769643ae3087092bb46f3b5fa32-17d2a595488996e27e6d58a6d47da15e-1606398917-1606388117
-#EXTINF:-1, Channel 67
-http://103.135.208.14:8082/61/index.m3u8?token=7409846687e42da6b3025c20a6778477274c2ef5-ca5e6fbca053a35563ac2300d9f6ce58-1606398912-1606388112
-#EXTINF:-1, Channel 68
-http://103.135.208.14:8082/7/index.m3u8?token=9c863149747f64cc93f56e3288c76989f32843ab-c70e087ce15d2070e1727ec0a04ef48b-1606398909-1606388109
-#EXTINF:-1, Channel 69
-http://103.135.208.14:8082/66/index.m3u8?token=3465783e9fa38d1d9d800195c3e5fb759784a869-fc2173cb0ccf540e33ca96d048af9d8f-1606398915-1606388115
-#EXTINF:-1, Channel 70
-http://103.135.208.14:8082/16/index.m3u8?token=7b9579f8feac81924c1b7f6eb5f2a793a274d8dd-21ce7c5b9ecff2680151a3e45d9ed88b-1606398913-1606388113
-#EXTINF:-1, Channel 71
-http://103.135.208.14:8082/77/index.m3u8?token=71112a15f3671b903ab708d0a1f8d3cfc3bf3e9b-00a37cb4c437c6114b9c459af6fd79f0-1606398922-1606388122
-#EXTINF:-1, Channel 72
-http://103.135.208.14:8082/60/index.m3u8?token=049f2f8276afe376fa848a4b45e4318ff378c447-0bb8a76ea60f7418cee060a0f5a5e163-1606398928-1606388128
-#EXTINF:-1, Channel 73
-http://103.135.208.14:8082/40/index.m3u8?token=27561c50bc0e39b36eae1e19fd91a57c9b1bf7bb-60032aec71395ad546609f2ccd57e380-1606398923-1606388123
-#EXTINF:-1, Channel 74
-http://103.135.208.14:8082/21/index.m3u8?token=efb0e75dec8898114d005440769a4c918346dcfd-ab518542cfcf5169f5ca8bd44b30ee3f-1606398925-1606388125
-#EXTINF:-1, Channel 75
-http://103.135.208.14:8082/46/index.m3u8?token=696f49956be779e0f2b0b5f37d4469078845b042-9c496958f54bfbbb1c98e17179197ac5-1606398930-1606388130
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="News",Ekattor TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="News",Jamuna TV
@@ -469,8 +315,6 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?@amarnett
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WEATHER NATION" tvg-logo="https://i.imgur.com/iwQc4dx.jpg" group-title="News",WEATHER NATION
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TIMES NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Times_Now_2010.png/220px-Times_Now_2010.png" group-title="News",TIMES NOW
-http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AAJ TAK HD" tvg-logo="https://i.imgur.com/KYqVK91.png" group-title="News",AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV India" tvg-logo="https://i.imgur.com/VBjM4HO.png" group-title="News",NDTV India
@@ -518,11 +362,11 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Romedy Now" tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="English",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8?@IPTVSolution
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English",MBC 2 HD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@IPTVSoltion
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2 FHD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English",MBC 2 FHD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@IPTVSoltion
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://i.imgur.com/9whd4No.png" group-title="English",HBO
-http://ctgiptv.kitv.live:1935/live/test/test1/45.ts
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Movies Action" tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English",Sony Movies Action
@@ -543,10 +387,6 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC MAX FHD" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English",MBC MAX FHD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English",MBC 2 HD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2 FHD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English",MBC 2 FHD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Action HD" tvg-logo="https://i.imgur.com/diJCR16.png" group-title="English",MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Action FHD" tvg-logo="https://i.imgur.com/diJCR16.png" group-title="English",MBC Action FHD
@@ -565,8 +405,6 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/p5doERm.png" group-title="English",HBO Family
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://i.imgur.com/9whd4No.png" group-title="English",HBO
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="English",Cinemax
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Film" tvg-logo="https://i.imgur.com/E932mKv.jpg" group-title="English",Cine Film
@@ -895,8 +733,6 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 http://81.196.0.126/utvedge/utvlivehls/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M20 Musics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1200px-Radio_m2o_-_Logo_2019.svg.png" group-title="Music",M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zeta TV HD" tvg-logo="https://i.imgur.com/R3vJb1z.png" group-title="Music",Zeta TV HD
-http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1 Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Music",VH1 Italia
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1HD Music" tvg-logo="https://i.imgur.com/bV2qCVq.png" group-title="Music",1HD Music
@@ -1047,8 +883,6 @@ http://203.154.243.89:1423
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary Family" tvg-logo="https://i.imgur.com/BWbFQMS.jpg" group-title="WORLD",Ary Family
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUMRAZ TV" tvg-logo="https://i.ytimg.com/vi/9ts2fLPAt7U/hqdefault.jpg" group-title="WORLD",HUMRAZ TV
-http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVT KHYBER" tvg-logo="https://i.imgur.com/uh8HAPY.jpg" group-title="WORLD",AVT KHYBER
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khyber TV" tvg-logo="https://i.imgur.com/mqFWpXX.png" group-title="WORLD",Khyber TV
@@ -1303,14 +1137,10 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="dw tv" tvg-logo="" group-title="Channel",dw tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein sports 2" tvg-logo="" group-title="Channel",bein sports 2
-http://116.203.40.131/hls/bein2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein sports 3 hd" tvg-logo="" group-title="Channel",bein sports 3 hd
 http://116.203.40.131/hls/bein3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein sports hd 4" tvg-logo="" group-title="Channel",bein sports hd 4
 http://116.203.40.131/hls/bein4.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein sports hd 5" tvg-logo="" group-title="Channel",bein sports hd 5
-http://116.203.40.131/hls/bein5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein sports 6 hd" tvg-logo="" group-title="Channel",bein sports 6 hd
 http://116.203.40.131/hls/bein6.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein sports 7 hd" tvg-logo="" group-title="Channel",bein sports 7 hd
@@ -1461,8 +1291,6 @@ http://94.130.113.214:8000/chill
 http://94.130.113.214:8000/dubtechno
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Progressive Psychedelic Trance" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Schizoid - Progressive Psychedelic Trance
 http://94.130.113.214:8000/prog
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SportsFlashes all sports radio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",SportsFlashes all sports radio
-https://azura.shoutca.st/radio/8620/radio.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Buddhist Online Radio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",The Buddhist Online Radio
 http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ujala Radio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Ujala Radio
