@@ -1,15 +1,15 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="" group-title="Bangla News",GTV H
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla News",GTV H
 http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="" group-title="Bangla News",Jamuna Tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="https://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="Bangla News",Jamuna Tv
 https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masranga" tvg-logo="" group-title="Bangla News",Masranga
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masranga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla News",Masranga
 http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My TV 2" tvg-logo="" group-title="Bangla News",My TV 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My TV 2" tvg-logo="https://bdyellowpages.net/upload/4230290_logo_for_news_12741678,192x192,r-1.jpg" group-title="Bangla News",My TV 2
 https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="" group-title="Bangla News",RTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" group-title="Bangla News",RTV
 https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="" group-title="Bangla News",Somoy tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangla News",Somoy tv
 http://163.172.29.246:8081/globalbd/somoy/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="Bangla News",Asian TV
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/playlist.m3u8
@@ -383,8 +383,6 @@ https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:-1 tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" group-title="Sports",Jordan Sports ARB
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
-#EXTINF:-1 tvg-id="KTV Sport ARB" tvg-name="KTV Sport ARB" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="Sports",KTV Sport ARB
-https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Sports",Oman Sport ARB
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sharjah Sports HD ARB" tvg-name="Sharjah Sports HD ARB" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sports",Sharjah Sports HD ARB
@@ -403,18 +401,10 @@ https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSportsARB(src02).misc(m3u4u)" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png" group-title="Sports",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports2ARB(src02).misc(m3u4u)" tvg-name="Abu Dhabi Sports 2" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6b210.png" group-title="Sports",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports3ARB(src02).misc(m3u4u)" tvg-name="Abu Dhabi Sports 3" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6bec3.png" group-title="Sports",Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports4ARB(src02).misc(m3u4u)" tvg-name="Abu Dhabi Sports 4" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6cc72.png" group-title="Sports",Abu Dhabi Sports 4
-http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Abu Dhabi YAS" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e4c03ef4b.png" group-title="Sports",Abu Dhabi YAS
 https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ads Sport" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="Sports",Ads Sport
 http://212.47.252.54/hls/stream.m3u8
-#EXTINF:-1 tvg-id="DubaiSports1ARB(src02).misc(m3u4u)" tvg-name="Dubai Sports 1" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934e3b33.png" group-title="Sports",Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:-1 tvg-id="DubaiSports2ARB(src02).misc(m3u4u)" tvg-name="Dubai Sports 2" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934d8aa9.png" group-title="Sports",Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dubai Sports 3" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png" group-title="Sports",Dubai Sports 3
@@ -1277,6 +1267,10 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playl
 https://sc.id-tv.kz/IDFashion_38_39.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HD Fashion & LifeStyle" tvg-logo="https://i.imgur.com/5p7CKwi.png" group-title="Infotainment",HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangabondhu T20(Backup 1)" tvg-logo="https://lh3.googleusercontent.com/proxy/vpygYBvHcad1FTwez4IvTdifnWrI8WO5za_WT2pCNrnHkTsgfA7ZfTs6_wAojrccyhLHdqaXY4Ki_mO8STZayS8D1GpNRsOm_nS4YfsE87oUOmcjngdhhQDz67F7jdJU5TOX5PWXwPteFYdSVD02RFbnx7CXDjECKs8d=w512-h287" group-title="Bangabondhu T20",Bangabondhu T20(Backup 1)
+http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangabondhu T20(Backup 2)" tvg-logo="https://lh3.googleusercontent.com/proxy/vpygYBvHcad1FTwez4IvTdifnWrI8WO5za_WT2pCNrnHkTsgfA7ZfTs6_wAojrccyhLHdqaXY4Ki_mO8STZayS8D1GpNRsOm_nS4YfsE87oUOmcjngdhhQDz67F7jdJU5TOX5PWXwPteFYdSVD02RFbnx7CXDjECKs8d=w512-h287" group-title="Bangabondhu T20",Bangabondhu T20(Backup 2)
+http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangabondhu T20(Backup 3)" tvg-logo="https://lh3.googleusercontent.com/proxy/vpygYBvHcad1FTwez4IvTdifnWrI8WO5za_WT2pCNrnHkTsgfA7ZfTs6_wAojrccyhLHdqaXY4Ki_mO8STZayS8D1GpNRsOm_nS4YfsE87oUOmcjngdhhQDz67F7jdJU5TOX5PWXwPteFYdSVD02RFbnx7CXDjECKs8d=w512-h287" group-title="Bangabondhu T20",Bangabondhu T20(Backup 3)
 https://rhridoy136.shortcm.li/bangabondhut20backup3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangabondhu T20(Backup 4)" tvg-logo="https://lh3.googleusercontent.com/proxy/vpygYBvHcad1FTwez4IvTdifnWrI8WO5za_WT2pCNrnHkTsgfA7ZfTs6_wAojrccyhLHdqaXY4Ki_mO8STZayS8D1GpNRsOm_nS4YfsE87oUOmcjngdhhQDz67F7jdJU5TOX5PWXwPteFYdSVD02RFbnx7CXDjECKs8d=w512-h287" group-title="Bangabondhu T20",Bangabondhu T20(Backup 4)
@@ -2091,9 +2085,9 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-id="CV9.DO" tvg-name="Color Visión" tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-HD-full.png" group-title="WORLD",Color Visión
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/COV9.m3u8
-#EXTINF:-1 tvg-id="LA1.ES" tvg-name="LA 1" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="WORLD",LA 1
+#EXTINF:-1 tvg-id="LA1.ES" tvg-name="LA 1" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91203_dark_360w_270h.png" group-title="WORLD",LA 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
-#EXTINF:-1 tvg-id="LA2.ES" tvg-name="LA 2" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="WORLD",LA 2
+#EXTINF:-1 tvg-id="LA2.ES" tvg-name="LA 2" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s86914_dark_360w_270h.png" group-title="WORLD",LA 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="RPC.PY" tvg-name="Trece" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="WORLD",Trece
 http://174.138.118.252/live/trece.m3u8
@@ -2145,19 +2139,19 @@ https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="discovery" tvg-logo="" group-title="Channel",discovery
 https://streamitv.multitvsolution.in/idvo/discoverybengali_540p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Frozen II  (2019) 1080p" tvg-logo="" group-title="ANIMATION  (ftp.timepassbd.live)",Frozen II  (2019) 1080p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Frozen II  (2019) 1080p" tvg-logo="https://i.pinimg.com/originals/a7/95/cf/a795cfabc3f07fd25effc0e9da0e50d0.png" group-title="ANIMATION  (ftp.timepassbd.live)",Frozen II  (2019) 1080p
 http://file.tajpata.com/downloads/Movies/Animated/2019/%20Frozen%20II%20%20%282019%29/%20Frozen%20II%20%20%282019%29%201080p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Dragon Adventure(2019)720p" tvg-logo="" group-title="ANIMATION  (ftp.timepassbd.live)",A Dragon Adventure(2019)720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Dragon Adventure(2019)720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWY4MzQxMWQtNzZiZi00MjU5LTg5ZmMtYTY1MmU3MDc4MDQ2XkEyXkFqcGdeQXVyMjM3NDgxNw@@._V1_.jpg" group-title="ANIMATION  (ftp.timepassbd.live)",A Dragon Adventure(2019)720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/A%20Dragon%20Adventure%20%282019%29/A%20Dragon%20Adventure%282019%29720p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abominable (2019)720p" tvg-logo="" group-title="ANIMATION  (ftp.timepassbd.live)",Abominable (2019)720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abominable (2019)720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzY2U0NjctNDJkNS00MmE3LWFiZGQtZjllZTIzYTQ4ODJkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="ANIMATION  (ftp.timepassbd.live)",Abominable (2019)720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Abominable%20%282019%29/Abominable%20%282019%29720p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alita Battle Angel 2019 1080p" tvg-logo="" group-title="ANIMATION  (ftp.timepassbd.live)",Alita Battle Angel 2019 1080p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alita Battle Angel 2019 1080p" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzYWYwYjctY2JhZS00NTYzLTllM2UtZWY5ZTk0NmYwYzIyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg" group-title="ANIMATION  (ftp.timepassbd.live)",Alita Battle Angel 2019 1080p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Alita%20Battle%20Angel%20%282019%29/Alita%20Battle%20Angel%202019%201080p%20WEB-DL%20Hindi%20English%20x264.TAJPATA.COM.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Kid 2019 1080p" tvg-logo="" group-title="ANIMATION  (ftp.timepassbd.live)",Astro Kid 2019 1080p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Kid 2019 1080p" tvg-logo="https://pics.filmaffinity.com/Astro_Kid-730930681-large.jpg" group-title="ANIMATION  (ftp.timepassbd.live)",Astro Kid 2019 1080p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Astro%20Kid%20%282019%29/Astro%20Kid%202019%201080p%20BluRay%20x264.TAJPATA.COM.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Batman Hush(2019)720p" tvg-logo="" group-title="ANIMATION  (ftp.timepassbd.live)",Batman Hush(2019)720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Batman Hush(2019)720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNiZTE5NTYtODFjNy00MTA2LWE5ZWYtZTQ1YWI1NzZhZjFkXkEyXkFqcGdeQXVyNzU3NjUxMzE@._V1_.jpg" group-title="ANIMATION  (ftp.timepassbd.live)",Batman Hush(2019)720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Batman%20Hush%20%282019%29/Batman%20Hush%282019%29720p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Batman vs Teenage Mutant NinjaTurtles(2019)720p" tvg-logo="" group-title="ANIMATION  (ftp.timepassbd.live)",Batman vs Teenage Mutant NinjaTurtles(2019)720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Batman vs Teenage Mutant NinjaTurtles(2019)720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk3MGZlYWQtNDU4Ny00Y2I5LTk2YmItM2QxYjFiMjM0ZmQxXkEyXkFqcGdeQXVyNDUzMTkzMDI@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="ANIMATION  (ftp.timepassbd.live)",Batman vs Teenage Mutant NinjaTurtles(2019)720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Batman%20vs%20Teenage%20Mutant%20Ninja%20Turtles%20%282019%29/Batman%20vs%20Teenage%20Mutant%20NinjaTurtles%282019%29720p.TAJPATA.COM.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bee Team 2 (2019)720p" tvg-logo="" group-title="ANIMATION  (ftp.timepassbd.live)",Bee Team 2 (2019)720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Bee%20Team%202%20%282019%29/Bee%20Team%202%20%282019%29720p.TAJPATA.COM.mkv
@@ -2185,7 +2179,7 @@ http://file.tajpata.com/downloads/Movies/Animated/2019/Lupin%20III%20The%20First
 http://file.tajpata.com/downloads/Movies/Animated/2019/Marvel%20Rising%20Heart%20of%20Iron%20%282019%29/Marvel%20Rising%20Heart%20of%20Iron%282019%29720p.TAJPATA.COM.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Norm of the North King Sized Adventure(2019)720" tvg-logo="" group-title="ANIMATION  (ftp.timepassbd.live)",Norm of the North King Sized Adventure(2019)720
 http://file.tajpata.com/downloads/Movies/Animated/2019/Norm%20of%20the%20North%20King%20Sized%20Adventure%20%282019%29/Norm%20of%20the%20North%20King%20Sized%20Adventure%282019%29720p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1. Harry Potter and the Sorcerer Stone 2001" tvg-logo="" group-title="Movie (Tajpata.com)",1. Harry Potter and the Sorcerer Stone 2001
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1. Harry Potter and the Sorcerer Stone 2001" tvg-logo="https://www.joblo.com/assets/images/oldsite/posters/images/full/2001-poster-harry_potter_and_the_sorcerers_stone-5.jpg" group-title="Movie (Tajpata.com)",1. Harry Potter and the Sorcerer Stone 2001
 http://file.tajpata.com/downloads/Movies/Hollywood/Sequels%20All%20Movie/Harry%20Potter%20Complete%20Collection%20%282000-2020%29/1.%20Harry%20Potter%20and%20the%20Sorcerer%20Stone%202001%20Extended%20Cut%20720p%20BluRay%20Hindi%20English.TAJPATA.COM.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15 August (2019) Hindi Dubbed 720p" tvg-logo="" group-title="Movie (Tajpata.com)",15 August (2019) Hindi Dubbed 720p
 http://file.tajpata.com/downloads/Movies/Dubbed/2019/15%20August%20%282019%29/15%20August%20%282019%29%20Hindi%20Dubbed%20720p%20HDRip%20x264.TAJPATA.COM.mkv
