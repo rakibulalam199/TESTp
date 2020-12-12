@@ -147,6 +147,18 @@ https://rhridoy136.shortcm.li/atnmusic.m3u8
 https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Music" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Bangladesh",RTV Music
 https://rhridoy136.shortcm.li/rtvmusic.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="Sports",Sony Six
+http://10.16.100.201/hindi/cm_sonysix_hd.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="Sports",Sony Ten 1
+http://10.16.100.207:8082/sports/ten1_720.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="Sports",Sony Ten 3
+http://10.16.100.207:8082/sports/Ten-3_cm.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="Sports",Star Sports 1 HD
+https://rhridoy136.shortcm.li/starsports1hd.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="Sports",Star Sports Select 1 HD
+http://10.16.100.207:8082/sports/starsports_select1.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="Sports",Willow HD
+http://10.16.100.207:8082/sports/Ten-3_cm.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN:beIN1.720p" tvg-logo="" group-title="Sports",beIN:beIN1.720p
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1341
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN:beIN2.720p" tvg-logo="" group-title="Sports",beIN:beIN2.720p
