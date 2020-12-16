@@ -1001,16 +1001,6 @@ https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment",Animal Planet
 https://streamitv.multitvsolution.in/idvo/aphd_240p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment",DISCOVERY
-https://streamitv.multitvsolution.in/idvo/discoverybengali_540p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment",Discovery Bangla
-https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery English" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment",Discovery English
-https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Hindi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment",Discovery Hindi
-https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Turbo" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment",Turbo
-https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Infotainment",ANIMAL PLANET HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD ENGLISH" tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Infotainment",Discovery HD ENGLISH
@@ -1847,45 +1837,105 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Marsya & The Bear" tvg-logo="" group-title="WORLD",Marsya & The Bear
 https://d.top4top.io/m_1478p5qfu2.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Frozen II  (2019) 1080p" tvg-logo="https://i.pinimg.com/originals/a7/95/cf/a795cfabc3f07fd25effc0e9da0e50d0.png" group-title="ANIMATION  (ftp.timepassbd.live)",Frozen II  (2019) 1080p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Whisker Away (2020).mkv   " tvg-logo="https://m.media-amazon.com/images/M/MV5BNDI5ODBhYzMtNDc4Yi00NjEwLWJiZWUtMGE2Mzc4MGVjN2E0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="ANIMATION",A Whisker Away (2020).mkv   
+http://file.tajpata.com/downloads/Movies/Animated/2020/A%20Whisker%20Away%20%282020%29/A%20Whisker%20Away%20%282020%29.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adventures in Fishtales Reef (2020) 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDgxM2EyMzItODA3MC00MmQwLTg5YzQtNzY0MjZhNGNiN2RiXkEyXkFqcGdeQXVyMjM3NDgxNw@@._V1_.jpg" group-title="ANIMATION",Adventures in Fishtales Reef (2020) 720p
+http://file.tajpata.com/downloads/Movies/Animated/2020/Adventures%20in%20Fishtales%20Reef%20%282020%29/Adventures%20in%20Fishtales%20Reef%20%282020%29%20720p%20WEB%20DL%20X264.TAJPATA.COM.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Altered Carbon Resleeved(2020)1080p" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTliODA2MDUtNzI2Yi00NTQ4LTkxMmUtODA5ZjA0ZjNmODE2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="ANIMATION",Altered Carbon Resleeved(2020)1080p
+http://file.tajpata.com/downloads/Movies/Animated/2020/Altered%20Carbon%20Resleeved%20%282020%29/Altered%20Carbon%20Resleeved%20%282020%29.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Altered Carbon Resleeved(2020)1080p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Altered Carbon Resleeved(2020)1080p
+http://file.tajpata.com/downloads/Movies/Animated/2020/Altered%20Carbon%20Resleeved%282020%29/Altered%20Carbon%20Resleeved%282020%291080p.TAJPATA.COM.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Barbie Princess Adventure (2020)" tvg-logo="https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABa-qXzTcOHNlgCN5OJ1Ixlv4Lc7mcvnlDZgegvc_RnyFBz87ipn-2j7lzWxWaJnulrEHTRB53jrlbZqHxKYZ9Nbspqkp.jpg" group-title="ANIMATION",Barbie Princess Adventure (2020)
+http://file.tajpata.com/downloads/Movies/Animated/2020/Barbie%20Princess%20Adventure%20%282020%29/Barbie%20Princess%20Adventure%20%282020%29.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Combat.Wombat.2020.1080p" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYyN2Y5YWUtMDI5Zi00YjkwLWFlN2QtMjZlNjVhODZhYWI3XkEyXkFqcGdeQXVyMTIyNDUxNDU5._V1_UY1200_CR117,0,630,1200_AL_.jpg" group-title="ANIMATION",Combat.Wombat.2020.1080p
+http://file.tajpata.com/downloads/Movies/Animated/2020/Combat%20Wombat%20%282020%29/Combat.Wombat.2020.1080p.BluRay.x265-RARBG.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deathstroke Knights and Dragons (2020)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Deathstroke-1.jpg" group-title="ANIMATION",Deathstroke Knights and Dragons (2020)
+http://file.tajpata.com/downloads/Movies/Animated/2020/Deathstroke%20Knights%20and%20Dragons%20%282020%29/Deathstroke%20Knights%20and%20Dragons%20%282020%29.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digimon Adventure (2020)1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Digimon_Adventure_2020.jpg/220px-Digimon_Adventure_2020.jpg" group-title="ANIMATION",Digimon Adventure (2020)1080p
+http://file.tajpata.com/downloads/Movies/Animated/2020/Digimon%20Adventure%20%282020%29/Digimon%20Adventure%20%282020%291080p.TAJPATA.COM.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Easterland 2 (2020) 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY5NjRiODQtMWMwZS00MTM5LWFhNTYtNzQyMWYyOGRhOThhXkEyXkFqcGdeQXVyMTEzMjQzMDM1._V1_UY1200_CR135,0,630,1200_AL_.jpg" group-title="ANIMATION",Easterland 2 (2020) 720p
+http://file.tajpata.com/downloads/Movies/Animated/2020/Easterland%202%20%282020%29/Easterland%202%20%282020%29%20720p%20WEB%20DL%20-%20X264.TAJPATA.COM.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ella Bella Bingo (2020)1080p" tvg-logo="https://image.tmdb.org/t/p/w500/vdK86hDn31gjtVJhMDB7ZMEAH8Z.jpg" group-title="ANIMATION",Ella Bella Bingo (2020)1080p
+http://file.tajpata.com/downloads/Movies/Animated/2020/Ella%20Bella%20Bingo%20%282020%29/Ella%20Bella%20Bingo%20%282020%291080p.TAJPATA.COM.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Evolution(2020)720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Evolution(2020)720p
+http://file.tajpata.com/downloads/Movies/Animated/2020/Evolution%282020%29/Evolution%282020%29720p.TAJPATA.COM.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fearless (2020)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Fearless (2020)
+http://file.tajpata.com/downloads/Movies/Animated/2020/Fearless%20%282020%29/Fearless%20%282020%29.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Happy Halloween Scooby Doo (2020) 720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Happy Halloween Scooby Doo (2020) 720p
+http://file.tajpata.com/downloads/Movies/Animated/2020/Happy%20Halloween%20Scooby%20Doo%20%282020%29/Happy%20Halloween%20Scooby%20Doo%20%282020%29%20720p%20WEBRip%20x265.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Here We Are Notes for Living on Planet Earth" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Here We Are Notes for Living on Planet Earth
+http://file.tajpata.com/downloads/Movies/Animated/2020/Here%20We%20Are%20Notes%20for%20Living%20on%20Planet%20Earth%20%282020%29/Here%20We%20Are%20Notes%20for%20Living%20on%20Planet%20Earth%20%282020%291080p.TAJPATA.COM.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jungle Beat The Movie 2020 1080p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Jungle Beat The Movie 2020 1080p
+http://file.tajpata.com/downloads/Movies/Animated/2020/Jungle%20Beat%20The%20Movie%20%282020%29/Jungle%20Beat%20The%20Movie%202020%201080p.WEBRip.x265.TAJPATA.COM.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Justice League Dark Apokolips War (2020)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Justice League Dark Apokolips War (2020)
+http://file.tajpata.com/downloads/Movies/Animated/2020/Justice%20League%20Dark%20Apokolips%20War%20%282020%29/Justice%20League%20Dark%20Apokolips%20War%20%282020%29.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEGO DC Shazam - Magic & Monsters (2020)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",LEGO DC Shazam - Magic & Monsters (2020)
+http://file.tajpata.com/downloads/Movies/Animated/2020/LEGO%20DC%20Shazam%20-%20Magic%20%26%20Monsters%20%282020%29/LEGO%20DC%20Shazam%20-%20Magic%20%26%20Monsters%20%282020%29.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Norm.Of.The.North.Family.Vacation.2020.1080p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Norm.Of.The.North.Family.Vacation.2020.1080p
+http://file.tajpata.com/downloads/Movies/Animated/2020/Norm%20of%20the%20North%20Family%20Vacation%20%282020%29/Norm.Of.The.North.Family.Vacation.2020.1080p.WEBRip.TAJPATA.COM.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Octonauts and the Great Barrier Reef (2020)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Octonauts and the Great Barrier Reef (2020)
+http://file.tajpata.com/downloads/Movies/Animated/2020/Octonauts%20and%20the%20Great%20Barrier%20Reef%20%282020%29/Octonauts%20and%20the%20Great%20Barrier%20Reef%20%282020%29_TajPata.Com.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Onward (2020)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Onward (2020)
+http://file.tajpata.com/downloads/Movies/Animated/2020/Onward%20%282020%29/Onward%20%282020%29.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Over the Moon (2020)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Over the Moon (2020)
+http://file.tajpata.com/downloads/Movies/Animated/2020/Over%20the%20Moon%20%282020%29/Over%20the%20Moon%20%282020%29.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pets United (2020) English 720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Pets United (2020) English 720p
+http://file.tajpata.com/downloads/Movies/Animated/2020/Pets%20United%20%282020%29/Pets%20United%20%282020%29%20English%20720p%20WEB-DL%20x264%20ESubs_Tajpata.Com.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Red Shoes And The Seven Dwarfs (2020)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Red Shoes And The Seven Dwarfs (2020)
+http://file.tajpata.com/downloads/Movies/Animated/2020/Red%20Shoes%20And%20The%20Seven%20Dwarfs%20%282020%29/Red%20Shoes%20And%20The%20Seven%20Dwarfs%20%282020%29%20HDRip%201080P.TAJPATA.COM.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scoob (2020) 720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Scoob (2020) 720p
+http://file.tajpata.com/downloads/Movies/Animated/2020/Scoob%20%282020%29/Scoob%20%282020%29%20720p%20WEBRip%20English%20x265.TAJPATA.COM.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sesame Street Elmos Playdate (2020)1080p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Sesame Street Elmos Playdate (2020)1080p
+http://file.tajpata.com/downloads/Movies/Animated/2020/Sesame%20Street%20Elmos%20Playdate%20%282020%29/Sesame%20Street%20Elmos%20Playdate%20%282020%291080p.TAJPATA.COM.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sonic The Hedgehog(2020)1080p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Sonic The Hedgehog(2020)1080p
+http://file.tajpata.com/downloads/Movies/Animated/2020/Sonic%20the%20Hedgehog%20%282020%29/Sonic%20The%20Hedgehog%282020%291080p.TAJPATA.COM.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Superman Red Son(2020)1080p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Superman Red Son(2020)1080p
+http://file.tajpata.com/downloads/Movies/Animated/2020/Superman%20Red%20Son%282020%29/Superman%20Red%20Son%282020%291080p.TAJPATA.COM.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Adventures of Acela (2020)720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",The Adventures of Acela (2020)720p
+http://file.tajpata.com/downloads/Movies/Animated/2020/The%20Adventures%20of%20Acela%20%282020%29/The%20Adventures%20of%20Acela%20%282020%29720p.TAJPATA.COM.avi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Tianchi Monster 2020 720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",The Tianchi Monster 2020 720p
+http://file.tajpata.com/downloads/Movies/Animated/2020/The%20Tianchi%20Monster%20%282020%29/The%20Tianchi%20Monster%202020%20720p%20HDRip%20H264.TAJPATA.COM.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Willoughbys (2020) 1080P Dual Audio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",The Willoughbys (2020) 1080P Dual Audio
+http://file.tajpata.com/downloads/Movies/Animated/2020/The%20Willoughbys%20%282020%29/The%20Willoughbys%20%282020%29%201080P%20Dual%20Audio%20WEBRiP%20x265.TAJPATA.COM.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Frozen II  (2019) 1080p" tvg-logo="https://i.pinimg.com/originals/a7/95/cf/a795cfabc3f07fd25effc0e9da0e50d0.png" group-title="ANIMATION",Frozen II  (2019) 1080p
 http://file.tajpata.com/downloads/Movies/Animated/2019/%20Frozen%20II%20%20%282019%29/%20Frozen%20II%20%20%282019%29%201080p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Dragon Adventure(2019)720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWY4MzQxMWQtNzZiZi00MjU5LTg5ZmMtYTY1MmU3MDc4MDQ2XkEyXkFqcGdeQXVyMjM3NDgxNw@@._V1_.jpg" group-title="ANIMATION  (ftp.timepassbd.live)",A Dragon Adventure(2019)720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Dragon Adventure(2019)720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWY4MzQxMWQtNzZiZi00MjU5LTg5ZmMtYTY1MmU3MDc4MDQ2XkEyXkFqcGdeQXVyMjM3NDgxNw@@._V1_.jpg" group-title="ANIMATION",A Dragon Adventure(2019)720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/A%20Dragon%20Adventure%20%282019%29/A%20Dragon%20Adventure%282019%29720p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abominable (2019)720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzY2U0NjctNDJkNS00MmE3LWFiZGQtZjllZTIzYTQ4ODJkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="ANIMATION  (ftp.timepassbd.live)",Abominable (2019)720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abominable (2019)720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzY2U0NjctNDJkNS00MmE3LWFiZGQtZjllZTIzYTQ4ODJkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="ANIMATION",Abominable (2019)720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Abominable%20%282019%29/Abominable%20%282019%29720p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alita Battle Angel 2019 1080p" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzYWYwYjctY2JhZS00NTYzLTllM2UtZWY5ZTk0NmYwYzIyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg" group-title="ANIMATION  (ftp.timepassbd.live)",Alita Battle Angel 2019 1080p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alita Battle Angel 2019 1080p" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzYWYwYjctY2JhZS00NTYzLTllM2UtZWY5ZTk0NmYwYzIyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg" group-title="ANIMATION",Alita Battle Angel 2019 1080p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Alita%20Battle%20Angel%20%282019%29/Alita%20Battle%20Angel%202019%201080p%20WEB-DL%20Hindi%20English%20x264.TAJPATA.COM.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Kid 2019 1080p" tvg-logo="https://pics.filmaffinity.com/Astro_Kid-730930681-large.jpg" group-title="ANIMATION  (ftp.timepassbd.live)",Astro Kid 2019 1080p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Kid 2019 1080p" tvg-logo="https://pics.filmaffinity.com/Astro_Kid-730930681-large.jpg" group-title="ANIMATION",Astro Kid 2019 1080p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Astro%20Kid%20%282019%29/Astro%20Kid%202019%201080p%20BluRay%20x264.TAJPATA.COM.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Batman Hush(2019)720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNiZTE5NTYtODFjNy00MTA2LWE5ZWYtZTQ1YWI1NzZhZjFkXkEyXkFqcGdeQXVyNzU3NjUxMzE@._V1_.jpg" group-title="ANIMATION  (ftp.timepassbd.live)",Batman Hush(2019)720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Batman Hush(2019)720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNiZTE5NTYtODFjNy00MTA2LWE5ZWYtZTQ1YWI1NzZhZjFkXkEyXkFqcGdeQXVyNzU3NjUxMzE@._V1_.jpg" group-title="ANIMATION",Batman Hush(2019)720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Batman%20Hush%20%282019%29/Batman%20Hush%282019%29720p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Batman vs Teenage Mutant NinjaTurtles(2019)720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk3MGZlYWQtNDU4Ny00Y2I5LTk2YmItM2QxYjFiMjM0ZmQxXkEyXkFqcGdeQXVyNDUzMTkzMDI@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="ANIMATION  (ftp.timepassbd.live)",Batman vs Teenage Mutant NinjaTurtles(2019)720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Batman vs Teenage Mutant NinjaTurtles(2019)720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk3MGZlYWQtNDU4Ny00Y2I5LTk2YmItM2QxYjFiMjM0ZmQxXkEyXkFqcGdeQXVyNDUzMTkzMDI@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="ANIMATION",Batman vs Teenage Mutant NinjaTurtles(2019)720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Batman%20vs%20Teenage%20Mutant%20Ninja%20Turtles%20%282019%29/Batman%20vs%20Teenage%20Mutant%20NinjaTurtles%282019%29720p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bee Team 2 (2019)720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION  (ftp.timepassbd.live)",Bee Team 2 (2019)720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bee Team 2 (2019)720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Bee Team 2 (2019)720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Bee%20Team%202%20%282019%29/Bee%20Team%202%20%282019%29720p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dog Town(2019)720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION  (ftp.timepassbd.live)",Dog Town(2019)720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dog Town(2019)720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Dog Town(2019)720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Dog%20Town%20%282019%29/Dog%20Town%282019%29720p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doraemon Nobitas Chronicle of the Moon Explorat" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION  (ftp.timepassbd.live)",Doraemon Nobitas Chronicle of the Moon Explorat
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doraemon Nobitas Chronicle of the Moon Explorat" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Doraemon Nobitas Chronicle of the Moon Explorat
 http://file.tajpata.com/downloads/Movies/Animated/2019/Doraemon%20Nobitas%20Chronicle%20of%20the%20Moon%20Exploration%20%282019%29/Doraemon%20Nobitas%20Chronicle%20of%20the%20Moon%20Exploration%202019%201080p%20BrRip%20x265.TAJPATA.COM.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Quest Your Story (2019)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION  (ftp.timepassbd.live)",Dragon Quest Your Story (2019)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Quest Your Story (2019)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Dragon Quest Your Story (2019)
 http://file.tajpata.com/downloads/Movies/Animated/2019/Dragon%20Quest%20Your%20Story%20%282019%29/Dragon%20Quest%20Your%20Story%20%282019%29.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fish School 2(2019)720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION  (ftp.timepassbd.live)",Fish School 2(2019)720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fish School 2(2019)720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Fish School 2(2019)720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Fish%20School%202%20%282019%29/Fish%20School%202%282019%29720p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="How to Train Your Dragon-Snoggletog Log (2019)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION  (ftp.timepassbd.live)",How to Train Your Dragon-Snoggletog Log (2019)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="How to Train Your Dragon-Snoggletog Log (2019)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",How to Train Your Dragon-Snoggletog Log (2019)
 http://file.tajpata.com/downloads/Movies/Animated/2019/How%20to%20Train%20Your%20Dragon-Snoggletog%20Log%20%282019%29/How%20to%20Train%20Your%20Dragon-Snoggletog%20Log%20%282019%29720p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I Lost My Body(2019)720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION  (ftp.timepassbd.live)",I Lost My Body(2019)720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I Lost My Body(2019)720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",I Lost My Body(2019)720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/I%20Lost%20My%20Body%20%282019%29/I%20Lost%20My%20Body%282019%29720p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Justice League vs the Fatal Five(2019)720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION  (ftp.timepassbd.live)",Justice League vs the Fatal Five(2019)720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Justice League vs the Fatal Five(2019)720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Justice League vs the Fatal Five(2019)720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Justice%20League%20vs%20the%20Fatal%20Five%20%282019%29/Justice%20League%20vs%20the%20Fatal%20Five%282019%29720p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Klaus 2019 Dual Audio Hindi 720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION  (ftp.timepassbd.live)",Klaus 2019 Dual Audio Hindi 720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Klaus 2019 Dual Audio Hindi 720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Klaus 2019 Dual Audio Hindi 720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Klaus%20%282019%29/Klaus%202019%20Dual%20Audio%20Hindi%20720p%20WEB-DL.TAJPATA.COM.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEGO DC Batman Family Matters (2019)720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION  (ftp.timepassbd.live)",LEGO DC Batman Family Matters (2019)720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEGO DC Batman Family Matters (2019)720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",LEGO DC Batman Family Matters (2019)720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/LEGO%20DC%20Batman%20Family%20Matters%20%282019%29/LEGO%20DC%20Batman%20Family%20Matters%20%282019%29720p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lupin III The First (2019) JAPANESE 1080p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION  (ftp.timepassbd.live)",Lupin III The First (2019) JAPANESE 1080p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lupin III The First (2019) JAPANESE 1080p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Lupin III The First (2019) JAPANESE 1080p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Lupin%20III%20The%20First%20%282019%29/Lupin%20III%20The%20First%20%282019%29%20JAPANESE%201080pBluRay%20x265_TajPata.Com.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Marvel Rising Heart of Iron(2019)720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION  (ftp.timepassbd.live)",Marvel Rising Heart of Iron(2019)720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Marvel Rising Heart of Iron(2019)720p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Marvel Rising Heart of Iron(2019)720p
 http://file.tajpata.com/downloads/Movies/Animated/2019/Marvel%20Rising%20Heart%20of%20Iron%20%282019%29/Marvel%20Rising%20Heart%20of%20Iron%282019%29720p.TAJPATA.COM.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Norm of the North King Sized Adventure(2019)720" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION  (ftp.timepassbd.live)",Norm of the North King Sized Adventure(2019)720
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Norm of the North King Sized Adventure(2019)720" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="ANIMATION",Norm of the North King Sized Adventure(2019)720
 http://file.tajpata.com/downloads/Movies/Animated/2019/Norm%20of%20the%20North%20King%20Sized%20Adventure%20%282019%29/Norm%20of%20the%20North%20King%20Sized%20Adventure%282019%29720p.TAJPATA.COM.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1. Harry Potter and the Sorcerer Stone 2001" tvg-logo="https://www.joblo.com/assets/images/oldsite/posters/images/full/2001-poster-harry_potter_and_the_sorcerers_stone-5.jpg" group-title="Movie (Tajpata.com)",1. Harry Potter and the Sorcerer Stone 2001
 http://file.tajpata.com/downloads/Movies/Hollywood/Sequels%20All%20Movie/Harry%20Potter%20Complete%20Collection%20%282000-2020%29/1.%20Harry%20Potter%20and%20the%20Sorcerer%20Stone%202001%20Extended%20Cut%20720p%20BluRay%20Hindi%20English.TAJPATA.COM.mp4
