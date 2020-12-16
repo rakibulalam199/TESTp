@@ -465,10 +465,10 @@ https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Watan" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png" group-title="Religious",Watan
 http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5AAB TV" tvg-logo="" group-title="INDIA (New)",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="7S Music" tvg-logo="" group-title="INDIA (New)",7S Music
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5AAB TV" tvg-logo="" group-title="INDIA (New)",Sony tv
+http://10.16.100.204/hls/sony_tv_720.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="7S Music" tvg-logo="" group-title="INDIA (New)",Star plus
+http://10.16.100.204/hls/star_plus.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aathavan TV" tvg-logo="" group-title="INDIA (New)",Aathavan TV
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Ananda" tvg-logo="" group-title="INDIA (New)",ABP Ananda
@@ -1269,8 +1269,8 @@ https://server1.jadubd.com/hernettv/hernettv/chunklist_w604863394.m3u8
 https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News Time Bangla [IN]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/News_Time_new_logo.png" group-title="Shows & Series",News Time Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="R Plus Gold [IN]" tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="Shows & Series",R Plus Gold [IN]
-https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sony aath" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Shows & Series",sony aath
+http://10.16.100.204/hls/sony_aath.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Shows & Series",Star Jalsha HD
 http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD [IN] (2)" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="Shows & Series",Star Jalsha HD [IN] (2)
