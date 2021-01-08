@@ -61,6 +61,224 @@ https://rhridoy136.shortcm.li/sangsadtv.m3u8
 https://rhridoy136.shortcm.li/satv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shomoy TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="Bangla News",Shomoy TV
 https://rhridoy136.shortcm.li/shomoytv.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="71 Bangla TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",71 Bangla TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="AB TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",AB TV (2)
+https://cdn.priyoiptv.com:444/priyoiptv/rangiptv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Alif IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Alif IPTV
+http://128.199.212.160/alif/1080/index.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="ANANDA TV HD (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",ANANDA TV HD (2)
+https://bdsl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/live-orgin/anandatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ANANDA TV HD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",ANANDA TV HD (3)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ASIAN TV HD (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",ASIAN TV HD (2)
+http://163.172.29.246:8081/globalbd/asian/chunks.m3u8
+#EXTINF:-1 tvg-id="ATNBanglaUK.uk" tvg-name="ATN BANGLA (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",ATN BANGLA (2)
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ATNBanglaUK.uk" tvg-name="ATN BANGLA (5)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",ATN BANGLA (5)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ATN NEWS (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",ATN NEWS (4)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Ayna IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Ayna IPTV
+http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="Bangla 21 TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Bangla 21 TV (2)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Bangla IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Bangla IPTV
+http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="BANGLA TV HD (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",BANGLA TV HD (4)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BANGLA VISION (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",BANGLA VISION (4)
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BD LIVE IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",BD LIVE IPTV
+https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="BIJOY TV HD (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",BIJOY TV HD (1)
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BIJOY TV HD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",BIJOY TV HD (3)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Biswa Bangla 24 TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Biswa Bangla 24 TV (2)
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BOISHAKHI TV (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",BOISHAKHI TV (3)
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Bongo TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Bongo TV
+http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="BTV CTG (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",BTV CTG (2)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ZeeBollywood.us" tvg-name="BTV WORLD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",BTV WORLD (3)
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ZeeBollywood.us" tvg-name="BTV WORLD (5)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",BTV WORLD (5)
+http://163.172.29.246:8081/globalbd/btv/chunks.m3u8
+#EXTINF:-1 tvg-id="Channel23.il" tvg-name="Channel 23" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Channel 23
+http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="CHANNEL 24 (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",CHANNEL 24 (4)
+http://163.172.29.246:8081/globalbd/channel24/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CHANNEL 24 (5)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",CHANNEL 24 (5)
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Channel9.il" tvg-name="CHANNEL 9 HD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",CHANNEL 9 HD (3)
+http://163.172.29.246:8081/globalbd/channel9/chunks.m3u8
+#EXTINF:-1 tvg-id="Channel9.il" tvg-name="CHANNEL 9 HD (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",CHANNEL 9 HD (4)
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Channel9.il" tvg-name="CHANNEL 9 HD (5)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",CHANNEL 9 HD (5)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Channel H (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Channel H (2)
+http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channelhtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CHANNEL I HD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",CHANNEL I HD (3)
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ChannelS.uk" tvg-name="CHANNEL S (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",CHANNEL S (3)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ChannelS.uk" tvg-name="CHANNEL S (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",CHANNEL S (4)
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Channel T1 IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Channel T1 IPTV
+http://128.199.212.160/channelt1/1080/index.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="Channel TT IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Channel TT IPTV
+https://2-fss-2.themediacdn.com/pl_118/amlst:201982-1318992/playlist.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="CHANNEL-S (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",CHANNEL-S (1)
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelsbd.stream/chunks.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="CHANNEL-S (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",CHANNEL-S (2)
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Channel-S (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Channel-S (3)
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Cumilla 24 (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Cumilla 24 (2)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DBC NEWS HD (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",DBC NEWS HD (1)
+http://163.172.29.246:8081/globalbd/dbc/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DBC NEWS HD (5)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",DBC NEWS HD (5)
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DBC NEWS HD (6)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",DBC NEWS HD (6)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DESH TV (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",DESH TV (1)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DESH TV (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",DESH TV (4)
+https://bdsl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshtv.stream/live-orgin/deshtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DesheBideshe (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",DesheBideshe (2)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Deshi IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Deshi IPTV
+http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="Doyel Tv" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Doyel Tv
+http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="DURONTO TV (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",DURONTO TV (3)
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="EKATTOR TV HD (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",EKATTOR TV HD (2)
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="EKATTOR TV HD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",EKATTOR TV HD (3)
+http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="EKUSHEY TV (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",EKUSHEY TV (1)
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="EKUSHEY TV (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",EKUSHEY TV (3)
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="EKUSHEY TV (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",EKUSHEY TV (4)
+http://163.172.29.246:8081/globalbd/ekushytv/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="GAZI TV HD (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",GAZI TV HD (4)
+http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="GAZI TV HD (5)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",GAZI TV HD (5)
+http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="GAZI TV HD (7)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",GAZI TV HD (7)
+http://mtv.sports.bdfun.club:80/live/my-stream-key/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Hernet IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Hernet IPTV
+https://server1.jadubd.com/hernettv/hernettv/chunklist_w604863394.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="INDEPENDENT TV (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",INDEPENDENT TV (4)
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="iON TV UK (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",iON TV UK (2)
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ITV IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",ITV IPTV
+http://162.244.81.142:1935/live/livestream/playlist.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="Jagoron TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Jagoron TV (2)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="JAMUNA TV (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",JAMUNA TV (1)
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="JAMUNA TV (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",JAMUNA TV (4)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="JAMUNA TV (6)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",JAMUNA TV (6)
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Jonaki" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Jonaki
+https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="JonmoBhumi TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",JonmoBhumi TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="JoyJatra TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",JoyJatra TV (2)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Ktv bangla HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Ktv bangla HD
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="MAASRANGA TV HD (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",MAASRANGA TV HD (1)
+http://163.172.29.246:8081/globalbd/maasranga/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MAASRANGA TV HD (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",MAASRANGA TV HD (2)
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MAASRANGA TV HD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",MAASRANGA TV HD (3)
+http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/1.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MAASRANGA TV HD (5)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",MAASRANGA TV HD (5)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Millennium TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Millennium TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MOHONA TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",MOHONA TV (2)
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Movie Bangla (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Movie Bangla (3)
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="My Cinema (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",My Cinema (2)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MY TV HD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",MY TV HD (3)
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NAGORIK TV HD (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NAGORIK TV HD (1)
+http://163.172.29.246:8081/globalbd/nagoriktv/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NAN TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NAN TV (2)
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NAN TV (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NAN TV (3)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NANDAN IPTV (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NANDAN IPTV (1)
+http://nandansyst.com/hls/nandan.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="NANDAN IPTV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NANDAN IPTV (2)
+http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Natun Somoy" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Natun Somoy
+http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="NEWS 24 HD (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NEWS 24 HD (1)
+http://163.172.29.246:8081/globalbd/news24/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NEWS 24 HD (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NEWS 24 HD (4)
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NRB Connect HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NRB Connect HD
+http://vod.beeiptv.com:8081/NRB/nrbconnect/chunks.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="NRB TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NRB TV (2)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="NTV.uk" tvg-name="NTV (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NTV (3)
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Panvision TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Panvision TV (2)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Probasi Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Probasi Bangla
+http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="QTV Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",QTV Bangla
+http://stream.telelivebd.com/Qtvbangla/Qtvbangla.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Rang TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Rang TV (2)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Roal TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Roal TV (2)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="RTV HD (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",RTV HD (1)
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="RTV HD (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",RTV HD (2)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="RTV HD (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",RTV HD (4)
+http://163.172.29.246:8081/globalbd/rtv/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SA TV HD (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",SA TV HD (1)
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SA TV HD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",SA TV HD (3)
+http://163.172.29.246:8081/globalbd/satv/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Sangsad TV (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Sangsad TV (3)
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Shopno (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Shopno (1)
+http://talusafagroup.ddns.net:8080/shopno/shopnotv.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="Shopno (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Shopno (2)
+http://103.81.198.111:8080/shopno/shopnotv.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SOMOY TV (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",SOMOY TV (3)
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Tarongo TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Tarongo TV
+http://stream.telelivebd.com/Torongotv/Torongotv.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TBN 24 USA IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",TBN 24 USA IPTV
+http://fingerme.dg21bd.com/TBN24/index.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="Time TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Time TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Times 24 (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Times 24 (2)
+https://cdn.priyoiptv.com:444/priyoiptv/times24tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Asia" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",TV Asia
+http://103.108.140.164:1009/channel23/livestream/chunklist_w1734717153.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="Voice TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Voice TV (2)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Youth Bangla TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Youth Bangla TV
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/youthbanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duronto Tv" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Duronto Tv
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NRB" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NRB
@@ -147,256 +365,6 @@ https://rhridoy136.shortcm.li/atnmusic.m3u8
 https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Music" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Bangladesh",RTV Music
 https://rhridoy136.shortcm.li/rtvmusic.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Sangsad TV (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Sangsad TV (3)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ZeeBollywood.us" tvg-name="BTV WORLD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",BTV WORLD (3)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ZeeBollywood.us" tvg-name="BTV WORLD (5)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",BTV WORLD (5)
-http://163.172.29.246:8081/globalbd/btv/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BTV CTG (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",BTV CTG (2)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ATNBanglaUK.uk" tvg-name="ATN BANGLA (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",ATN BANGLA (2)
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ATNBanglaUK.uk" tvg-name="ATN BANGLA (5)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",ATN BANGLA (5)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CHANNEL I HD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",CHANNEL I HD (3)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="EKUSHEY TV (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",EKUSHEY TV (1)
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="EKUSHEY TV (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",EKUSHEY TV (3)
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="EKUSHEY TV (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",EKUSHEY TV (4)
-http://163.172.29.246:8081/globalbd/ekushytv/chunks.m3u8
-#EXTINF:-1 tvg-id="NTV.uk" tvg-name="NTV (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",NTV (3)
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RTV HD (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",RTV HD (1)
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RTV HD (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",RTV HD (2)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RTV HD (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",RTV HD (4)
-http://163.172.29.246:8081/globalbd/rtv/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BOISHAKHI TV (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",BOISHAKHI TV (3)
-http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BANGLA VISION (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",BANGLA VISION (4)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DESH TV (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",DESH TV (1)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DESH TV (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",DESH TV (4)
-https://bdsl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshtv.stream/live-orgin/deshtv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MY TV HD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",MY TV HD (3)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MOHONA TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",MOHONA TV (2)
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MAASRANGA TV HD (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",MAASRANGA TV HD (1)
-http://163.172.29.246:8081/globalbd/maasranga/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MAASRANGA TV HD (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",MAASRANGA TV HD (2)
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MAASRANGA TV HD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",MAASRANGA TV HD (3)
-http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/1.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MAASRANGA TV HD (5)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",MAASRANGA TV HD (5)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="Channel9.il" tvg-name="CHANNEL 9 HD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",CHANNEL 9 HD (3)
-http://163.172.29.246:8081/globalbd/channel9/chunks.m3u8
-#EXTINF:-1 tvg-id="Channel9.il" tvg-name="CHANNEL 9 HD (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",CHANNEL 9 HD (4)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="Channel9.il" tvg-name="CHANNEL 9 HD (5)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",CHANNEL 9 HD (5)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="GAZI TV HD (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",GAZI TV HD (4)
-http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="GAZI TV HD (5)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",GAZI TV HD (5)
-http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="GAZI TV HD (7)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",GAZI TV HD (7)
-http://mtv.sports.bdfun.club:80/live/my-stream-key/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ASIAN TV HD (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",ASIAN TV HD (2)
-http://163.172.29.246:8081/globalbd/asian/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SA TV HD (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",SA TV HD (1)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SA TV HD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",SA TV HD (3)
-http://163.172.29.246:8081/globalbd/satv/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BANGLA TV HD (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",BANGLA TV HD (4)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NAGORIK TV HD (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",NAGORIK TV HD (1)
-http://163.172.29.246:8081/globalbd/nagoriktv/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ATN NEWS (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",ATN NEWS (4)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="INDEPENDENT TV (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",INDEPENDENT TV (4)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SOMOY TV (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",SOMOY TV (3)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CHANNEL 24 (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",CHANNEL 24 (4)
-http://163.172.29.246:8081/globalbd/channel24/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CHANNEL 24 (5)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",CHANNEL 24 (5)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="EKATTOR TV HD (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",EKATTOR TV HD (2)
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="EKATTOR TV HD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",EKATTOR TV HD (3)
-http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="JAMUNA TV (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",JAMUNA TV (1)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="JAMUNA TV (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",JAMUNA TV (4)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="JAMUNA TV (6)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",JAMUNA TV (6)
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NEWS 24 HD (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",NEWS 24 HD (1)
-http://163.172.29.246:8081/globalbd/news24/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NEWS 24 HD (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",NEWS 24 HD (4)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DBC NEWS HD (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",DBC NEWS HD (1)
-http://163.172.29.246:8081/globalbd/dbc/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DBC NEWS HD (5)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",DBC NEWS HD (5)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DBC NEWS HD (6)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",DBC NEWS HD (6)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DURONTO TV (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",DURONTO TV (3)
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BIJOY TV HD (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",BIJOY TV HD (1)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BIJOY TV HD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",BIJOY TV HD (3)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ANANDA TV HD (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",ANANDA TV HD (2)
-https://bdsl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/live-orgin/anandatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ANANDA TV HD (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",ANANDA TV HD (3)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CHANNEL-S (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",CHANNEL-S (1)
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelsbd.stream/chunks.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="CHANNEL-S (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",CHANNEL-S (2)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Channel-S (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Channel-S (3)
-https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
-#EXTINF:-1 tvg-id="ChannelS.uk" tvg-name="CHANNEL S (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",CHANNEL S (3)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ChannelS.uk" tvg-name="CHANNEL S (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",CHANNEL S (4)
-https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Bangla 21 TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Bangla 21 TV (2)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Times 24 (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Times 24 (2)
-https://cdn.priyoiptv.com:444/priyoiptv/times24tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="71 Bangla TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",71 Bangla TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Cumilla 24 (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Cumilla 24 (2)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Jagoron TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Jagoron TV (2)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="JoyJatra TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",JoyJatra TV (2)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NAN TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",NAN TV (2)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NAN TV (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",NAN TV (3)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NRB TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",NRB TV (2)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Panvision TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Panvision TV (2)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Biswa Bangla 24 TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Biswa Bangla 24 TV (2)
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Rang TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Rang TV (2)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Roal TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Roal TV (2)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Voice TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Voice TV (2)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Movie Bangla (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Movie Bangla (3)
-https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="My Cinema (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",My Cinema (2)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DesheBideshe (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",DesheBideshe (2)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="iON TV UK (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",iON TV UK (2)
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="JonmoBhumi TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",JonmoBhumi TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Millennium TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Millennium TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Time TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Time TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AB TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",AB TV (2)
-https://cdn.priyoiptv.com:444/priyoiptv/rangiptv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Bongo TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Bongo TV
-http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Channel H (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Channel H (2)
-http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channelhtv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Doyel Tv" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Doyel Tv
-http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Jonaki" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Jonaki
-https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="TV Asia" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",TV Asia
-http://103.108.140.164:1009/channel23/livestream/chunklist_w1734717153.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Shopno (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Shopno (1)
-http://talusafagroup.ddns.net:8080/shopno/shopnotv.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Shopno (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Shopno (2)
-http://103.81.198.111:8080/shopno/shopnotv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Deshi IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Deshi IPTV
-http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="Channel23.il" tvg-name="Channel 23" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Channel 23
-http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Natun Somoy" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Natun Somoy
-http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Hernet IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Hernet IPTV
-https://server1.jadubd.com/hernettv/hernettv/chunklist_w604863394.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="BD LIVE IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",BD LIVE IPTV
-https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="NANDAN IPTV (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",NANDAN IPTV (1)
-http://nandansyst.com/hls/nandan.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="NANDAN IPTV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",NANDAN IPTV (2)
-http://nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Alif IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Alif IPTV
-http://128.199.212.160/alif/1080/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Bangla IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Bangla IPTV
-http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="TBN 24 USA IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",TBN 24 USA IPTV
-http://fingerme.dg21bd.com/TBN24/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="ITV IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",ITV IPTV
-http://162.244.81.142:1935/live/livestream/playlist.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Channel T1 IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Channel T1 IPTV
-http://128.199.212.160/channelt1/1080/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Tarongo TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Tarongo TV
-http://stream.telelivebd.com/Torongotv/Torongotv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="QTV Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",QTV Bangla
-http://stream.telelivebd.com/Qtvbangla/Qtvbangla.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Channel TT IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Channel TT IPTV
-https://2-fss-2.themediacdn.com/pl_118/amlst:201982-1318992/playlist.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Ayna IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Ayna IPTV
-http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="NRB Connect HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",NRB Connect HD
-http://vod.beeiptv.com:8081/NRB/nrbconnect/chunks.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Probasi Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Probasi Bangla
-http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Ktv bangla HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Ktv bangla HD
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Youth Bangla TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",Youth Bangla TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/youthbanglatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ts812" tvg-name="Eurosport HD" tvg-logo="https://assets.botallen.live/images/t/CEdoNUuwBg.png" group-title="Sports",Eurosport HD
-https://botallen.live/t/812/master.m3u8?signature=1384a6150c039f53bb83d21b94999bf07dbd6b38&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="SONYSIXHD" tvg-name="SIX HD" tvg-logo="https://assets.botallen.live/images/s/CpUpLKYQTC.png" group-title="Sports",SIX HD
-https://botallen.live/s/SONYSIXHD/master.m3u8?signature=085dc8895202bf002864f6566135dfc4fa3068e1&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="SONYSIXSD" tvg-name="SIX SD" tvg-logo="https://assets.botallen.live/images/s/wMqVmuncqG.png" group-title="Sports",SIX SD
-https://botallen.live/s/SONYSIXSD/master.m3u8?signature=422488b36d12bf74a66c3be03406bd5eb9eef64c&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts35" tvg-name="SONY SIX HD" tvg-logo="https://assets.botallen.live/images/t/DiEHPSECKQ.png" group-title="Sports",SONY SIX HD
-https://botallen.live/t/35/master.m3u8?signature=2a83d717655308bb5c4507908e0f61713e1b7623&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts81" tvg-name="SONY TEN 1 HD" tvg-logo="https://assets.botallen.live/images/t/iHqZzojWDH.png" group-title="Sports",SONY TEN 1 HD
-https://botallen.live/t/81/master.m3u8?signature=cdec5f15dc891cd2ff2524b8d2c52535b48678e7&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts462" tvg-name="SONY TEN 2 HD" tvg-logo="https://assets.botallen.live/images/t/SEVdYDgbJg.png" group-title="Sports",SONY TEN 2 HD
-https://botallen.live/t/462/master.m3u8?signature=13a800e52fc2e682f4a4eaa3381b1a2fcddb7e77&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts464" tvg-name="SONY TEN 3 HD" tvg-logo="https://assets.botallen.live/images/t/OigxXEVzVf.png" group-title="Sports",SONY TEN 3 HD
-https://botallen.live/t/464/master.m3u8?signature=c7e868a1be73fe78a651366d2dcf088afcc536e4&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts78" tvg-name="Star Sports 1 HD" tvg-logo="https://assets.botallen.live/images/t/hgnawhPYzD.png" group-title="Sports",Star Sports 1 HD
-https://botallen.live/t/78/master.m3u8?signature=8b79ae952a2d2cc21fdf0331b75cadf2f62ced2f&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts24" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://assets.botallen.live/images/t/ohdHWeJtjZ.png" group-title="Sports",Star Sports 1 Hindi HD
-https://botallen.live/t/24/master.m3u8?signature=d32f8f49c1423dfc43d000681a6ea6a90fc9e3ec&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts235" tvg-name="Star Sports 2 HD" tvg-logo="https://assets.botallen.live/images/t/BFrSSMWxab.png" group-title="Sports",Star Sports 2 HD
-https://botallen.live/t/235/master.m3u8?signature=54cdca0297b424b40f178d0917955838a4782cb2&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts246" tvg-name="Star Sports Select 1 HD" tvg-logo="https://assets.botallen.live/images/t/MfcsBUhXQx.png" group-title="Sports",Star Sports Select 1 HD
-https://botallen.live/t/246/master.m3u8?signature=0394639ac1ab5afe25f7505e09034eab7a17c502&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts463" tvg-name="Star Sports Select 2 HD" tvg-logo="https://assets.botallen.live/images/t/yTiRZUJMgP.png" group-title="Sports",Star Sports Select 2 HD
-https://botallen.live/t/463/master.m3u8?signature=00c2b8e5d4228fba0fb1c1a34c9b12d18d2433d1&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="TEN1SD" tvg-name="Ten 1" tvg-logo="https://assets.botallen.live/images/s/QxHUtaJgRu.png" group-title="Sports",Ten 1
-https://botallen.live/s/TEN1SD/master.m3u8?signature=ac128c4bdd35bb8c0c22ccab37d7921a616afe57&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="TEN1HD" tvg-name="Ten 1 HD" tvg-logo="https://assets.botallen.live/images/s/iZFiJqyRDW.png" group-title="Sports",Ten 1 HD
-https://botallen.live/s/TEN1HD/master.m3u8?signature=399d61aa4d1c51d1cbb401967bf4ea2455b49cdf&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="TEN2SD" tvg-name="Ten 2" tvg-logo="https://assets.botallen.live/images/s/WhoCqXSAFp.png" group-title="Sports",Ten 2
-https://botallen.live/s/TEN2SD/master.m3u8?signature=8feced6a606fe8a1a066d8e4718bbafac8661206&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="TEN2HD" tvg-name="Ten 2 HD" tvg-logo="https://assets.botallen.live/images/s/jbmAtnLqgg.png" group-title="Sports",Ten 2 HD
-https://botallen.live/s/TEN2HD/master.m3u8?signature=d56c7af58bd9742becc039f8a9be5b0310ac4e58&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjiki2SblaE5chW0QPeV1wAWHfdQ8i6SfJ0HK8KtX5L_UvLI5_&usqp=CAU" group-title="Sports",AD Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuU6Nxq7TV2GL_StL--Uo137rSOCG3T2mp5KrW6o3KrcVInHtV&usqp=CAU" group-title="Sports",AD Sports 2
@@ -915,80 +883,6 @@ https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Watan" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png" group-title="Religious",Watan
 http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ts148" tvg-name="&pictures" tvg-logo="https://assets.botallen.live/images/t/zmMGXNQsCV.png" group-title="INDIA (New)",&pictures
-https://botallen.live/t/148/master.m3u8?signature=ae39afd9fabcbc0f07272932c80de5195a785337&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts293" tvg-name="Asianet Movies" tvg-logo="https://assets.botallen.live/images/t/TpRBzTmKyy.png" group-title="INDIA (New)",Asianet Movies
-https://botallen.live/t/293/master.m3u8?signature=8c5b8de6473ee740b5c319314d9efd4204d0e6e4&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts7" tvg-name="B4U Movies" tvg-logo="https://assets.botallen.live/images/t/PvMxAMNlWc.png" group-title="INDIA (New)",B4U Movies
-https://botallen.live/t/7/master.m3u8?signature=8c91346a7cc87d65d8b04ee21cb1849c59d82611&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts296" tvg-name="Bflix Movies" tvg-logo="https://assets.botallen.live/images/t/nyMjrmBnTv.png" group-title="INDIA (New)",Bflix Movies
-https://botallen.live/t/296/master.m3u8?signature=7adaa44cd73e0c2dea0fd060ebc2d9c6c2c75617&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts182" tvg-name="Cinema TV India" tvg-logo="https://assets.botallen.live/images/t/NXpQDaETmw.png" group-title="INDIA (New)",Cinema TV India
-https://botallen.live/t/182/master.m3u8?signature=513bdccecf230660ec2e1473866415a35fb68205&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts53" tvg-name="Colors Cineplex" tvg-logo="https://assets.botallen.live/images/t/eEsIGfbsEm.png" group-title="INDIA (New)",Colors Cineplex
-https://botallen.live/t/53/master.m3u8?signature=9b02050aaaba720643e064e195486c609f4f4e34&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts692" tvg-name="Colors Gujarati Cinema" tvg-logo="https://assets.botallen.live/images/t/cbODzCwevs.png" group-title="INDIA (New)",Colors Gujarati Cinema
-https://botallen.live/t/692/master.m3u8?signature=a4b4dda1062824212d20586ad1ee5f2fb719a2f6&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts667" tvg-name="Colors Kannada Cinema" tvg-logo="https://assets.botallen.live/images/t/rTqvpGZBrv.png" group-title="INDIA (New)",Colors Kannada Cinema
-https://botallen.live/t/667/master.m3u8?signature=3b5aa1fcdfe97c4d5a25d6185517ec1131c98e84&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts823" tvg-name="Dhinchaak" tvg-logo="https://assets.botallen.live/images/t/ZimNGRWSUB.png" group-title="INDIA (New)",Dhinchaak
-https://botallen.live/t/823/master.m3u8?signature=de1551e0731fd89d23ee5d68ea51f2dbcd1ac6dc&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts194" tvg-name="Enterr10 Movies" tvg-logo="https://assets.botallen.live/images/t/BYymWnmPPV.png" group-title="INDIA (New)",Enterr10 Movies
-https://botallen.live/t/194/master.m3u8?signature=ca60a063529d24086455d94b20214d90bb787c0e&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts128" tvg-name="ETV Cinema" tvg-logo="https://assets.botallen.live/images/t/TVqNRujrZM.png" group-title="INDIA (New)",ETV Cinema
-https://botallen.live/t/128/master.m3u8?signature=8f101a968de886a6c628f5f7f93a35895cada9b9&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts362" tvg-name="Gemini Movies HD" tvg-logo="https://assets.botallen.live/images/t/CZaJijsFez.png" group-title="INDIA (New)",Gemini Movies HD
-https://botallen.live/t/362/master.m3u8?signature=16633acb6842fe6c488c4efe0c57fb66e84d50f5&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts780" tvg-name="Housefull Movies" tvg-logo="https://assets.botallen.live/images/t/qCkjqpEEUx.png" group-title="INDIA (New)",Housefull Movies
-https://botallen.live/t/780/master.m3u8?signature=42012a6bd65f97fea04b6f40d4aebaa770fcafef&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts201" tvg-name="J Movies" tvg-logo="https://assets.botallen.live/images/t/SZMqRwhsKx.png" group-title="INDIA (New)",J Movies
-https://botallen.live/t/201/master.m3u8?signature=86be735b3e1616ae8c7b9178d1aa63a1adc01848&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts537" tvg-name="Jalsha Movies HD" tvg-logo="https://assets.botallen.live/images/t/zSsmeBIqsv.png" group-title="INDIA (New)",Jalsha Movies HD
-https://botallen.live/t/537/master.m3u8?signature=93a5bb0d88d7c1f26553c351b855f151f21acebb&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts379" tvg-name="Khushboo Bangla" tvg-logo="https://assets.botallen.live/images/t/rrekBcIMUK.png" group-title="INDIA (New)",Khushboo Bangla
-https://botallen.live/t/379/master.m3u8?signature=0b13720d50f9339990fc992693a2735354a1e232&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts380" tvg-name="KTV HD" tvg-logo="https://assets.botallen.live/images/t/iuIOuFUfZu.png" group-title="INDIA (New)",KTV HD
-https://botallen.live/t/380/master.m3u8?signature=8865ff781ea4f5a77c17ccce7008d65a014bb946&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts731" tvg-name="Manoranjan TV" tvg-logo="https://assets.botallen.live/images/t/iYFFHtDaSx.png" group-title="INDIA (New)",Manoranjan TV
-https://botallen.live/t/731/master.m3u8?signature=efb5492e73462d6f1ddaa679116063bbe6620377&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts132" tvg-name="SONY  MAX" tvg-logo="https://assets.botallen.live/images/t/dHiamawVFo.png" group-title="INDIA (New)",SONY  MAX
-https://botallen.live/t/132/master.m3u8?signature=0925818f59b0f90af5a5e59ce7bcab32d024d2ea&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts120" tvg-name="SONY MAX 2" tvg-logo="https://assets.botallen.live/images/t/yDfFXmGdit.png" group-title="INDIA (New)",SONY MAX 2
-https://botallen.live/t/120/master.m3u8?signature=b963b03d78a42460a6b25a1417efd4bce74a2686&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts56" tvg-name="SONY WAH" tvg-logo="https://assets.botallen.live/images/t/OpeSFqdpsn.png" group-title="INDIA (New)",SONY WAH
-https://botallen.live/t/56/master.m3u8?signature=9f039ee5113fc0168ccf5d0761b15d87470f75b6&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts468" tvg-name="Star Jalsha HD" tvg-logo="https://assets.botallen.live/images/t/tpezvnuqDS.png" group-title="INDIA (New)",Star Jalsha HD
-https://botallen.live/t/468/master.m3u8?signature=cbb1aa658465cee643663b67ff93396592f56b23&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts388" tvg-name="Star Maa Gold" tvg-logo="https://assets.botallen.live/images/t/FOdLwsGxFo.png" group-title="INDIA (New)",Star Maa Gold
-https://botallen.live/t/388/master.m3u8?signature=5b0fe95d19a48761f68a35805c9a2acd94be8fd9&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts387" tvg-name="Star Maa Movies HD" tvg-logo="https://assets.botallen.live/images/t/zJLDtYvFFc.png" group-title="INDIA (New)",Star Maa Movies HD
-https://botallen.live/t/387/master.m3u8?signature=a5ccff610e7dc9bd3c690faa8c2846353664f29a&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts540" tvg-name="Star Suvarna Plus" tvg-logo="https://assets.botallen.live/images/t/ztfJNjxhyO.png" group-title="INDIA (New)",Star Suvarna Plus
-https://botallen.live/t/540/master.m3u8?signature=7cf90de139ff494141fa93a52c8e57a137cb8833&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts670" tvg-name="Surya Cinema" tvg-logo="https://assets.botallen.live/images/t/nAqMgNIenk.png" group-title="INDIA (New)",Surya Cinema
-https://botallen.live/t/670/master.m3u8?signature=56ce059aa904e0484ed13c1c87800bd75a7f7b3b&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts229" tvg-name="Surya Movies" tvg-logo="https://assets.botallen.live/images/t/dpEASvFhUn.png" group-title="INDIA (New)",Surya Movies
-https://botallen.live/t/229/master.m3u8?signature=794bbd4d68b97bd83f2d1967ffa2067650ef1991&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts665" tvg-name="Tata Sky Bhojpuri Sanima" tvg-logo="https://assets.botallen.live/images/t/rzRzDNVuwQ.png" group-title="INDIA (New)",Tata Sky Bhojpuri Sanima
-https://botallen.live/t/665/master.m3u8?signature=9fa8e748e921f1cd73c2236a08c6da3440794daf&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts231" tvg-name="Udaya Movies" tvg-logo="https://assets.botallen.live/images/t/uDGyFajqjs.png" group-title="INDIA (New)",Udaya Movies
-https://botallen.live/t/231/master.m3u8?signature=a43dfb1433804ec32be87c133132eb87909300d5&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts242" tvg-name="WB" tvg-logo="https://assets.botallen.live/images/t/UByigCTfIQ.png" group-title="INDIA (New)",WB
-https://botallen.live/t/242/master.m3u8?signature=0bbe8182cd01714f4cbf7cd8ed0bc4788b99fd7c&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts100" tvg-name="Zee Action" tvg-logo="https://assets.botallen.live/images/t/TIckHTwWsy.png" group-title="INDIA (New)",Zee Action
-https://botallen.live/t/100/master.m3u8?signature=6561981b321547c904faf9c76a376b650d3af799&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts64" tvg-name="Zee Anmol Cinema" tvg-logo="https://assets.botallen.live/images/t/ENYdMQURQG.png" group-title="INDIA (New)",Zee Anmol Cinema
-https://botallen.live/t/64/master.m3u8?signature=8aa3f8de4236b907b4d0dfa7b4d0512e75eaa6d8&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts254" tvg-name="Zee Bangla Cinema" tvg-logo="https://assets.botallen.live/images/t/pOaTrWJUfL.png" group-title="INDIA (New)",Zee Bangla Cinema
-https://botallen.live/t/254/master.m3u8?signature=ff02ce815f4845064b44361e0bd8bbf62563d9e0&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts175" tvg-name="Zee Bollywood" tvg-logo="https://assets.botallen.live/images/t/CuuKMMvMNC.png" group-title="INDIA (New)",Zee Bollywood
-https://botallen.live/t/175/master.m3u8?signature=48ec2dab9a37603a42d1edf21cd189bb2bf3442c&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts123" tvg-name="Zee Cinema" tvg-logo="https://assets.botallen.live/images/t/kweiXIUpak.png" group-title="INDIA (New)",Zee Cinema
-https://botallen.live/t/123/master.m3u8?signature=41319c37b0fb520129b94a3f8fc3954d188c3fe6&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts636" tvg-name="Zee Cinemalu HD" tvg-logo="https://assets.botallen.live/images/t/rhvXhqicvI.png" group-title="INDIA (New)",Zee Cinemalu HD
-https://botallen.live/t/636/master.m3u8?signature=262f0f99f57901f705d6ce5d0949037dc5f1166a&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts727" tvg-name="Zee Classic" tvg-logo="https://assets.botallen.live/images/t/YFJwbRLFyy.png" group-title="INDIA (New)",Zee Classic
-https://botallen.live/t/727/master.m3u8?signature=d1d194914ded78114b57f033e329afc81f0e6dca&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
 #EXTINF:-1 tvg-id="ext" tvg-name="& Flix HD (1)" tvg-logo="" group-title="INDIA (New)",& Flix HD (1)
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="& Flix HD (2)" tvg-logo="" group-title="INDIA (New)",& Flix HD (2)
@@ -1093,8 +987,6 @@ https://feeds.intoday.in/hltapps/api/master.m3u8?Live-TV™
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8?Live-TV™
 #EXTINF:-1 tvg-id="ext" tvg-name="Kappa TV (1)" tvg-logo="" group-title="INDIA (New)",Kappa TV (1)
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="LOK SABHA TV" tvg-logo="" group-title="INDIA (New)",LOK SABHA TV
-http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Lollywood" tvg-logo="" group-title="INDIA (New)",Lollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-id="love-nature-4k" tvg-name="LOVE NATURE 4K" tvg-logo="" group-title="INDIA (New)",LOVE NATURE 4K
@@ -1291,26 +1183,10 @@ http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b110
 http://cdn.priyoiptv.com:1932/priyoiptv/times24tv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wow Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3Aq3_P0CBcD4KKC9OHbrUrT3gKp-7J6TQ_UfRLAluaFU_N9Fc&usqp=CAU" group-title="INDIA (New)",Wow Cinema
 https://streamitv.multitvsolution.in/idvo/wowcinema.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WOW Kids Tamil" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",WOW Kids Tamil
-https://yupppreview.akamaized.net/preview/wowkidztam/2500.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aathavan TV" tvg-logo="" group-title="INDIA (New)",Aathavan TV
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Ananda" tvg-logo="" group-title="INDIA (New)",ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Asmita" tvg-logo="" group-title="INDIA (New)",ABP Asmita
-https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP News" tvg-logo="" group-title="INDIA (New)",ABP News
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amar Ujala" tvg-logo="" group-title="INDIA (New)",Amar Ujala
-https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="APB" tvg-logo="" group-title="INDIA (New)",APB
 https://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet News" tvg-logo="" group-title="INDIA (New)",Asianet News
-http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Assam Talks" tvg-logo="" group-title="INDIA (New)",Assam Talks
-http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ayush TV" tvg-logo="" group-title="INDIA (New)",Ayush TV
-http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="" group-title="INDIA (New)",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC World News" tvg-logo="" group-title="INDIA (New)",BBC World News
@@ -1325,10 +1201,6 @@ https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w1157917870.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Voice" tvg-logo="" group-title="INDIA (New)",Cine Voice
 https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC Awaaz" tvg-logo="" group-title="INDIA (New)",CNBC Awaaz
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC TV18" tvg-logo="" group-title="INDIA (New)",CNBC TV18
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD National" tvg-logo="" group-title="INDIA (New)",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD News" tvg-logo="" group-title="INDIA (New)",DD News
@@ -1355,18 +1227,6 @@ http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GUBRU TV" tvg-logo="" group-title="INDIA (New)",GUBRU TV
 https://livetv.gabruu.com/live/mgabruutv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gurbani Healing" tvg-logo="" group-title="INDIA (New)",Gurbani Healing
-http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Harvest TV USA" tvg-logo="" group-title="INDIA (New)",Harvest TV USA
-http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBC Tamil" tvg-logo="" group-title="INDIA (New)",IBC Tamil
-https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBC Tamil Canada" tvg-logo="" group-title="INDIA (New)",IBC Tamil Canada
-https://ibctamilcanada-live.ibctamil.com/transcode/ibccanada.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ind TV USA" tvg-logo="" group-title="INDIA (New)",Ind TV USA
-https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaihind TV" tvg-logo="" group-title="INDIA (New)",Jaihind TV
-http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Janam TV" tvg-logo="" group-title="INDIA (New)",Janam TV
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Janta TV" tvg-logo="" group-title="INDIA (New)",Janta TV
@@ -1377,26 +1237,6 @@ http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali" tvg-logo="" group-title="INDIA (New)",Kairali
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali News" tvg-logo="" group-title="INDIA (New)",Kairali News
-http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali TV" tvg-logo="" group-title="INDIA (New)",Kairali TV
-http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali We" tvg-logo="" group-title="INDIA (New)",Kairali We
-http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kalaignar" tvg-logo="" group-title="INDIA (New)",Kalaignar
-http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kappa TV" tvg-logo="" group-title="INDIA (New)",Kappa TV
-http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kasthuri TV" tvg-logo="" group-title="INDIA (New)",Kasthuri TV
-http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kaumudy TV" tvg-logo="" group-title="INDIA (New)",Kaumudy TV
-https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lok Sabha TV" tvg-logo="" group-title="INDIA (New)",Lok Sabha TV
-https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mangalam TV" tvg-logo="" group-title="INDIA (New)",Mangalam TV
-http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manorama News" tvg-logo="" group-title="INDIA (New)",Manorama News
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mastiii" tvg-logo="" group-title="INDIA (New)",Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mathrubhumi News" tvg-logo="" group-title="INDIA (New)",Mathrubhumi News
@@ -1433,80 +1273,28 @@ http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reporter TV" tvg-logo="" group-title="INDIA (New)",Reporter TV
 http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RSTV RajyaSabha" tvg-logo="" group-title="INDIA (New)",RSTV RajyaSabha
-http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Santhora Short Flim" tvg-logo="" group-title="INDIA (New)",Santhora Short Flim
-http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Santhora TV" tvg-logo="" group-title="INDIA (New)",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shemaroo Punjabi TV" tvg-logo="" group-title="INDIA (New)",Shemaroo Punjabi TV
-https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shubhsandesh" tvg-logo="" group-title="INDIA (New)",Shubhsandesh
-https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sikh Channel" tvg-logo="" group-title="INDIA (New)",Sikh Channel
-http://fastway.ddns.net:6421/fastway/live8/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suvarna News 24×7" tvg-logo="" group-title="INDIA (New)",Suvarna News 24×7
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamil Vision TV" tvg-logo="" group-title="INDIA (New)",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TANGY PUNJABI TV" tvg-logo="" group-title="INDIA (New)",TANGY PUNJABI TV
-http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thanthi TV" tvg-logo="" group-title="INDIA (New)",Thanthi TV
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Q India" tvg-logo="" group-title="INDIA (New)",The Q India
-https://amg1-i.akamaihd.net/hls/live/784034/Q001/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Times Now HD" tvg-logo="" group-title="INDIA (New)",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOTAL TV" tvg-logo="" group-title="INDIA (New)",TOTAL TV
-http://rtmp.smartstream.video/totaltv/totaltv/chunklist_w333449690.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Urdu TV Toronto" tvg-logo="" group-title="INDIA (New)",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793&checkedby
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xplore Channel" tvg-logo="" group-title="INDIA (New)",Xplore Channel
 https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Y" tvg-logo="" group-title="INDIA (New)",Y
-http://161.0.157.5/PLTV/88888888/224/3221226832/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 News Malayalam (New!)" tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="INDIA (New)",24 News Malayalam (New!)
-http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5aab TV" tvg-logo="https://i.imgur.com/AqAwJec.png" group-title="INDIA (New)",5aab TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9XM" tvg-logo="https://i.imgur.com/Qqa1A35.png" group-title="INDIA (New)",9XM
 http://161.0.157.5/PLTV/88888888/224/3221227097/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aaj Tak (Opt-1)" tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="INDIA (New)",Aaj Tak (Opt-1)
-http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP News (New!)" tvg-logo="https://i.imgur.com/rOrQj07.png" group-title="INDIA (New)",ABP News (New!)
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akaram Galatta" tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="INDIA (New)",Akaram Galatta
-http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akaram Kidz" tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="INDIA (New)",Akaram Kidz
-http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akaram Mix" tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="INDIA (New)",Akaram Mix
-http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amrita TV (New!)" tvg-logo="https://i.imgur.com/Ptu1AYr.png" group-title="INDIA (New)",Amrita TV (New!)
-http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Assam Talks" tvg-logo="https://i.imgur.com/z0xsSZa.png" group-title="INDIA (New)",Assam Talks
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Music (Opt-2) (New!)" tvg-logo="https://i.imgur.com/WbBOllK.png" group-title="INDIA (New)",B4U Music (Opt-2) (New!)
-http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Toronto Gaunda Punjab (CA)" tvg-logo="https://i.imgur.com/Mthi8WQ.png" group-title="INDIA (New)",BBC Toronto Gaunda Punjab (CA)
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boogle Bollywood" tvg-logo="https://i.imgur.com/k922iYy.png" group-title="INDIA (New)",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BritAsia TV (New!)" tvg-logo="https://i.imgur.com/BPS22GM.png" group-title="INDIA (New)",BritAsia TV (New!)
-https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Voice" tvg-logo="https://i.imgur.com/pTCWWT9.png" group-title="INDIA (New)",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC Bajar (New!)" tvg-logo="https://i.imgur.com/E71mShF.png" group-title="INDIA (New)",CNBC Bajar (New!)
-https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Malayalam (New!)" tvg-logo="https://i.imgur.com/e1rlU4J.png" group-title="INDIA (New)",DD Malayalam (New!)
-http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD News" tvg-logo="https://i.imgur.com/TSvkIfA.png" group-title="INDIA (New)",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Sports (Opt-2) (New!)" tvg-logo="https://i.imgur.com/RZ7lXO7.png" group-title="INDIA (New)",DD Sports (Opt-2) (New!)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi Channel (Opt-1)" tvg-logo="https://i.imgur.com/6q8JSAe.png" group-title="INDIA (New)",Desi Channel (Opt-1)
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dighvijay News 24x7" tvg-logo="https://i.imgur.com/kJvYAvc.png" group-title="INDIA (New)",Dighvijay News 24x7
-https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekta TV" tvg-logo="https://i.imgur.com/lGQbmsH.png" group-title="INDIA (New)",Ekta TV
 http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ET Now (New!)" tvg-logo="https://i.imgur.com/GmNK9Kz.png" group-title="INDIA (New)",ET Now (New!)
@@ -1555,12 +1343,6 @@ http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojt
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567723990~exp=1567726990~acl=/*~hmac=40fec7023d1d84b24d1267d9ee0ab92bceff3d35274ebef7be58aaeea1472868
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Santhora TV (DE)" tvg-logo="https://i.imgur.com/rBAup75.png" group-title="INDIA (New)",Santhora TV (DE)
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sardari TV (CA)" tvg-logo="https://i.imgur.com/u1qoF6k.png" group-title="INDIA (New)",Sardari TV (CA)
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Steelbird Music" tvg-logo="https://i.imgur.com/wv8fKAs.png" group-title="INDIA (New)",Steelbird Music
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamil Vision Int'l (CA) (HD)" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="INDIA (New)",Tamil Vision Int'l (CA) (HD)
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thanthi TV" tvg-logo="https://i.imgur.com/MHH6UNS.png" group-title="INDIA (New)",Thanthi TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Q India (New!)" tvg-logo="https://i.imgur.com/6OZeVct.png" group-title="INDIA (New)",The Q India (New!)
@@ -1573,69 +1355,63 @@ http://cdn.samtv.ca/tvpunjab/index.m3u8
 http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vaanavil TV (Opt-2)" tvg-logo="https://i.imgur.com/VZN9Hda.png" group-title="INDIA (New)",Vaanavil TV (Opt-2)
 http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vasanth TV" tvg-logo="https://i.imgur.com/yQzl6h0.png" group-title="INDIA (New)",Vasanth TV
-http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Venus TV (UK) (Opt-1)" tvg-logo="https://i.imgur.com/1FRvMEX.png" group-title="INDIA (New)",Venus TV (UK) (Opt-1)
-https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Venus TV (UK) (Opt-2)" tvg-logo="https://i.imgur.com/1FRvMEX.png" group-title="INDIA (New)",Venus TV (UK) (Opt-2)
-https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.uk" tvg-name="Star Jalsha (2)" tvg-logo="" group-title="INDIA বাংলা",Star Jalsha (2)
+#EXTINF:-1 tvg-id="StarJalsha.uk" tvg-name="Star Jalsha (2)" tvg-logo="" group-title="INDIA Bangla",Star Jalsha (2)
 http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.uk" tvg-name="Star Jalsha (3)" tvg-logo="" group-title="INDIA বাংলা",Star Jalsha (3)
+#EXTINF:-1 tvg-id="StarJalsha.uk" tvg-name="Star Jalsha (3)" tvg-logo="" group-title="INDIA Bangla",Star Jalsha (3)
 http://45.127.244.7:8080/hls/channel12.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Star Jalsha HD (1)" tvg-logo="" group-title="INDIA বাংলা",Star Jalsha HD (1)
+#EXTINF:-1 tvg-id="ext" tvg-name="Star Jalsha HD (1)" tvg-logo="" group-title="INDIA Bangla",Star Jalsha HD (1)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Star Jalsha HD (2)" tvg-logo="" group-title="INDIA বাংলা",Star Jalsha HD (2)
+#EXTINF:-1 tvg-id="ext" tvg-name="Star Jalsha HD (2)" tvg-logo="" group-title="INDIA Bangla",Star Jalsha HD (2)
 http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
-#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies (4)" tvg-logo="" group-title="INDIA বাংলা",Jalsha Movies (4)
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies (4)" tvg-logo="" group-title="INDIA Bangla",Jalsha Movies (4)
 http://45.127.244.7:8080/hls/channel13.m3u8
-#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies HD (2)" tvg-logo="" group-title="INDIA বাংলা",Jalsha Movies HD (2)
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies HD (2)" tvg-logo="" group-title="INDIA Bangla",Jalsha Movies HD (2)
 http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Orange Bangla" tvg-logo="" group-title="INDIA বাংলা",Orange Bangla
+#EXTINF:-1 tvg-id="ext" tvg-name="Orange Bangla" tvg-logo="" group-title="INDIA Bangla",Orange Bangla
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="R Plus Gold" tvg-logo="" group-title="INDIA বাংলা",R Plus Gold
+#EXTINF:-1 tvg-id="ext" tvg-name="R Plus Gold" tvg-logo="" group-title="INDIA Bangla",R Plus Gold
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Khusboo Bangla (2)" tvg-logo="" group-title="INDIA বাংলা",Khusboo Bangla (2)
+#EXTINF:-1 tvg-id="ext" tvg-name="Khusboo Bangla (2)" tvg-logo="" group-title="INDIA Bangla",Khusboo Bangla (2)
 https://streamitv.multitvsolution.in/idvo/khushboo.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Ekhon Kolkata" tvg-logo="" group-title="INDIA বাংলা",Ekhon Kolkata
+#EXTINF:-1 tvg-id="ext" tvg-name="Ekhon Kolkata" tvg-logo="" group-title="INDIA Bangla",Ekhon Kolkata
 http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Calcutta News" tvg-logo="" group-title="INDIA বাংলা",Calcutta News
+#EXTINF:-1 tvg-id="ext" tvg-name="Calcutta News" tvg-logo="" group-title="INDIA Bangla",Calcutta News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="News18 Lokmat" tvg-logo="" group-title="INDIA বাংলা",News18 Lokmat
+#EXTINF:-1 tvg-id="ext" tvg-name="News18 Lokmat" tvg-logo="" group-title="INDIA Bangla",News18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Colors Bangla (2)" tvg-logo="" group-title="INDIA বাংলা",Colors Bangla (2)
+#EXTINF:-1 tvg-id="ext" tvg-name="Colors Bangla (2)" tvg-logo="" group-title="INDIA Bangla",Colors Bangla (2)
 http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Colors Bangla HD (2)" tvg-logo="" group-title="INDIA বাংলা",Colors Bangla HD (2)
+#EXTINF:-1 tvg-id="ext" tvg-name="Colors Bangla HD (2)" tvg-logo="" group-title="INDIA Bangla",Colors Bangla HD (2)
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla (4)" tvg-logo="" group-title="INDIA বাংলা",Zee Bangla (4)
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla (4)" tvg-logo="" group-title="INDIA Bangla",Zee Bangla (4)
 http://163.172.29.246:8081/globalbd/zeebangla/chunks.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla HD (1)" tvg-logo="" group-title="INDIA বাংলা",Zee Bangla HD (1)
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla HD (1)" tvg-logo="" group-title="INDIA Bangla",Zee Bangla HD (1)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla HD (2)" tvg-logo="" group-title="INDIA বাংলা",Zee Bangla HD (2)
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla HD (2)" tvg-logo="" group-title="INDIA Bangla",Zee Bangla HD (2)
 http://ctgiptv.kitv.live:1935/live/test/test1/26.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla HD (3)" tvg-logo="" group-title="INDIA বাংলা",Zee Bangla HD (3)
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla HD (3)" tvg-logo="" group-title="INDIA Bangla",Zee Bangla HD (3)
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
-#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla HD (5)" tvg-logo="" group-title="INDIA বাংলা",Zee Bangla HD (5)
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla HD (5)" tvg-logo="" group-title="INDIA Bangla",Zee Bangla HD (5)
 http://45.127.244.7:8080/hls/channel10.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Zee Bangla Cinema (3)" tvg-logo="" group-title="INDIA বাংলা",Zee Bangla Cinema (3)
+#EXTINF:-1 tvg-id="ext" tvg-name="Zee Bangla Cinema (3)" tvg-logo="" group-title="INDIA Bangla",Zee Bangla Cinema (3)
 http://163.172.29.246:8081/globalbd/zeebanglacinema/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Zee Bangla Cinema (4)" tvg-logo="" group-title="INDIA বাংলা",Zee Bangla Cinema (4)
+#EXTINF:-1 tvg-id="ext" tvg-name="Zee Bangla Cinema (4)" tvg-logo="" group-title="INDIA Bangla",Zee Bangla Cinema (4)
 http://z5amshls.akamaized.net:80/zbanglacnm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Zee Bangla Cinema (7)" tvg-logo="" group-title="INDIA বাংলা",Zee Bangla Cinema (7)
+#EXTINF:-1 tvg-id="ext" tvg-name="Zee Bangla Cinema (7)" tvg-logo="" group-title="INDIA Bangla",Zee Bangla Cinema (7)
 http://45.127.244.7:8080/hls/channel11.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Sony Aath (6)" tvg-logo="" group-title="INDIA বাংলা",Sony Aath (6)
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Aath (6)" tvg-logo="" group-title="INDIA Bangla",Sony Aath (6)
 http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Enter 10 Bangla (1)" tvg-logo="" group-title="INDIA বাংলা",Enter 10 Bangla (1)
+#EXTINF:-1 tvg-id="ext" tvg-name="Enter 10 Bangla (1)" tvg-logo="" group-title="INDIA Bangla",Enter 10 Bangla (1)
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Enter 10 Bangla (2)" tvg-logo="" group-title="INDIA বাংলা",Enter 10 Bangla (2)
+#EXTINF:-1 tvg-id="ext" tvg-name="Enter 10 Bangla (2)" tvg-logo="" group-title="INDIA Bangla",Enter 10 Bangla (2)
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/enter10.m3u8
-#EXTINF:-1 tvg-id="RuposhiBangla.in" tvg-name="Ruposhi Bangla (2)" tvg-logo="" group-title="INDIA বাংলা",Ruposhi Bangla (2)
+#EXTINF:-1 tvg-id="RuposhiBangla.in" tvg-name="Ruposhi Bangla (2)" tvg-logo="" group-title="INDIA Bangla",Ruposhi Bangla (2)
 http://45.127.244.7:8080/hls/channel14.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Bangla Time" tvg-logo="" group-title="INDIA বাংলা",Bangla Time
+#EXTINF:-1 tvg-id="ext" tvg-name="Bangla Time" tvg-logo="" group-title="INDIA Bangla",Bangla Time
 https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="News Time Bangla" tvg-logo="" group-title="INDIA বাংলা",News Time Bangla
+#EXTINF:-1 tvg-id="ext" tvg-name="News Time Bangla" tvg-logo="" group-title="INDIA Bangla",News Time Bangla
 https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Bangla (2)" tvg-logo="" group-title="INDIA বাংলা",Discovery Bangla (2)
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Bangla (2)" tvg-logo="" group-title="INDIA Bangla",Discovery Bangla (2)
 https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="English",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?@IPTVSolution
@@ -2141,40 +1917,6 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Models Inc." tvg-logo="https://i.imgur.com/XzKinh7.jpg" group-title="Lifestyle",Models Inc.
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ts28" tvg-name="Alankar" tvg-logo="https://assets.botallen.live/images/t/nqfEuiwtjZ.png" group-title="Movies",Alankar
-https://botallen.live/t/28/master.m3u8?signature=bf9f328626f49388fda4ba56cd81585348c8c65e&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts181" tvg-name="Bhojpuri Cinema" tvg-logo="https://assets.botallen.live/images/t/gsKoZFEcPv.png" group-title="Movies",Bhojpuri Cinema
-https://botallen.live/t/181/master.m3u8?signature=b8a5aa876b485b0618dcb6615aeadef51038b487&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts347" tvg-name="HBO HD" tvg-logo="https://assets.botallen.live/images/t/hEMIlzxWaS.png" group-title="Movies",HBO HD
-https://botallen.live/t/347/master.m3u8?signature=d203325c679eec30cafaca76b9757ee093a4c2f8&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts368" tvg-name="Indradhanu" tvg-logo="https://assets.botallen.live/images/t/sDTyHrjUDg.png" group-title="Movies",Indradhanu
-https://botallen.live/t/368/master.m3u8?signature=1b2d3b1466d21fce663ee4fd3afb3f1572172095&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts572" tvg-name="Jalsha Movies" tvg-logo="https://assets.botallen.live/images/t/JuoLJnTTkh.png" group-title="Movies",Jalsha Movies
-https://botallen.live/t/572/master.m3u8?signature=aa5c5129a04b028ff9a6bcc5794b92cd89a20626&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts210" tvg-name="MN+ HD" tvg-logo="https://assets.botallen.live/images/t/TGQwxcNxIF.png" group-title="Movies",MN+ HD
-https://botallen.live/t/210/master.m3u8?signature=44fb6dd0ac4a96a868b5a20d8f744b331d907ff5&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts599" tvg-name="MNX HD" tvg-logo="https://assets.botallen.live/images/t/zmKkSONrMb.png" group-title="Movies",MNX HD
-https://botallen.live/t/599/master.m3u8?signature=defe5c854f8cad98a3d8662452b6bced68f5b7e4&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts562" tvg-name="Movies Now HD" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" group-title="Movies",Movies Now HD
-https://botallen.live/t/562/master.m3u8?signature=0324d582f339d144545ff17aa981fd483937276f&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts624" tvg-name="Pitaara TV" tvg-logo="https://assets.botallen.live/images/t/jALdLxvQfp.png" group-title="Movies",Pitaara TV
-https://botallen.live/t/624/master.m3u8?signature=20e680fa8af1ae9c57c3c6ffe034b7a658765309&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="PIXHD" tvg-name="PIX" tvg-logo="https://assets.botallen.live/images/s/rvxXGSDkAZ.png" group-title="Movies",PIX
-https://botallen.live/s/PIXHD/master.m3u8?signature=cf907c0958e6304d433bdb0e9749723543982f7b&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts794" tvg-name="PTC Punjabi Gold" tvg-logo="https://assets.botallen.live/images/t/dwblTCSGEP.png" group-title="Movies",PTC Punjabi Gold
-https://botallen.live/t/794/master.m3u8?signature=7ad0d3c06f07737d6046c281ea856a74abe6acf9&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts437" tvg-name="Romedy Now HD" tvg-logo="https://assets.botallen.live/images/t/tDrHWKGrRb.png" group-title="Movies",Romedy Now HD
-https://botallen.live/t/437/master.m3u8?signature=860b85537dbe104bed1ca91e0708229339d76b0d&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts800" tvg-name="Shemaroo MarathiBana" tvg-logo="https://assets.botallen.live/images/t/DLwGPEMcen.png" group-title="Movies",Shemaroo MarathiBana
-https://botallen.live/t/800/master.m3u8?signature=f698f2a8d1e6bdaae926c03b1a259213ab6bbb7d&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts32" tvg-name="SONY PIX HD" tvg-logo="https://assets.botallen.live/images/t/sZEaVYREcG.png" group-title="Movies",SONY PIX HD
-https://botallen.live/t/32/master.m3u8?signature=98d52f857efce766d1975a3e5de438f9f8607528&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts814" tvg-name="Zee Biskope" tvg-logo="https://assets.botallen.live/images/t/QzUasoWiYh.png" group-title="Movies",Zee Biskope
-https://botallen.live/t/814/master.m3u8?signature=a84c90ff86867fb303c2b7b219cb0a013151b367&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts810" tvg-name="Zee Picchar" tvg-logo="https://assets.botallen.live/images/t/KwVkRCqYbf.png" group-title="Movies",Zee Picchar
-https://botallen.live/t/810/master.m3u8?signature=55e750024e06506940ca6ab3f3ff4968d4ebda89&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts515" tvg-name="Zee Talkies HD" tvg-logo="https://assets.botallen.live/images/t/pTtsCscDLW.png" group-title="Movies",Zee Talkies HD
-https://botallen.live/t/515/master.m3u8?signature=28d08ca4db0db097f529fbbabbe02c421fad9679&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABZY MOVIES" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",ABZY MOVIES
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bflix Movie" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",Bflix Movie
@@ -2225,8 +1967,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/550px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Duronto TV" tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/0/0a/Duronto.jpg/revision/latest?cb=20190624161303" group-title="Movies",Duronto TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 #EXTINF:-1 tvg-id="HBO(src07).in(m3u4u)" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="Movies",HBO
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/45.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png" group-title="Movies",HBO Hits
@@ -2305,26 +2045,6 @@ https://sc.id-tv.kz/RenTV.m3u8
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="黑莓电影" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="Movies",黑莓电影
 http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
-#EXTINF:-1 tvg-id="ts40" tvg-name="&tv HD" tvg-logo="https://assets.botallen.live/images/t/CukEOZYJfm.png" group-title="Shows & Series",&tv HD
-https://botallen.live/t/40/master.m3u8?signature=d53b023bca47b6a945f053532abedea052fbdfe7&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts52" tvg-name="Colors HD" tvg-logo="https://assets.botallen.live/images/t/JgLheBRhKQ.png" group-title="Shows & Series",Colors HD
-https://botallen.live/t/52/master.m3u8?signature=a38233b4adc815d42baf1f086106b52f5800f364&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts187" tvg-name="Colors Infinity HD" tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png" group-title="Shows & Series",Colors Infinity HD
-https://botallen.live/t/187/master.m3u8?signature=aba31a9131f3df1ccc3adc7fcf3e8316f3f203e1&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts48" tvg-name="SAB HD" tvg-logo="https://assets.botallen.live/images/t/dtOmhgoMaY.png" group-title="Shows & Series",SAB HD
-https://botallen.live/t/48/master.m3u8?signature=b0eea15579d4c023fe9055b176eec1ec8cb6c129&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts15" tvg-name="SET HD" tvg-logo="https://assets.botallen.live/images/t/NLsiRqLRYL.png" group-title="Shows & Series",SET HD
-https://botallen.live/t/15/master.m3u8?signature=78ea213279ad6ae072234931827a41c4d9b4e31f&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts244" tvg-name="Star Bharat HD" tvg-logo="https://assets.botallen.live/images/t/dSqftIllAK.png" group-title="Shows & Series",Star Bharat HD
-https://botallen.live/t/244/master.m3u8?signature=4dd28a6435b9f160918f900cc2a78522b43249b4&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts8" tvg-name="STAR Plus HD" tvg-logo="https://assets.botallen.live/images/t/RIbBBNnwJc.png" group-title="Shows & Series",STAR Plus HD
-https://botallen.live/t/8/master.m3u8?signature=2a4915e641ad54178dc28d41b1d3e82eb814b07e&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="0-9-zeebangla" tvg-name="Zee Bangla" tvg-logo="https://assets.botallen.live/images/z/ysqlIQSwsV.png" group-title="Shows & Series",Zee Bangla
-https://botallen.live/z/0-9-zeebangla/master.m3u8?signature=408225eb5731c3bc4804666e85c91f62ee596a18&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://assets.botallen.live/images/z/jhBMtbYDGP.png" group-title="Shows & Series",Zee Bangla Cinema
-https://botallen.live/z/0-9-zeebanglacinema/master.m3u8?signature=cb87c13bda9c0c604d3f059702a6a84a281d03c8&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts63" tvg-name="Zee TV HD" tvg-logo="https://assets.botallen.live/images/t/wXsAehFbMb.png" group-title="Shows & Series",Zee TV HD
-https://botallen.live/t/63/master.m3u8?signature=cf246dabfe421665b879164387dc85e2300dca1e&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Shows & Series",Zee Bangla Cinema
 http://z5amshls.akamaized.net:80/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Café HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBpaMDS1hDrgn7fkhQ_-2jt2DI0KyMWbNnL3BSzMOdCIcxO7PY&usqp=CAU" group-title="Shows & Series",Zee Café HD
@@ -2383,6 +2103,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dove Channel" tvg-logo="https://dove.org/wp-content/uploads/DOVElogo.jpg" group-title="Shows & Series",Dove Channel
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Duronto TV" tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/0/0a/Duronto.jpg/revision/latest?cb=20190624161303" group-title="Kids",Duronto TV
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 #EXTINF:-1 tvg-id="ts298" tvg-name="Baby TV HD" tvg-logo="https://assets.botallen.live/images/t/nsafMKpLvj.png" group-title="Kids",Baby TV HD
 https://botallen.live/t/298/master.m3u8?signature=62502eb404a671df567e6e088c907ecc25991ebf&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
 #EXTINF:-1 tvg-id="ts238" tvg-name="Cartoon Network" tvg-logo="https://assets.botallen.live/images/t/qbaQnQTKeL.png" group-title="Kids",Cartoon Network
@@ -3043,12 +2765,100 @@ http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
 http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ujala Radio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)",Ujala Radio
 http://stream2.ujala.nl/stream/2/listen.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC Awaaz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="WORLD",CNBC Awaaz
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC TV18" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="WORLD",CNBC TV18
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Marsya & The Bear" tvg-logo="" group-title="WORLD",Marsya & The Bear
-https://d.top4top.io/m_1478p5qfu2.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="BrightWall Technology (Channel)",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alif TV" tvg-logo="https://i.ibb.co/443Cxqf/Alif-TV.jpg" group-title="BrightWall Technology (Channel)",Alif TV
+http://128.199.212.160/alif/1080/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Islamic TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)",ATN Islamic TV
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Music" tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="BrightWall Technology (Channel)",ATN Music
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Channel" tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg" group-title="BrightWall Technology (Channel)",Bangla Channel
+http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Time" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5z0PcNEZPbEuJOzwkooOaH_y6VOQ98H_djBgnqmvSO0NQppcW&usqp=CAU" group-title="BrightWall Technology (Channel)",Bangla Time
+https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bible Explorations" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoLZhDYy0d4JYUcXfMQK_LbexJUaIVK1ON3Q&usqp=CAU" group-title="BrightWall Technology (Channel)",Bible Explorations
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTV Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="BrightWall Technology (Channel)",CGTV Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="BrightWall Technology (Channel)",Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN International" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" group-title="BrightWall Technology (Channel)",CNN International
+http://203.162.235.41:16918/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BrightWall Technology (Channel)",Desh TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU" group-title="BrightWall Technology (Channel)",DW
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in_720p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="BrightWall Technology (Channel)",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enter 10 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQohbRTLJWveaXgHR_W1GaOXiYEDQ80QQnbeg&usqp=CAU" group-title="BrightWall Technology (Channel)",Enter 10 Bangla
+http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_X_jxeXi0X7KfXo71ffntwPwikWaO1bfmQw&usqp=CAU" group-title="BrightWall Technology (Channel)",Fox
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Family Movies" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="BrightWall Technology (Channel)",Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Life HD" tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg" group-title="BrightWall Technology (Channel)",Fox Life HD
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gazi TV (Live Only)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="BrightWall Technology (Channel)",Gazi TV (Live Only)
+http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="BrightWall Technology (Channel)",HBO
+http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Hits" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="BrightWall Technology (Channel)",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hits" tvg-logo="https://i.imgur.com/DD7eWYT.png" group-title="BrightWall Technology (Channel)",Hits
+http://45.126.83.51/uq2663/h/h37/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent TV" tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="BrightWall Technology (Channel)",Independent TV
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khusbo Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM4spPflPICAbCtRr9cjnMAbnxYS2JFec4fr57-_NbLztTXmqP&usqp=CAU" group-title="BrightWall Technology (Channel)",Khusbo Bangla
+https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIX" tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="BrightWall Technology (Channel)",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ktv bangla HD [BD]" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)",Ktv bangla HD [BD]
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maasranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="BrightWall Technology (Channel)",Maasranga TV
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Madha TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtWLfpCe-J0G4yJ57dgi39n6IWtKYDuO0-dxlweYms-OObRI2s&usqp=CAU" group-title="BrightWall Technology (Channel)",Madha TV
+http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w303457150.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzBCSFMBs6XLSE16sz8vkJI6IgjXWNt_hDHg&usqp=CAU" group-title="BrightWall Technology (Channel)",MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Action HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRid8POkCIa-DJFcj71DtwJ_7Ylan1ZhfjdxxnmyTTbBU1H41i-&usqp=CAU" group-title="BrightWall Technology (Channel)",MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdOU1MURm3ElUStHv-_h_pA0OC60RWTlH2Rw&usqp=CAU" group-title="BrightWall Technology (Channel)",MBC Max HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My Cinema" tvg-logo="https://i.ibb.co/9YQzGcW/My-Cinema.jpg" group-title="BrightWall Technology (Channel)",My Cinema
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange Bangla" tvg-logo="https://i.ytimg.com/vi/8C17OHzijjU/hqdefault_live.jpg" group-title="BrightWall Technology (Channel)",Orange Bangla
+https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outdoor Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDeV5WGTJ3YnWvK-wZNPAXencA75lW_Z1nTA&usqp=CAU" group-title="BrightWall Technology (Channel)",Outdoor Channel
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="BrightWall Technology (Channel)",Peace TV Bangla
+http://peacetv.ashttp22.visionip.tv:80/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV English" tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="BrightWall Technology (Channel)",Peace TV English
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV Urdu" tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="BrightWall Technology (Channel)",Peace TV Urdu
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Probashi Bangla" tvg-logo="https://i.ibb.co/R90Dt54/Probashi-Bangla.jpg" group-title="BrightWall Technology (Channel)",Probashi Bangla
+http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quran TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="BrightWall Technology (Channel)",Quran TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTezCzYCcD1GWechU-58ZN2NxWZ2RIeR_HzTug3q84ZNY_i0NI&usqp=CAU" group-title="BrightWall Technology (Channel)",RT Documentary
+http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBsRDpDOCl8LWSFDqpw6_ljNRPLBYlnlQqqA&usqp=CAU" group-title="BrightWall Technology (Channel)",RTP TV
+http://live4.tdm.com.mo/ch2/_definst_//ch2.live/chunklist_w55167431.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Music" tvg-logo="http://www.rtvmusic.tv/assets/frontEnd/img/logo.png" group-title="BrightWall Technology (Channel)",RTV Music
+http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sunna TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU" group-title="BrightWall Technology (Channel)",Sunna TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBN 24" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)",TBN 24
+http://fingerme.dg21bd.com:80/TBN24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFQW_nL-tG692nK9Pi-kKvUd3QO7CFq6Hb6xJ3RXRPORz96yw9&usqp=CAU" group-title="BrightWall Technology (Channel)",Warner TV
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV National" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="BrightWall Technology (Channel)",BTV National
+http://163.172.29.246:8081/globalbd/btv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV Chottogram" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTO-S_2m91zxm2KECBNAR5rzjoCrxPWVqKQKcsUUwEZ9raUkbq&usqp=CAU" group-title="BrightWall Technology (Channel)",BTV Chottogram
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BrightWall Technology (Channel)",Sangsad TV
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15 Lakh Kadon Aauga 2020 Punjabi 720p" tvg-logo="https://i.pinimg.com/originals/36/bf/89/36bf89563aab0807c66b717e34edb047.jpg" group-title="BrightWall Technology (Movie)",15 Lakh Kadon Aauga 2020 Punjabi 720p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/15%20Lakh%20Kadon%20Aauga%20%282020%29/15%20Lakh%20Kadon%20Aauga%202020%20Punjabi%20720p%20AMZN%20WEBRip%20AAC%20x264%20-%20LOKiHD%20-%20Telly.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="376 D (2020) Hindi 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BODhlM2IwNjUtZmEyMy00MGU1LWJiY2QtMDYyZWM4MjUxZTk0XkEyXkFqcGdeQXVyMTI0NTI1MDEw._V1_.jpg" group-title="BrightWall Technology (Movie)",376 D (2020) Hindi 720p
@@ -3171,97 +2981,3 @@ http://newtube.ps/components/com_contushdvideoshare/videos/1194005265.mp4
 http://newtube.ps/components/com_contushdvideoshare/videos/2537_video.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pi" tvg-logo="" group-title="BrightWall Technology (Movie)",Pi
 http://newtube.ps/components/com_contushdvideoshare/videos/1325878469.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="BrightWall Technology (Channel)",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alif TV" tvg-logo="https://i.ibb.co/443Cxqf/Alif-TV.jpg" group-title="BrightWall Technology (Channel)",Alif TV
-http://128.199.212.160/alif/1080/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Islamic TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)",ATN Islamic TV
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Music" tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="BrightWall Technology (Channel)",ATN Music
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Channel" tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg" group-title="BrightWall Technology (Channel)",Bangla Channel
-http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Time" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5z0PcNEZPbEuJOzwkooOaH_y6VOQ98H_djBgnqmvSO0NQppcW&usqp=CAU" group-title="BrightWall Technology (Channel)",Bangla Time
-https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bible Explorations" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoLZhDYy0d4JYUcXfMQK_LbexJUaIVK1ON3Q&usqp=CAU" group-title="BrightWall Technology (Channel)",Bible Explorations
-http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTV Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="BrightWall Technology (Channel)",CGTV Documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="BrightWall Technology (Channel)",Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN International" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" group-title="BrightWall Technology (Channel)",CNN International
-http://203.162.235.41:16918/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BrightWall Technology (Channel)",Desh TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU" group-title="BrightWall Technology (Channel)",DW
-https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in_720p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="BrightWall Technology (Channel)",Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enter 10 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQohbRTLJWveaXgHR_W1GaOXiYEDQ80QQnbeg&usqp=CAU" group-title="BrightWall Technology (Channel)",Enter 10 Bangla
-http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_X_jxeXi0X7KfXo71ffntwPwikWaO1bfmQw&usqp=CAU" group-title="BrightWall Technology (Channel)",Fox
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Family Movies" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="BrightWall Technology (Channel)",Fox Family Movies
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Life HD" tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg" group-title="BrightWall Technology (Channel)",Fox Life HD
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gazi TV (Live Only)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="BrightWall Technology (Channel)",Gazi TV (Live Only)
-http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="BrightWall Technology (Channel)",HBO
-http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Hits" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="BrightWall Technology (Channel)",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hits" tvg-logo="https://i.imgur.com/DD7eWYT.png" group-title="BrightWall Technology (Channel)",Hits
-http://45.126.83.51/uq2663/h/h37/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent TV" tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="BrightWall Technology (Channel)",Independent TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khusbo Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM4spPflPICAbCtRr9cjnMAbnxYS2JFec4fr57-_NbLztTXmqP&usqp=CAU" group-title="BrightWall Technology (Channel)",Khusbo Bangla
-https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIX" tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="BrightWall Technology (Channel)",KIX
-http://45.126.83.51/uq2663/h/h07/01.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ktv bangla HD [BD]" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)",Ktv bangla HD [BD]
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maasranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="BrightWall Technology (Channel)",Maasranga TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Madha TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtWLfpCe-J0G4yJ57dgi39n6IWtKYDuO0-dxlweYms-OObRI2s&usqp=CAU" group-title="BrightWall Technology (Channel)",Madha TV
-http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w303457150.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzBCSFMBs6XLSE16sz8vkJI6IgjXWNt_hDHg&usqp=CAU" group-title="BrightWall Technology (Channel)",MBC 2 HD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Action HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRid8POkCIa-DJFcj71DtwJ_7Ylan1ZhfjdxxnmyTTbBU1H41i-&usqp=CAU" group-title="BrightWall Technology (Channel)",MBC Action HD
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdOU1MURm3ElUStHv-_h_pA0OC60RWTlH2Rw&usqp=CAU" group-title="BrightWall Technology (Channel)",MBC Max HD
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My Cinema" tvg-logo="https://i.ibb.co/9YQzGcW/My-Cinema.jpg" group-title="BrightWall Technology (Channel)",My Cinema
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange Bangla" tvg-logo="https://i.ytimg.com/vi/8C17OHzijjU/hqdefault_live.jpg" group-title="BrightWall Technology (Channel)",Orange Bangla
-https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outdoor Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDeV5WGTJ3YnWvK-wZNPAXencA75lW_Z1nTA&usqp=CAU" group-title="BrightWall Technology (Channel)",Outdoor Channel
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="BrightWall Technology (Channel)",Peace TV Bangla
-http://peacetv.ashttp22.visionip.tv:80/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV English" tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="BrightWall Technology (Channel)",Peace TV English
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV Urdu" tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="BrightWall Technology (Channel)",Peace TV Urdu
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Probashi Bangla" tvg-logo="https://i.ibb.co/R90Dt54/Probashi-Bangla.jpg" group-title="BrightWall Technology (Channel)",Probashi Bangla
-http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quran TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="BrightWall Technology (Channel)",Quran TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTezCzYCcD1GWechU-58ZN2NxWZ2RIeR_HzTug3q84ZNY_i0NI&usqp=CAU" group-title="BrightWall Technology (Channel)",RT Documentary
-http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBsRDpDOCl8LWSFDqpw6_ljNRPLBYlnlQqqA&usqp=CAU" group-title="BrightWall Technology (Channel)",RTP TV
-http://live4.tdm.com.mo/ch2/_definst_//ch2.live/chunklist_w55167431.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Music" tvg-logo="http://www.rtvmusic.tv/assets/frontEnd/img/logo.png" group-title="BrightWall Technology (Channel)",RTV Music
-http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sunna TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU" group-title="BrightWall Technology (Channel)",Sunna TV
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBN 24" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)",TBN 24
-http://fingerme.dg21bd.com:80/TBN24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFQW_nL-tG692nK9Pi-kKvUd3QO7CFq6Hb6xJ3RXRPORz96yw9&usqp=CAU" group-title="BrightWall Technology (Channel)",Warner TV
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV National" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="BrightWall Technology (Channel)",BTV National
-http://163.172.29.246:8081/globalbd/btv/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV Chottogram" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTO-S_2m91zxm2KECBNAR5rzjoCrxPWVqKQKcsUUwEZ9raUkbq&usqp=CAU" group-title="BrightWall Technology (Channel)",BTV Chottogram
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BrightWall Technology (Channel)",Sangsad TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
