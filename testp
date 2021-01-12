@@ -2105,34 +2105,6 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Duronto TV" tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/0/0a/Duronto.jpg/revision/latest?cb=20190624161303" group-title="Kids",Duronto TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
-#EXTINF:-1 tvg-id="ts298" tvg-name="Baby TV HD" tvg-logo="https://assets.botallen.live/images/t/nsafMKpLvj.png" group-title="Kids",Baby TV HD
-https://botallen.live/t/298/master.m3u8?signature=62502eb404a671df567e6e088c907ecc25991ebf&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts238" tvg-name="Cartoon Network" tvg-logo="https://assets.botallen.live/images/t/qbaQnQTKeL.png" group-title="Kids",Cartoon Network
-https://botallen.live/t/238/master.m3u8?signature=6ed948d39301786ab16abe83a718d8eea4ca4763&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts681" tvg-name="Cartoon Network HD+" tvg-logo="https://assets.botallen.live/images/t/IsScNhCCed.png" group-title="Kids",Cartoon Network HD+
-https://botallen.live/t/681/master.m3u8?signature=357dfaecca09f6caca2abb9dfb770de28cc89d92&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts816" tvg-name="CBeeBies" tvg-logo="https://assets.botallen.live/images/t/vWmcygdqnR.png" group-title="Kids",CBeeBies
-https://botallen.live/t/816/master.m3u8?signature=ae0ee9f181ccb3f54534513fa1540f40b584b77e&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts119" tvg-name="Discovery Kids" tvg-logo="https://assets.botallen.live/images/t/OOoVoRtffC.png" group-title="Kids",Discovery Kids
-https://botallen.live/t/119/master.m3u8?signature=76d0c3392524d817f63f3c83829658666891596f&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts114" tvg-name="Disney" tvg-logo="https://assets.botallen.live/images/t/whcNdqxkqA.png" group-title="Kids",Disney
-https://botallen.live/t/114/master.m3u8?signature=8b0b0423bba4e3486c853924cb35f93332778a9e&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts144" tvg-name="Disney Junior" tvg-logo="https://assets.botallen.live/images/t/VwDdnSCEDw.png" group-title="Kids",Disney Junior
-https://botallen.live/t/144/master.m3u8?signature=cf2f4e5dda87017724045eb9b45139b9771c0db0&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts587" tvg-name="MARVEL HQ" tvg-logo="https://assets.botallen.live/images/t/BLdKdDwPfD.png" group-title="Kids",MARVEL HQ
-https://botallen.live/t/587/master.m3u8?signature=cd15af1d87cf2dd69e6a93dcb4013a1c6f0ed8d4&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts138" tvg-name="Nick" tvg-logo="https://assets.botallen.live/images/t/bwFHqlCGNT.png" group-title="Kids",Nick
-https://botallen.live/t/138/master.m3u8?signature=4edef0445b74d338b97db4d1842d498323dcff7a&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts433" tvg-name="Nick HD+" tvg-logo="https://assets.botallen.live/images/t/OUGLcXkjBP.png" group-title="Kids",Nick HD+
-https://botallen.live/t/433/master.m3u8?signature=1730b22b77410861155545fb6991a0ebcc468096&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts118" tvg-name="Nick Jr" tvg-logo="https://assets.botallen.live/images/t/KeOhAplege.png" group-title="Kids",Nick Jr
-https://botallen.live/t/118/master.m3u8?signature=07dfb8310daeec4c156ea207e9deb0f81e696ebe&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts239" tvg-name="Pogo" tvg-logo="https://assets.botallen.live/images/t/ptkXFADQVO.png" group-title="Kids",Pogo
-https://botallen.live/t/239/master.m3u8?signature=d79af44da083cc6f154031776385e6b14fc08392&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts127" tvg-name="Sonic Nickelodeon" tvg-logo="https://assets.botallen.live/images/t/sQCDeLmaBK.png" group-title="Kids",Sonic Nickelodeon
-https://botallen.live/t/127/master.m3u8?signature=0d592bf9fef7bc1674d37e2c5861a10dfdd69bbf&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="ts45" tvg-name="SONY YAY!" tvg-logo="https://assets.botallen.live/images/t/nkNRBeLyPj.png" group-title="Kids",SONY YAY!
-https://botallen.live/t/45/master.m3u8?signature=954cdf4cd7f5cf756f696b4e74b29fc47162e053&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network (India)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids",Cartoon Network (India)
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnaiciFTcri8EMmyBU7p9sbRz14QxONlZnXw&usqp=CAU" group-title="Kids",Discovery Kids
