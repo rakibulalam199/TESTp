@@ -1,6 +1,8 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOt3yWAtiThOoaXP24ItdKCDw3z7N8N2Ad84-t4W35b7tpvpVl&usqp=CAU" group-title="Bangla News",Bijoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="https://th.bing.com/th/id/Re3c587f3a9d551c027b84a1c27786d66?rik=mtuRlhXjncVxIw&riu=http%3a%2f%2ffyshnet.files.wordpress.com%2f2010%2f08%2fntv-logo1.jpg&ehk=an%2flvrCFsY4ZXYUkjyFjvNn5%2fHFeDVCbjJP4ibEva%2fg%3d&risl=&pid=ImgRaw" group-title="Bangla News",NTV
+http://tv.dflix.live:8082/54/mono.m3u8?token=c5b4ae1dd1aad99f69a69ffd6245a16bfa4518a3-4bbfab4e0829b78bb7af95306d07d317-1610473123-1610462323&remote=172.22.20.254
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangla News",Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla News",GTV H
