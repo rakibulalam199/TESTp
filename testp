@@ -1919,6 +1919,32 @@ http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
 http://10.16.100.207:8082/sports/mtuness.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Sangeet Bangla" tvg-logo="tvg-name=" group-title="Music",Sangeet Bangla
 http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE DEATHLY HALLOWS PART 1 (2010)" tvg-logo="http://10.16.100.244/files/speed_harry%20poter%2010%20poster.jpg" group-title="BrightWall Technology (Movie)",HARRY POTTER AND THE DEATHLY HALLOWS PART 1 (2010)
+http://10.16.100.245/ftps2d1/ftps1d3/English%20Movies/2015/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%201%20(2010)%20%5B1080p%5D.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE DEATHLY HALLOWS PART 2 (2011)" tvg-logo="http://10.16.100.244/files/Harry-Potter-and-the-Deathly-Hallows-Part-2-2011.jpg" group-title="BrightWall Technology (Movie)",HARRY POTTER AND THE DEATHLY HALLOWS PART 2 (2011)
+http://10.16.100.241/ftps3d6/Movie/English/Harry%20Potter%20And%20The%20Deathly%20Hallows%20Part%202%20(2011).mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE GOBLET OF FIRE (2005)" tvg-logo="http://10.16.100.244/files/speed_Harry_Potter_and_the_Goblet_of_Fire_film_%20poster.jpg" group-title="BrightWall Technology (Movie)",HARRY POTTER AND THE GOBLET OF FIRE (2005)
+http://10.16.100.241/ftps3d3/Movies/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20(2005)%20%5B1080p%5D.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE HALF BLOOD PRINCE (2009)" tvg-logo="http://10.16.100.244/files/speed_harry-potter-half-blood-kis%20poster.jpg" group-title="BrightWall Technology (Movie)",HARRY POTTER AND THE HALF BLOOD PRINCE (2009)
+http://10.16.100.249/ftps7d1/English/Harry%20Potter%20and%20the%20Half%20Blood%20Prince%20(2009)%20%5B1080p%5D.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE ORDER OF THE PHOENIX (2007)" tvg-logo="http://10.16.100.244/files/speed_Harry_potter_and_the_order_of_the_phoenix_2007_90_poster%20poster.jpg" group-title="BrightWall Technology (Movie)",HARRY POTTER AND THE ORDER OF THE PHOENIX (2007)
+http://10.16.100.241/ftps3d6/English/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20(2007)1080p.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE PRISONER OF AZKABAN (2004)" tvg-logo="http://10.16.100.244/files/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20(2004).jpg" group-title="BrightWall Technology (Movie)",HARRY POTTER AND THE PRISONER OF AZKABAN (2004)
+http://10.16.100.247/ftps5d2/Movies/English/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20(2004)%201080p%20BrRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE SORCERERS STONE (2001)" tvg-logo="http://10.16.100.244/files/speed_harry%20porter%20poster.jpg" group-title="BrightWall Technology (Movie)",HARRY POTTER AND THE SORCERERS STONE (2001)
+http://10.16.100.245/ftps2d1/ftps1d3/English%20Movies/2015/Harry%20Potter%20and%20the%20Sorcerers%20Stone%20(2001)%201080p%20BrRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN" tvg-logo="http://10.16.100.244/files/wrong_turn.jpg" group-title="BrightWall Technology (Movie)",WRONG TURN
+http://10.16.100.206/ftps3/ftps3d2/Movies/English/Wrong%20Turn%20(2021)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN 2 DEAD END" tvg-logo="http://10.16.100.244/files/wrong_turn_2_dead_end.jpg" group-title="BrightWall Technology (Movie)",WRONG TURN 2 DEAD END
+http://10.16.100.241/ftps3d3/Movies/English/Wrong%20Turn%202%20Dead%20End%20(2007)%201080p%20BrRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN 3 LEFT FOR DEAD" tvg-logo="http://10.16.100.244/files/wrong_turn_3_left_for_dead.jpg" group-title="BrightWall Technology (Movie)",WRONG TURN 3 LEFT FOR DEAD
+http://10.16.100.246/ftps4d2/Movies/English/Wrong%20Turn%203%20Left%20For%20Dead%20(2009)%201080p%20BrRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN 4 BLOODY BEGINNINGS" tvg-logo="http://10.16.100.244/files/wrong_turn_4__bloody_beginnings.jpg" group-title="BrightWall Technology (Movie)",WRONG TURN 4 BLOODY BEGINNINGS
+http://10.16.100.241/ftps3d1/Movies/English/Wrong%20Turn%204%20Bloody%20Beginnings%20(2011)%201080p%20BrRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN 5 BLOODLINES" tvg-logo="http://10.16.100.244/files/wrong_turn_5_bloodlines.jpg" group-title="BrightWall Technology (Movie)",WRONG TURN 5 BLOODLINES
+http://10.16.100.246/ftps4d3/Movies/English/Wrong%20Turn%205%20Bloodlines%20(2012)%201080p%20BrRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wrong Turn 6 Last Resort" tvg-logo="http://10.16.100.244/files/wrong_turn_6__last_resort.jpg" group-title="BrightWall Technology (Movie)",Wrong Turn 6 Last Resort
+http://124.6.236.254:8080/movies/hollywood/2014/Wrong%20Turn%206%20Last%20Resort%20%282014%29/Wrong%20Turn%206%20Last%20Resort%20%282014%29.avi
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Once Upon a Time in the West (1968)" tvg-logo="" group-title="BrightWall Technology (Movie)",Once Upon a Time in the West (1968)
 http://newtube.ps/components/com_contushdvideoshare/videos/2492_video.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALLUDU ADHURS" tvg-logo="http://10.16.100.244/files/alludu_adhurs.jpg" group-title="BrightWall Technology (Movie)",ALLUDU ADHURS
