@@ -1,52 +1,52 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="And TV" tvg-logo="tvg-name=" group-title="Bangla News",And TV
-http://10.16.100.201/hindi/&tv_1stop_bd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Asian TV" tvg-logo="tvg-name=" group-title="Bangla News",Asian TV
-http://10.16.100.203:8082/bangla/tv_asian.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="ATN Bangla" tvg-logo="tvg-name=" group-title="Bangla News",ATN Bangla
-http://10.16.100.203:8082/bangla/atnbangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="ATN News" tvg-logo="tvg-name=" group-title="Bangla News",ATN News
-http://10.16.100.205/hls/news_atn_london720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Bangla TV" tvg-logo="tvg-name=" group-title="Bangla News",Bangla TV
-http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="BanglaVision" tvg-logo="tvg-name=" group-title="Bangla News",BanglaVision
-http://10.16.100.203:8082/bangla/vision_bangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Bijoy TV" tvg-logo="tvg-name=" group-title="Bangla News",Bijoy TV
-http://10.16.100.203:8082/bangla/bijoytv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Channel 24" tvg-logo="tvg-name=" group-title="Bangla News",Channel 24
-http://10.16.100.205/hls/ch24.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Channel I" tvg-logo="tvg-name=" group-title="Bangla News",Channel I
-http://10.16.100.205/hls/ch_i.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="DBC News" tvg-logo="tvg-name=" group-title="Bangla News",DBC News
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Jamuna Tv" tvg-logo="http://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="Bangla News",Jamuna Tv
+http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="DBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangla News",DBC News
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Deepto Tv" tvg-logo="tvg-name=" group-title="Bangla News",Deepto Tv
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Channel 24" tvg-logo="http://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangla News",Channel 24
+http://10.16.100.205/hls/ch24.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangla News",ATN News
+http://10.16.100.205/hls/news_atn_london720.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="Bangla News",ATN NEWS
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Asian TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh5Y-o-dlQxoVHmVnRA-jBCXWGOKYPpZS3KHbuwmg=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla News",Asian TV
+http://10.16.100.203:8082/bangla/tv_asian.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Channel I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangla News",Channel I
+http://10.16.100.205/hls/ch_i.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="ATN Bangla" tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/beta2/uploads/2013/07/atn.jpg" group-title="Bangla News",ATN Bangla
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Bangla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" group-title="Bangla News",Bangla TV
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangla News",SOMOY TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="BanglaVision" tvg-logo="https://lh3.googleusercontent.com/glUExXhfCWm6b3YSJVRCYe_oZV5MsVmdtn2w2JYHM8cGombeumU0zJIXzsUAE_qdsXc" group-title="Bangla News",BanglaVision
+http://10.16.100.203:8082/bangla/vision_bangla.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Bangla News",Banglavision
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANGLA VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Bangla News",BANGLA VISION
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Bijoy TV" tvg-logo="https://lh3.googleusercontent.com/proxy/1vQF8csUff0J0r6dnkQe8UMkrE7buDLHT9uC3uT8IAwpccn23myzJ4Gav0YUXw_XNEUt3A3cL4vevuayR9UHPr692WYUP8ys_aHCnIs3NH14ffW1" group-title="Bangla News",Bijoy TV
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Deepto Tv" tvg-logo="https://i.pinimg.com/736x/8d/fc/d1/8dfcd1da5109712a3263e0361153a62a.jpg" group-title="Bangla News",Deepto Tv
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Dighi Bangla" tvg-logo="tvg-name=" group-title="Bangla News",Dighi Bangla
 http://10.16.100.203:8082/bangla/digibangla24.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Ekhushe TV" tvg-logo="tvg-name=" group-title="Bangla News",Ekhushe TV
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Ekhushe TV" tvg-logo="https://i.pinimg.com/280x280_RS/39/15/30/39153074994a941490e1106c37866020.jpg" group-title="Bangla News",Ekhushe TV
 http://10.16.100.205/hls/21etv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Jamuna Tv" tvg-logo="tvg-name=" group-title="Bangla News",Jamuna Tv
-http://10.16.100.203:8082/bangla/jamuna_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Mohona TV" tvg-logo="tvg-name=" group-title="Bangla News",Mohona TV
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Mohona TV" tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/feature/images/mohona-tv-bangladesh-logo.jpg?itok=gvWuUUEB" group-title="Bangla News",Mohona TV
 http://10.16.100.205/hls/mohona_tv_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="My Tv" tvg-logo="tvg-name=" group-title="Bangla News",My Tv
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="My Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3d/%E0%A6%AE%E0%A6%BE%E0%A6%87_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Bangla News",My Tv
 http://10.16.100.205/hls/my_tv_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="NTV" tvg-logo="tvg-name=" group-title="Bangla News",NTV
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla News",NTV
 http://10.16.100.205/hls/ntv_b_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="RTV" tvg-logo="tvg-name=" group-title="Bangla News",RTV
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="RTV" tvg-logo="http://rtvbd.tv/rtv_share.png" group-title="Bangla News",RTV
 http://10.16.100.203:8082/bangla/TV_R.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangla News",ATN BANGLA
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangla News",ATN Bangla UK
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="Bangla News",ATN NEWS
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANGLA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="Bangla News",BANGLA TV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANGLA VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Bangla News",BANGLA VISION
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Bangla News",Banglavision
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOt3yWAtiThOoaXP24ItdKCDw3z7N8N2Ad84-t4W35b7tpvpVl&usqp=CAU" group-title="Bangla News",Bijoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Biswa bangla 24" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla News",Biswa bangla 24
@@ -109,8 +109,6 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla News",Sangsad TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangla News",SOMOY TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Time TV USA" tvg-logo="https://timetvusa.com/images/ttv200.png" group-title="Bangla News",Time TV USA
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel T1" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Channel T1
@@ -239,6 +237,18 @@ http://10.16.100.203:8082/bangla/digibangla24.m3u8
 http://10.16.100.201/hindi/sportsT.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="28.Deshi TV" tvg-logo="https://lh3.googleusercontent.com/proxy/6KsBwmAHtmufM3Yd7voJ7vq-5H_mgdWLcP4BGSnznamzn55wreYqbvCPD7dySpWqr7d-au-L2kuZEgTHm225Ovr58Eh7X892i5jFhUl-xpIPPsVaY96yHy9s" group-title="Bangladesh",28.Deshi TV
 http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SIX" tvg-logo="" group-title="Sports",SONY SIX
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TAN 2" tvg-logo="" group-title="Sports",SONY TAN 2
+http://otv.ftpbd.net/streams/112/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1HD" tvg-logo="" group-title="Sports",STAR SPORTS 1HD
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS SELECT HD1" tvg-logo="" group-title="Sports",STAR SPORTS SELECT HD1
+http://otv.ftpbd.net/streams/113/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS SELECT HD2" tvg-logo="" group-title="Sports",STAR SPORTS SELECT HD2
+http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS" tvg-logo="" group-title="Sports",T SPORTS
+http://otv.ftpbd.net/streams/108/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjiki2SblaE5chW0QPeV1wAWHfdQ8i6SfJ0HK8KtX5L_UvLI5_&usqp=CAU" group-title="Sports",AD Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuU6Nxq7TV2GL_StL--Uo137rSOCG3T2mp5KrW6o3KrcVInHtV&usqp=CAU" group-title="Sports",AD Sports 2
@@ -501,9 +511,13 @@ http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="T Sports 2" tvg-logo="tvg-name=" group-title="Sports",T Sports 2
 http://10.16.100.201/hindi/sportsT.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Hindi" tvg-logo="" group-title="Kids",Disney Hindi
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/9ae3730b2e905c7.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network (India)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids",Cartoon Network (India)
+http://otv.ftpbd.net/streams/123/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney Hindi
+http://otv.ftpbd.net/streams/122/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Hindi 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney Hindi 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/9ae3730b2e905c7.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids",Cartoon Network
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick jr" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Kids",Nick jr
 https://rhridoy136.shortcm.li/nickjr.m3u8
@@ -603,16 +617,18 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://www.jiajiakt.com/images/global/logo.png" group-title="Kids",嘉佳卡通
 http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Colors" tvg-logo="tvg-name=" group-title="Shows & Series",Colors
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="And TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Shows & Series",And TV
+http://10.16.100.201/hindi/&tv_1stop_bd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Colors" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Shows & Series",Colors
 http://10.16.100.201/hindi/colors_1stop_in.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Sony Tv" tvg-logo="tvg-name=" group-title="Shows & Series",Sony Tv
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Sony Tv" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Shows & Series",Sony Tv
 http://10.16.100.201/hindi/sonytv_1stop_bd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Zee TV" tvg-logo="tvg-name=" group-title="Shows & Series",Zee TV
+#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Zee TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Shows & Series",Zee TV
 http://10.16.100.201/hindi/ztv_1stop_in.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/CBHD.jpg" group-title="Shows & Series",Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Shows & Series",Jalsha Movies HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.m3u8
+http://otv.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movie Bangla TV" tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="Shows & Series",Movie Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY CINEMA" tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="Shows & Series",MY CINEMA
@@ -1377,6 +1393,8 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 https://sc.id-tv.kz/IDFashion_38_39.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HD Fashion & LifeStyle" tvg-logo="" group-title="English",HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NGO HD" tvg-logo="" group-title="Infotainment",NGO HD
+http://otv.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet HD (English)" tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Infotainment",Animal Planet HD (English)
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery" tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Infotainment",Discovery
@@ -1499,6 +1517,12 @@ https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="hdfashion" tvg-name="HDFashion" tvg-logo="https://i.imgur.com/LtQL1q9.jpg" group-title="Lifestyle",HDFashion
 http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MAX" tvg-logo="" group-title="Movies",SONY MAX
+http://otv.ftpbd.net/streams/109/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIES HD" tvg-logo="" group-title="Movies",STAR MOVIES HD
+http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV Action" tvg-logo="" group-title="Movies",UTV Action
+http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bflix Movie" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",Bflix Movie
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MANORJAN MOVIES" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",MANORJAN MOVIES
@@ -1919,10 +1943,10 @@ http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
 http://10.16.100.207:8082/sports/mtuness.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Sangeet Bangla" tvg-logo="tvg-name=" group-title="Music",Sangeet Bangla
 http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE GIRL ON THE TRAIN" tvg-logo="http://10.16.100.244/files/the_girl_on_the_train.jpg" group-title="BrightWall Technology (Movie)",THE GIRL ON THE TRAIN
+http://10.16.100.206/ftps3/ftps3d3/Movies/Hindi/The%20Girl%20On%20The%20Train%20(2021)%20Hindi%201080P%20%20WEBRip.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE DEATHLY HALLOWS PART 1 (2010)" tvg-logo="http://10.16.100.244/files/speed_harry%20poter%2010%20poster.jpg" group-title="BrightWall Technology (Movie)",HARRY POTTER AND THE DEATHLY HALLOWS PART 1 (2010)
 http://10.16.100.245/ftps2d1/ftps1d3/English%20Movies/2015/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%201%20(2010)%20%5B1080p%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE DEATHLY HALLOWS PART 2 (2011)" tvg-logo="http://10.16.100.244/files/Harry-Potter-and-the-Deathly-Hallows-Part-2-2011.jpg" group-title="BrightWall Technology (Movie)",HARRY POTTER AND THE DEATHLY HALLOWS PART 2 (2011)
-http://10.16.100.241/ftps3d6/Movie/English/Harry%20Potter%20And%20The%20Deathly%20Hallows%20Part%202%20(2011).mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE GOBLET OF FIRE (2005)" tvg-logo="http://10.16.100.244/files/speed_Harry_Potter_and_the_Goblet_of_Fire_film_%20poster.jpg" group-title="BrightWall Technology (Movie)",HARRY POTTER AND THE GOBLET OF FIRE (2005)
 http://10.16.100.241/ftps3d3/Movies/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20(2005)%20%5B1080p%5D.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE HALF BLOOD PRINCE (2009)" tvg-logo="http://10.16.100.244/files/speed_harry-potter-half-blood-kis%20poster.jpg" group-title="BrightWall Technology (Movie)",HARRY POTTER AND THE HALF BLOOD PRINCE (2009)
@@ -2167,6 +2191,8 @@ http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20E
 http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(25%20-%2036)/Dirilis%20Ertugrul%20S01E34.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIRILIS ERTUGRUL S1E35" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="BrightWall Technology  (Series)",DIRILIS ERTUGRUL S1E35
 http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(25%20-%2036)/Dirilis%20Ertugrul%20S01E35.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom & Jerry" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3ODhiNzAtOWY4MS00NTdiLThmNDctNDM4NjRiNGFmYjI1XkEyXkFqcGdeQXVyMTI2ODM1ODUw._V1_UY268_CR16,0,182,268_AL_.jpg" group-title="BrightWall Technology  (Animation)",Tom & Jerry
+https://cdn81.turkakisi.tv/content/stream/indfilms/Tom.and.Jerry.2021.720p.WEBRip.TAM.DUB.1XBET.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="100 PERCENT WOLF" tvg-logo="http://10.16.100.244/files/100_percent_wolf.jpg" group-title="BrightWall Technology  (Animation)",100 PERCENT WOLF
 http://10.16.100.206/ftps3/ftps3d5/Movies/Animated/100%20Percent%20Wolf%20(2020)%201080p%20WEBRip.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIG FISH & BEGONIA" tvg-logo="http://10.16.100.244/files/big_fish___begonia__da_yu_hai_tang_.jpg" group-title="BrightWall Technology  (Animation)",BIG FISH & BEGONIA
