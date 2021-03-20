@@ -255,14 +255,8 @@ http://tvserver3.roarzone.info:25461/live/free/roarzone/4.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",MAASRANGA TV
 http://tvserver3.roarzone.info:25461/live/free/roarzone/51.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gazi tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports",Gazi tv
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports",Gazi TV
-http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gazi tv" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Gazi tv
 http://tvserver3.roarzone.info:25461/live/free/roarzone/1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports HD" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1" group-title="Sports",T Sports HD
-http://103.102.136.106:8080/cmcltv/tsports.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1" group-title="Sports",T Sports
 http://209.126.120.153/hls/tsports.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="T Sports 2" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",T Sports 2
@@ -293,8 +287,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6132/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6133/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 HD QA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",beIN Sports 3 HD QA
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6124/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 4 HD QA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",beIN Sports 4 HD QA
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6125/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 5 HD QA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",beIN Sports 5 HD QA
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6126/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 6 HD QA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",beIN Sports 6 HD QA
@@ -315,26 +307,20 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6564/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6563/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL+ SPORT 2 PL" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",CANAL+ SPORT 2 PL
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6099/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EIR SPORT 1 UK" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",EIR SPORT 1 UK
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6562/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EIR SPORT 2 UK" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",EIR SPORT 2 UK
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6561/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 HD PL" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Eleven Sports 1 HD PL
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6083/index.m3u
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2518/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORTS 1 UK" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",ELEVEN SPORTS 1 UK
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6560/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 3 PT" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Eleven Sports 3 PT
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/7062/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORTS 3 UK" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",ELEVEN SPORTS 3 UK
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6558/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 4 PT" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Eleven Sports 4 PT
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/7063/index.m3u
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2534/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 6 PT" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Eleven Sports 6 PT
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/7064/index.m3u
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2536/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 2 HD UK" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",EUROSPORT 2 HD UK
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6556/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports News AU" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Fox Sports News AU
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6119/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar LaLiga HD ES" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Movistar LaLiga HD ES
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6073/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Liga Campeones HD ES" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Movistar Liga Campeones HD ES
@@ -355,8 +341,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6417/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6418/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVPLAY SPORTS PLUS" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",TVPLAY SPORTS PLUS
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/7184/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFN Sports 2 US" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",AFN Sports 2 US
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2487/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 SK" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Arena Sport 1 SK
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2550/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Auto Motor Sport RO" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Auto Motor Sport RO
@@ -391,22 +375,14 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2522/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2524/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGI Sport 4 HD RO" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",DIGI Sport 4 HD RO
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2538/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 HD PL" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Eleven Sports 1 HD PL
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2518/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 HD PT" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Eleven Sports 1 HD PT
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2531/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 2 HD PL" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Eleven Sports 2 HD PL
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2517/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 2 HD PT" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Eleven Sports 2 HD PT
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2532/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 3 PT" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Eleven Sports 3 PT
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2533/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 4 PT" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Eleven Sports 4 PT
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2534/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 5 PT" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Eleven Sports 5 PT
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2535/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 6 PT" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Eleven Sports 6 PT
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2536/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sports 1 HD NL" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",FOX Sports 1 HD NL
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2552/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sports 2 HD NL" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",FOX Sports 2 HD NL
@@ -427,8 +403,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2514/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2519/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONTime Sports EG" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",ONTime Sports EG
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2512/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 1 HD FR" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",RMC Sport 1 HD FR
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2545/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 2 HD FR" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",RMC Sport 2 HD FR
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2546/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 3 HD FR" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",RMC Sport 3 HD FR
@@ -439,10 +413,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2478/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2479/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Austria 1 HD DE" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Sky Sport Austria 1 HD DE
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2492/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Bundesliga 1 HD DE" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Sky Sport Bundesliga 1 HD DE
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2480/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport News HD DE" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Sky Sport News HD DE
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2477/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport 1 HD DE" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Sport 1 HD DE
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2503/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport 1 HD LT" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Sport 1 HD LT
@@ -467,16 +437,12 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2528/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2529/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub HD PL" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Sportklub HD PL
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2521/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Star Sports 1 IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Star Sports 2 IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2507/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TIME SPORTS EG" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",TIME SPORTS EG
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2513/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 2 Sport 2 HD NO" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",TV 2 Sport 2 HD NO
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2540/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 2 SPORT HD DK" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",TV 2 SPORT HD DK
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2537/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3 Sport HD SK" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",TV3 Sport HD SK
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2542/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVP Sport HD PL" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",TVP Sport HD PL
@@ -487,8 +453,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6554/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2511/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Golf NL" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Ziggo Sport Golf NL
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2559/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Select HD NL" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Ziggo Sport Select HD NL
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2560/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Voetbal NL" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Ziggo Sport Voetbal NL
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2561/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Телеканал Футбол" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Телеканал Футбол
@@ -507,10 +471,6 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports Xtra (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzr0RFwcAvkAaOfALVDZ87J4McAkvfj-BR2w&usqp=CAU" group-title="Sports",Bein Sports Xtra (720p)
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sports 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqD5uHfv6JiXAV1syD_nBoNmgFL_lUx-nBtg&usqp=CAU" group-title="Sports",BT Sports 1 FHD
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR75_RsxHPl2jXXH3qQA6WjbsTobdOg8_AXzw&usqp=CAU" group-title="Sports",BT Sports 2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQt4SakVQpBtAmXPEpEt8NzXBLK8Q0q4kDPKA&usqp=CAU" group-title="Sports",DD Sports
 http://103.199.161.254:80/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FC Bayern TV Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-VkQ2htIclLyzQ5UZsgtVpVhBkD-daAqDTw&usqp=CAU" group-title="Sports",FC Bayern TV Live
@@ -523,8 +483,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rad Bull TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJ0u_f7qrlarYoOVcyaPfUCKApEXWmQRU7-Q&usqp=CAU" group-title="Sports",Rad Bull TV
 http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Madrid TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTe9LMkCVerF7PAjdm36iYzdU-EzGbHdsNG2A&usqp=CAU" group-title="Sports",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Skynet Sports 2" tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sports",Skynet Sports 2
 http://iptv.kitv.live:1935/live/Shari/MTV-P/85.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 1" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Sport TV 1
@@ -533,10 +491,6 @@ https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 3" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Sport TV 3
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 4" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Sport TV 4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 5" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Sport TV 5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="Sports",Star Sports Select 1 HD
 http://10.16.100.207:8082/sports/starsports_select1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sharjah Sport" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Sharjah Sport
@@ -609,8 +563,6 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Madrid TV HD" tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",Real Madrid TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Racing TV" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sports",Racing TV
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Racing" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sports",Dubai Racing
@@ -651,8 +603,6 @@ http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/358.m3u8
 http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/359.m3u8
 #EXTINF:-1 tvg-id="FoxSports.it" tvg-name="FOX SPORT 1 (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",FOX SPORT 1 (1)
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="RealMadridTV.sp" tvg-name="Real Madrid TV HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Real Madrid TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?Live-TV™
 #EXTINF:-1 tvg-id="ADSports1.net" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?Live-TV™
 #EXTINF:-1 tvg-id="ADSports2.net" tvg-name="Abu Dhabi Sports 2" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Abu Dhabi Sports 2
@@ -697,10 +647,6 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b450
 https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Bin2" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Bin2
 https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
-#EXTINF:-1 tvg-id="Animax.de" tvg-name="ANIMAX (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Kids",ANIMAX (1)
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="Animax.de" tvg-name="ANIMAX (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Kids",ANIMAX (2)
-http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Baby First" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Kids",Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="BF1.Asia" tvg-name="Baby First" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids",Baby First
@@ -857,8 +803,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6587/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6581/index.m3u
 #EXTINF:-1 tvg-id="ext" tvg-name="Abzy Dhakad" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Abzy Dhakad
 https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adithya IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Adithya IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6695/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alpha ETC Punjabi IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Alpha ETC Punjabi IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6671/index.m3u
 #EXTINF:-1 tvg-id="ext" tvg-name="Amar Ujala" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Amar Ujala
@@ -895,8 +839,6 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 https://d39iawgzv3h0yo.cloudfront.net:443/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel Divya" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Channel Divya
 http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w1157917870.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel One News IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Channel One News IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6604/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chardikla Time TV IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Chardikla Time TV IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6680/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cheebies Asia" tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="INDIA (New)",Cheebies Asia
@@ -953,16 +895,10 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6726/index.m3u
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EBC Kids" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",EBC Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w168363901.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekta TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Ekta TV
-http://fastway.ddns.net:6421/fastway/alive/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekta TV" tvg-logo="https://i.imgur.com/lGQbmsH.png" group-title="INDIA (New)",Ekta TV
-http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ET Now" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ET Now (New!)" tvg-logo="https://i.imgur.com/GmNK9Kz.png" group-title="INDIA (New)",ET Now (New!)
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Express Entertainment IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Express Entertainment IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6727/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Express News IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Express News IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6721/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FASTWAY TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",FASTWAY TV
@@ -973,12 +909,8 @@ http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6685/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flowers TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports News AU" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Fox Sports News AU
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6121/index.m3u
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX THAI" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",FOX THAI
 https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gabruu TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Gabruu TV
-http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gabruu TV IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Gabruu TV IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6691/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Garv Punjab Gurbani IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Garv Punjab Gurbani IN
@@ -991,8 +923,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6722/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6723/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf TV FR" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Golf TV FR
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6066/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GUBRU TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",GUBRU TV
-https://livetv.gabruu.com/live/mgabruutv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gulistan News IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Gulistan News IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6605/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gurbaani TV IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Gurbaani TV IN
@@ -1053,8 +983,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6675/index.m3u
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Kairali
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali TV IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Kairali TV IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6652/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali We IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Kairali We IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6656/index.m3u
 #EXTINF:-1 tvg-id="ext" tvg-name="Kappa TV (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Kappa TV (1)
@@ -1085,8 +1013,6 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mazhavil Manorama HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Mazhavil Manorama HD
 http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mazhavil Manorama IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Mazhavil Manorama IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6654/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Media One" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Media One
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MH1 Music" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",MH1 Music
@@ -1115,8 +1041,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8?Live-TV™
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV 24x7 (New!)" tvg-logo="https://i.imgur.com/jVWp0K4.png" group-title="INDIA (New)",NDTV 24x7 (New!)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV 24x7 IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",NDTV 24x7 IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6578/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV 24x7 IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",NDTV 24x7 IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6620/index.m3u
 #EXTINF:-1 tvg-id="NDTV.uk" tvg-name="NDTV India" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",NDTV India
@@ -1195,8 +1119,6 @@ http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Digital Plus (New!)" tvg-logo="https://i.imgur.com/1HOUzgr.png" group-title="INDIA (New)",Raj Digital Plus (New!)
 http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Digital Plus IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Raj Digital Plus IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6701/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj News IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Raj News IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6703/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj TV IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Raj TV IN
@@ -1257,8 +1179,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6655/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6714/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Swamiji TV" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/94/09/95/94099578-6caa-1648-4e66-818ea7e53728/mzl.gojhlglk.png/1080x800bb.jpg" group-title="INDIA (New)",Swamiji TV
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Swar Shree IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Swar Shree IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6645/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tarang IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Tarang IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6668/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thanthi TV" tvg-logo="https://i.imgur.com/MHH6UNS.png" group-title="INDIA (New)",Thanthi TV
@@ -1281,8 +1201,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6705/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6579/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Asia Telugu IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",TV Asia Telugu IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6717/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV One IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",TV One IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6729/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 News IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",TV5 News IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6712/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 Gujarati IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",TV9 Gujarati IN
@@ -1295,8 +1213,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6648/index.m3u
 http://81.196.0.126/utvedge/utvlivehls/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vaanavil TV (Opt-2)" tvg-logo="https://i.imgur.com/VZN9Hda.png" group-title="INDIA (New)",Vaanavil TV (Opt-2)
 http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vaani TV IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Vaani TV IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6621/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Anmol IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Zee Anmol IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6597/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bihar Jharkhand IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Zee Bihar Jharkhand IN
@@ -1315,8 +1231,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6658/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee MP & Chhattisgarh IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Zee MP & Chhattisgarh IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6594/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee News IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Zee News IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6591/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Punjabi IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Zee Punjabi IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6676/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Rajasthan IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Zee Rajasthan IN
@@ -1365,14 +1279,8 @@ https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
 https://ls1.serverdump.com/stream3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Islamic",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/8zmLbfi.png" group-title="Islamic",Peace TV Bangla
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peace TV Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Islamic",Peace TV Bangla
-https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="Islamic",Peace TV Bangla
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8?@IPTVSoltuion
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV English" tvg-logo="https://i.imgur.com/8zmLbfi.png" group-title="Islamic",Peace TV English
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peace TV English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Peace_TV_logo_2015.jpeg/120px-Peace_TV_logo_2015.jpeg" group-title="Islamic",Peace TV English
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peace TV Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Peace_TV_urdu_logo_2015.jpeg/120px-Peace_TV_urdu_logo_2015.jpeg" group-title="Islamic",Peace TV Urdu
@@ -1405,8 +1313,6 @@ https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Peace TV Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Religious",Peace TV Bangla
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="peace tv Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Religious",peace tv Bangla
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Saudi Quran" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Religious",Saudi Quran
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?Live-TV™
 #EXTINF:-1 tvg-id="ext" tvg-name="Saudi Sunnah" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Religious",Saudi Sunnah
@@ -1847,8 +1753,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6145/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6144/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Movies HD2 ACTION" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",beIN Movies HD2 ACTION
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6134/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Movies HD3 DRAMA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",beIN Movies HD3 DRAMA
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6135/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Movies HD4 FAMILY" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",beIN Movies HD4 FAMILY
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6136/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Better Health TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRO3kJty2-q6GJBx4CTtm2bnN8RbVgXJLHkTg&usqp=CAU" group-title="Movies",Better Health TV
@@ -1903,8 +1807,6 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8?Live-TV™
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX MOVIES PREMIUM (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",FOX MOVIES PREMIUM (2)
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Comedy IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",Gemini Comedy IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6711/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Movies IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",Gemini Movies IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6710/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini TV IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",Gemini TV IN
@@ -1953,8 +1855,6 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MBC Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQizUbUT8maNhKAFqfByMLR7iwuILbHrJ2Tlw&usqp=CAU" group-title="Movies",MBC Max HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MH1 News" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",MH1 News
-http://rtmp.smartstream.video:1935/mhonenews/mhonenews/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mirror Now" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MN+ HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",MN+ HD
@@ -1967,16 +1867,12 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
 #EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="Paramount HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",Paramount HD
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Canada TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Digital Plus" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",Raj Digital Plus
 http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
 #EXTINF:-1 tvg-id="RishteyCineplex.uk" tvg-name="Rishtey Cineplex" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",SET IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6575/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET Max IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",SET Max IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6574/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",SONY
 http://tvserver3.roarzone.info:25461/live/free/roarzone/38.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max 2 IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",Sony Max 2 IN
@@ -2173,10 +2069,6 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
 https://strm.yandex.ru/kal/fresh/fresh0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Gaan Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",Gaan Bangla
 http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Gabru Tv" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",Gabru Tv
-https://viacom-b.multitvsolution.com/viacomhls/gabrutv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gabruu TV" tvg-logo="https://i.imgur.com/k9kHJv9.jpg" group-title="Music",Gabruu TV
-http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM Arabia" tvg-logo="https://i.imgur.com/1VlArCc.png" group-title="Music",GEM Arabia
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GO-RTV" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="Music",GO-RTV
@@ -2286,11 +2178,9 @@ https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Pop पटाखा" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",Pop पटाखा
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8?Live-TV™
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Portalfoxmix" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",Portalfoxmix
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Portalfoxmix" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" group-title="Music",Portalfoxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Portalfoxmix" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",Portalfoxmix
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC Music IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",PTC Music IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6689/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Public Music" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",Public Music
@@ -2339,8 +2229,6 @@ https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6667/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Box" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TMA" tvg-logo="https://i.imgur.com/fQUzBsz.png" group-title="Music",TMA
-http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 tvg-id="TRT Muzik TR" tvg-name="TRT Muzik TR" tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" group-title="Music",TRT Muzik TR
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Duga Plus" tvg-logo="https://i.imgur.com/0RcNFXt.jpg" group-title="Music",TV Duga Plus
@@ -2383,8 +2271,6 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2200
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый Музыкальный RU HD BY" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",Первый Музыкальный RU HD BY
 http://rtmp.one.by:2300
-#EXTINF:-1 tvg-id="radio-shanson" tvg-name="Радио Шансон" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",Радио Шансон
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="radio-shanson" tvg-name="Радио Шансон" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Страна FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",Страна FM
@@ -2835,8 +2721,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6639/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6673/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="tvg-rec="0"PTC News IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)",tvg-rec="0"PTC News IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6674/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="tvg-rec="0"Public Music IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)",tvg-rec="0"Public Music IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6651/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="tvg-rec="0"R.Bharat IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)",tvg-rec="0"R.Bharat IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6628/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="tvg-rec="0"Re TV LV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)",tvg-rec="0"Re TV LV
@@ -2883,10 +2767,6 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Hits" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="BrightWall Technology (Channel)",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hits" tvg-logo="https://i.imgur.com/DD7eWYT.png" group-title="BrightWall Technology (Channel)",Hits
-http://45.126.83.51/uq2663/h/h37/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIX" tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="BrightWall Technology (Channel)",KIX
-http://45.126.83.51/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Madha TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtWLfpCe-J0G4yJ57dgi39n6IWtKYDuO0-dxlweYms-OObRI2s&usqp=CAU" group-title="BrightWall Technology (Channel)",Madha TV
 http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w303457150.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzBCSFMBs6XLSE16sz8vkJI6IgjXWNt_hDHg&usqp=CAU" group-title="BrightWall Technology (Channel)",MBC 2 HD
@@ -2899,8 +2779,6 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outdoor Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDeV5WGTJ3YnWvK-wZNPAXencA75lW_Z1nTA&usqp=CAU" group-title="BrightWall Technology (Channel)",Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="BrightWall Technology (Channel)",Peace TV Bangla
-http://peacetv.ashttp22.visionip.tv:80/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV English" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)",Peace TV English
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV Urdu" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)",Peace TV Urdu
