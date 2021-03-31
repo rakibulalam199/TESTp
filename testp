@@ -65,8 +65,6 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 http://10.16.100.203:8082/bangla/jamuna_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jonmobhumi TV" tvg-logo="http://www.jonmobhumi.tv/wp-content/uploads/2017/11/Final-Red-Logo.png" group-title="Bangla News",Jonmobhumi TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Millennium TV" tvg-logo="https://i.ibb.co/87GY8Qc/Millennium-TV.jpg" group-title="Bangla News",Millennium TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Mohona TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla News",Mohona TV
 http://10.16.100.205/hls/mohona_tv_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="My Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangla News",My Tv
@@ -189,8 +187,6 @@ https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8?Live-TV™
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MAASRANGA TV HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",MAASRANGA TV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Millennium TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Millennium TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Movie Bangla (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Movie Bangla (3)
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="NAN TV (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",NAN TV (3)
@@ -219,8 +215,6 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Sports",CHANNEL 9 HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1" group-title="Sports",T Sports
-http://209.126.120.153/hls/tsports.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="T Sports 2" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",T Sports 2
 http://10.16.100.201/hindi/sportsT.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports xSD" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="Sports",T Sports xSD
@@ -249,8 +243,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6126/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6127/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 7 HD QA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",beIN Sports 7 HD QA
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6128/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 9 HD QA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",beIN Sports 9 HD QA
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6130/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT SPORT 1 FHD UK" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",BT SPORT 1 FHD UK
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6566/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT SPORT 2 FHD UK" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",BT SPORT 2 FHD UK
@@ -295,8 +287,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6418/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/7184/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 SK" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Arena Sport 1 SK
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2550/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Auto Motor Sport RO" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Auto Motor Sport RO
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2539/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 1 HD FR" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Bein Sports 1 HD FR
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2499/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 2 HD FR" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Bein Sports 2 HD FR
@@ -797,8 +787,6 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi Channel (Opt-1)" tvg-logo="https://i.imgur.com/6q8JSAe.png" group-title="INDIA (New)",Desi Channel (Opt-1)
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi Channel IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Desi Channel IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6681/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi Plus" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIL SE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFDmgJeM34DwUJKQC4cLTxR3YJyml-lx3xOA2HOmpxpkaDQ3pN&usqp=CAU" group-title="INDIA (New)",DIL SE
@@ -999,8 +987,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6665/index.m3u
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop HUNGAMA" tvg-logo="https://i.postimg.cc/3xSS9fw9/Pop-Patakha-Hungama.png" group-title="INDIA (New)",Pop HUNGAMA
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prag News IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Prag News IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6631/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prajaa TV IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Prajaa TV IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6650/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prathana TV IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Prathana TV IN
@@ -1043,8 +1029,6 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6629/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sadhna" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Sadhna
 http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/chunklist_w2070665598.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sadhna Plus News IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Sadhna Plus News IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6619/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sadhna Prime News IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Sadhna Prime News IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6603/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sadhna TV IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Sadhna TV IN
@@ -1077,8 +1061,6 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6623/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sneha TV IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Sneha TV IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6715/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Soham IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=truehttps://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Soham IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6607/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Marathi IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",Sony Marathi IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6662/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN TV IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIA (New)",SUN TV IN
@@ -1207,8 +1189,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?Live-TV™
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Karbala Live 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious",Karbala Live 1
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Karbala Live 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious",Karbala Live 4
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nour Al Sharq" tvg-logo="https://i.imgur.com/hiAwky4.jpg" group-title="Religious",Nour Al Sharq
 https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nour Mariam" tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="Religious",Nour Mariam
@@ -1657,8 +1637,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6144/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6134/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Movies HD4 FAMILY" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",beIN Movies HD4 FAMILY
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6136/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Better Health TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRO3kJty2-q6GJBx4CTtm2bnN8RbVgXJLHkTg&usqp=CAU" group-title="Movies",Better Health TV
-http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/chunklist_w1792145345.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bflix Movie" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",Bflix Movie
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Bflix Movie (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",Bflix Movie (1)
@@ -2113,8 +2091,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6667/index.m3u
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-id="TRT Muzik TR" tvg-name="TRT Muzik TR" tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" group-title="Music",TRT Muzik TR
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Duga Plus" tvg-logo="https://i.imgur.com/0RcNFXt.jpg" group-title="Music",TV Duga Plus
-http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="U tv Lives" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",U tv Lives
 http://81.196.0.126/utvedge/utvlivehls/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V2Beat TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",V2Beat TV
@@ -2697,8 +2673,6 @@ https://radioindia.net/radio/sc-bb/icecast.audio
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Punjabi Radio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Bollywood Punjabi Radio
 http://stream.zeno.fm/1k0y9f0cm0quv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Radio and Beyond" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Bollywood Radio and Beyond
-http://185.80.220.12:8046/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colours FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Colours FM
 http://45.64.135.88:8000/stream1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Dhaka FM
@@ -2735,10 +2709,6 @@ http://prclive1.listenon.in:9960/
 http://prclive1.listenon.in:8994
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio City Smaran" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio City Smaran
 http://prclive1.listenon.in:9950/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Ekattor" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio Ekattor
-http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Ekattor (98.4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio Ekattor (98.4)
-http://162.254.149.187:9302/;stream/1;
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Foorti (88.0)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio Foorti (88.0)
 http://119.148.23.88:1021/;?@IPTVSoltuion
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Goongoon" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)",Radio Goongoon
@@ -2785,8 +2755,6 @@ http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SaRaHa" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)",SaRaHa
 http://node-30.zeno.fm/5hx71hbuqhruv?listening-from-radio-garden=1601016201300&rj-tok=AAABdMQJqSIA6Gf4cI6DZUMhdA&rj-ttl=5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spice FM" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)",Spice FM
-http://162.254.149.187:9300/;?listening-from-radio-garden=1601016233761
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suno FM 102." tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)",Suno FM 102.
 http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Buddhist Online Radio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)",The Buddhist Online Radio
