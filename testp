@@ -3,8 +3,6 @@
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://10.16.100.244/files/jamuna.png" group-title="Bangla News",Jamuna TV
 https://rhridoy136.shortcm.li/jamunatv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV" tvg-logo="http://10.16.100.244/files/jamuna.png" group-title="Bangla News",JAMUNA TV
-http://10.16.100.203:8082/bangla/jamuna_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="http://10.16.100.244/files/dbcnews(1).png" group-title="Bangla News",DBC News
 https://rhridoy136.shortcm.li/dbcnews.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC NEWS" tvg-logo="http://10.16.100.244/files/dbcnews(1).png" group-title="Bangla News",DBC NEWS
