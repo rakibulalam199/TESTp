@@ -203,6 +203,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Voice TV (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Voice TV (2)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="http://10.16.100.244/files/tsports(1).png" group-title="Sports",T Sports
+http://10.16.100.207:8082/sports/sportst.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports 2" tvg-logo="http://10.16.100.244/files/tsports(1).png" group-title="Sports",T Sports 2
+http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Sports",CHANNEL 9 HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjiki2SblaE5chW0QPeV1wAWHfdQ8i6SfJ0HK8KtX5L_UvLI5_&usqp=CAU" group-title="Sports",AD Sports 1
@@ -1453,12 +1457,8 @@ http://10.16.100.202/ftps10/iccftps10sasd7/Movies/South%20Indian/Telegu/Alludu%2
 http://10.16.100.248/ftps6d4/Movies/South%20Indian/Pulikkuthi%20Pandi%20(2021)%20Tamil%201080p%C2%A0WEBDL.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKUNTHI" tvg-logo="http://10.16.100.244/files/kunthi.jpg" group-title="BrightWall Technology (Movie)",SKUNTHI
 http://10.16.100.248/ftps6d1/Movies/South%20Indian/Kunthi%20(2021)%201080p%20BluRay%20.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOLO BRATHUKE SO BETTER" tvg-logo="http://10.16.100.244/files/solo_brathuke_so_better.jpg" group-title="BrightWall Technology (Movie)",SOLO BRATHUKE SO BETTER
-http://10.16.100.248/ftps6d4/Movies/South%20Indian(Hindi%20Dubbed)/Solo%20Brathuke%20So%20Better%20(2021)%201080p%20WEBDL.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE CROODS A NEW AGE" tvg-logo="http://10.16.100.244/files/the_croods_a_new_age.jpg" group-title="BrightWall Technology (Movie)",THE CROODS A NEW AGE
 http://10.16.100.248/ftps6d1/Movies/Animation/The%20Croods%20A%20New%20Age%20(2020)%201080p%20WEBRip.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WORLD FAMOUS LOVER" tvg-logo="http://10.16.100.244/files/world_famous_lover__hindi_dubbed_.jpg" group-title="BrightWall Technology (Movie)",WORLD FAMOUS LOVER
-http://10.16.100.202/ftps10/iccftps10sasd3/Movies/South%20Indian%20(Hindi%20Dubbed)/World%20Famous%20Lover%20(2021)%201080p%20WEBRip.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15 Lakh Kadon Aauga 2020 Punjabi 720p" tvg-logo="https://i.pinimg.com/originals/36/bf/89/36bf89563aab0807c66b717e34edb047.jpg" group-title="BrightWall Technology (Movie)",15 Lakh Kadon Aauga 2020 Punjabi 720p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/15%20Lakh%20Kadon%20Aauga%20%282020%29/15%20Lakh%20Kadon%20Aauga%202020%20Punjabi%20720p%20AMZN%20WEBRip%20AAC%20x264%20-%20LOKiHD%20-%20Telly.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="376 D (2020) Hindi 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BODhlM2IwNjUtZmEyMy00MGU1LWJiY2QtMDYyZWM4MjUxZTk0XkEyXkFqcGdeQXVyMTI0NTI1MDEw._V1_.jpg" group-title="BrightWall Technology (Movie)",376 D (2020) Hindi 720p
